@@ -404,7 +404,7 @@ figure{text-align:center;}
 figcaption{color:grey;font:10px arial; text-align: center;}
 
 div.img_name {
-  font-size: 0.8em; margin: -16px; margin-bottom: 12px;
+  font-size: 0.8em; margin: 2px; margin-bottom: 12px;
   text-align: center;
   color:#e16655;
 }
