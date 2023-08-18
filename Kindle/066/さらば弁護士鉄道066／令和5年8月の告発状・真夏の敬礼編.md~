@@ -1,0 +1,207 @@
+# 告発の事実
+
+## 平成11年（わ）第238号傷害被告事件刑事裁判の犯罪性
+
+### 出発点となる被告発人小川賢司裁判官の金沢地裁判決
+
+<div style="font-size:9pt; color:crimson;">
+〉〉〉 MacBook Emacs： 2023/08/18 16:12:02 〉〉〉
+</div><br />
+
+<div class="q1">
+~/Dropbox/Mac/Documents/kk2023part3/kk2023_07/Kindle/066 main*
+❯ stat さらば弁護士鉄道066／令和5年8月の告発状・真夏の敬礼編.md
+  File: さらば弁護士鉄道066／令和5年8月の告発状・真夏の敬礼編.md
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 1,14	Inode: 71999169    Links: 1
+Access: (0644/-rw-r--r--)  Uid: (  502/     a66)   Gid: (   20/   staff)
+Access: 2023-08-18 16:04:47.600230000 +0900
+Modify: 2023-08-18 16:04:47.600230000 +0900
+Change: 2023-08-18 16:04:47.600251904 +0900
+ Birth: 2023-08-18 16:04:47.600140168 +0900
+
+~/Dropbox/Mac/Documents/kk2023part3/kk2023_07/Kindle/066 main*
+❯ 
+</div>
+
+<div style="margin-top:40px;"></div>
+
+　8月18日ということで、これから涼しくなっていく季節ですが、「令和5年8月の告発状」だけでは特徴がないので、「・真夏の敬礼編」を付けることにしました。
+
+　平成11年も夏も暑い日が続いていましたが、安藤健次郎さんに対する傷害事件を起こしたのが8月8日の日曜日、夜の8時頃になるのか、外がすっかり暗くなっていたと記憶にあるので19時半から20時の間になるのではと思いますが、仕事から戻った玉鉾の会社前で、金沢中警察署の警察官に逮捕されました。
+
+　いつもは玉鉾の会社から諸江の支店に戻って仕事が終わるのですが、その日は玉鉾の前に諸江の支店に立ち寄ったことを覚えています。
+
+　金沢中警察署の留置場での生活が始まり、連日、炎天下の外仕事だったので、クーラーが効き快適に感じたことも印象的に記憶にあります。さらに涼しくなっていたと覆いますが、9月の21日辺りに、金沢刑務所の拘置所に移送され、平成6年の2月以来となる同じ拘置舎2階での独居房の生活が始まりました。
+
+　初公判の時期も公判の回数も記憶にはないですが、平成15年に再審請求のために金沢地方検察庁の記録係で受け取ることになった被告発人小川賢司裁判官の判決は、判決の日付が12月21日になっています。
+
+　後半の回数は、たぶん平成4年の傷害・準強姦被告事件と同じで、初公判、結審となる公判、判決公判の3回であったと思います。
+
+- 【Python】日付の間隔（日数）を求める | 鎖プログラム https://pg-chain.com/python-datetime-days
+
+<div style="margin-top:10px;"></div>
+
+<div class="d3">
+❯ ipython                                                               
+Python 3.9.10 (main, Sep 26 2022, 14:02:41) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 8.7.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: from datetime import datetime
+
+In [2]: dt1 = datetime(1999,8,12)
+
+In [3]: dt2 = datetime(1999,12,21)
+
+In [4]: dt2 - dt1
+Out[4]: datetime.timedelta(days=131)
+
+In [5]: H4dt1 = datetime(1992,4,1)
+
+In [6]: H4dt2 = datetime(1992,8,3)
+
+In [7]: H4dt2 - H4dt1
+Out[7]: datetime.timedelta(days=124)
+
+In [8]: 
+</div>
+
+<div style="margin-top:40px;"></div>
+
+　検索で調べた方法を参考に日数計算をしてみました。131日と124日で、平成11年の傷害事件の方が7日多いようです。
+
+　ついでに逮捕されてから満期出所した日までの日数を計算しました。
+
+<div class="d3">
+In [10]: h4 = datetime(1992,4,1)
+
+In [11]: h9 = datetime(1997,1,18)
+
+In [12]: print(h9 - h4)
+1753 days, 0:00:00
+
+In [13]: h11 = datetime(1999,8,12)
+
+In [14]: h13 = datetime(2001,12,31)
+
+In [15]: print(h9 - h4)
+1753 days, 0:00:00
+
+In [16]: print(h13 - h11)
+872 days, 0:00:00
+
+In [17]:
+</div>
+
+　1753日と872日になっています。平成4年の傷害・準強姦被告事件は4年10ヶ月と計算した覚えがありますが、判決は懲役4年です。
+
+<div class="d3">
+In [17]: 872 % 365
+Out[17]: 142
+
+In [18]: 142 + 60
+Out[18]: 202
+
+In [19]: 1752 % ((365 * 5) - ((31 - 18) + 28 + 30))
+Out[19]: 1752
+
+In [20]: 365 * 5
+Out[20]: 1825
+
+In [21]: 1825 - 1752
+Out[21]: 73
+
+In [22]: 1752 % (365 * 4)
+Out[22]: 292
+
+In [23]: 
+</div>
+
+　わかりづらい計算になっているかと思いますが、平成4年の傷害・準強姦被告事件が懲役4年に対してプラス292日、平成11年の傷害事件が懲役1年8月に対して262のプラスとなっています。上記の計算は懲役1年10月という間違いがあったので、次の通りに計算のやり直しをしました。
+
+<div class="d3">
+In [23]: print(h13 - h11)
+872 days, 0:00:00
+
+In [24]: print(872 % ((365 * 2) - (30 * 4)))
+262
+
+In [25]: 
+</div>
+
+　計算違いがあるかもしれないですが、福井刑務所で平成6年から8年当時、仮釈放の相場と言われた4ピン、で計算しました。少し曖昧な記憶ですが4分の3を4ピン、3分の2を3ピンと呼ばれていたという記憶です。4ピンは掛ける0.25を差し引くという計算にしました。
+
+<div class="d3">
+In [25]: (365 * 4)
+Out[25]: 1460
+
+In [26]: (365 * 4) - ((365 * 4) * 0.25)
+Out[26]: 1095.0
+
+In [27]: (h9 - h4) - 1095
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+Cell In[27], line 1
+----> 1 (h9 - h4) - 1095
+
+TypeError: unsupported operand type(s) for -: 'datetime.timedelta' and 'int'
+
+In [28]: int(h9 - h4) - 1095
+---------------------------------------------------------------------------
+TypeError                                 Traceback (most recent call last)
+Cell In[28], line 1
+----> 1 int(h9 - h4) - 1095
+
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'datetime.timedelta'
+
+In [29]: ((h9 - h4) / timedelta(days=1)) - 1095
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+Cell In[29], line 1
+----> 1 ((h9 - h4) / timedelta(days=1)) - 1095
+
+NameError: name 'timedelta' is not defined
+
+In [30]: from datetime import timedelta
+
+In [31]: ((h9 - h4) / timedelta(days=1)) - 1095
+Out[31]: 658.0
+
+In [32]: 
+
+</div>
+
+　相場より約658日長く服役したという計算になりますが、これは正しくなく、判決が確定した、あるいは、工場出役が始まってからの計算になるはずです。受刑者の間ではいろいろと話がありましたが、実際、正しいことはよくわかりませんでした。新入教育のときにも細かい説明はなかったと思います。
+
+- PythonのPandas Dataframeで日数差（timedelta）を整数と計算する方法 | KMT92 http://kmt92.main.jp/2020/04/12/python%E3%81%AEpandas-dataframe%E3%81%A7%E6%97%A5%E6%95%B0%E5%B7%AE%EF%BC%88timedelta%EF%BC%89%E3%82%92%E6%95%B4%E6%95%B0%E3%81%A8%E8%A8%88%E7%AE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/
+
+　データ型の違いでエラーが出ていたので、上記のページを参考に修正しました。ネット接続ができれば、すぐに出来るような調べものです。
+
+<div class="d3">
+NameError: name 'H4' is not defined
+
+In [33]: h4
+Out[33]: datetime.datetime(1992, 4, 1, 0, 0)
+
+In [34]: h4 + (timedelta(days=300))
+Out[34]: datetime.datetime(1993, 1, 26, 0, 0)
+
+In [35]: (365 * 4) * 0.75
+Out[35]: 1095.0
+
+In [36]: h4 + (timedelta(days=(365 * 4) * 0.75))
+Out[36]: datetime.datetime(1995, 4, 1, 0, 0)
+
+In [37]: 
+</div>
+
+　逮捕された平成4年4月1日からの計算なので違いがありますが、相場だと4ピンの仮釈放で平成7年の8月頃には仮釈放されていことになりそうです。
+
+　そもそも平成4年の傷害・準強姦被告事件は、懲役4年が判決の認定された事実や理由に照らし、かなり軽いようには感じていました。求刑も同じ懲役4年でしたが、言い渡しが終わった後の三宅俊一郎裁判長は、不服があれば控訴が出来るなどと説明をしながら、自信ありげで、求刑の上限に合わせてやった、という不満足感が伝わるような表情と話しぶりでした。
+
+<div style="font-size:9pt; color:crimson;">
+〈〈〈 2023/08/18 17:50:10 MacBook Emacs： 〈〈〈 
+</div>
+<div style="page-break-before:always"></div>
+
