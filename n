@@ -1,0 +1,203 @@
+Darwin
+/Users/a66/mac-bin/h3-mysql-regexp-html.py -s "@sssse4t"
+
+SELECT * FROM tw_hirono WHERE tweet REGEXP '@sssse4t' ORDER BY date ASC;
+
+2023-11-16_223017の実行記録
+
+
+- （1／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2020-04-08 20:08:08
+> 2020-04-08-200726_深澤諭史さんがリツイートさんかいめソフト@sssse4t·4時間修習生の兼業申請ローでの講義や答練のみ認める運用をしているというような説明ですがご都合主義.jpg http://pic.twitter.com/9ZZlXvi8NJ 
+ツイートのURL： https://twitter.com/s_hirono/status/1247843791785979915
+
+- （2／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（）2020-04-08 20:18:18
+> 2020年04月08日20時06分の登録： ＼さんかいめソフト　@sssse4t＼修習生の兼業申請
+> ローでの講義や答練のみ認める運用をしている
+> というような説明ですが
+> ご都合主義では
+> 
+> 兼業の禁止が修習の実をあげら http://hirono2014sk.blogspot.com/2020/04/sssse4t.html 
+ツイートのURL： https://twitter.com/hirono_hideki/status/1247846273102667778
+
+- （3／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-08 00:24:24：
+> RT @sssse4t: ひるめし&#127869; http://pic.twitter.com/BYXVYyWZdm 
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1291757087630925824 ／ 
+
+- （4／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-28 14:10:10：
+> RT @sssse4t: 弁護士ドットコム様、取材してくださった若柳様、誠にありがとうございます！ 
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1299212716691697665 ／ 
+
+- （5／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-28 14:17:17：
+> RT @sssse4t: これ僕が作ってるゲームです 
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1299214381381595136 ／ 
+
+- （6／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（）2021-01-04 03:34:34
+> - 2021年01月03日23時10分の登録： ＼さんかいめ　@sssse4t＼たとえTwitterの上であっても「弁護士って面白くて優しい人多いな」って思われたほうが絶対得だよね陰湿で退屈な人たちだと思われたら損失だ http://kk2020-09.blogspot.com/2021/01/sssse4ttwitter.html 
+ツイートのURL： https://twitter.com/hirono_hideki/status/1345800604275249152
+
+- （7／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-04-04 21:10:10：
+> RT @sssse4t: 日本人って警察を信じきってるよな 
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1378681443287588868 ／ 
+
+- （8／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2021-04-04 21:12:12
+> 2021-04-04-211102_深澤諭史さんがリツイート￼卒留女さんかいめ@sssse4t·9時間日本人って警察を信じきってるよな取調べに弁護士同席不可とかいう謎のローカル.jpg http://pic.twitter.com/BxfDKDJr3X 
+ツイートのURL： https://twitter.com/s_hirono/status/1378681786528530433
+
+- （9／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-08-29 15:12:28：
+> RT @sssse4t: 司法試験発表の日調べようとしたら発狂が先にきよったで
+> ( ;´꒳`;) https://t.co/xMXBaMReRE
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1431862294493876226 ／ 
+
+- （10／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2021-08-29 15:26:22
+> 2021-08-29-151158_深澤諭史さんがリツイート卒留女さんかいめ（独身）@sssse4t·2時間司法試験発表の日調べようとしたら発狂が先にきよったで（　；´꒳｀；）.jpg https://t.co/SamdrK2hLE
+ツイートのURL： https://twitter.com/s_hirono/status/1431865794166595588
+
+- （11／40／669647：検索：@sssse4t）リツイート：@kk_hirono（）：@（） 2021-09-06 07:03:03：
+> RT @sssse4t: 「知り合いの弁護士に相談したら絶対〇〇○できるっていってくれたんですよ」 
+リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1434638276300709897 ／ 
+
+- （12／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-11-28 08:10:58：
+> RT @sssse4t: 若輩の意見ですが、弁護士の仕事ってカレーのお鍋を50個くらい火にかけたままかき混ぜる作業に似てる気がしております、、、
+> 焦げる焦げるｹﾞｯ!(꒪ꇴ꒪|||)
+> っていつも思ってます
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1464733516428906498 ／ 
+
+- （13／40／669647：検索：@sssse4t）ツイート：@kk_hirono（）2021-12-02 11:19:18
+> RT @sssse4t: (´⊙ω⊙`)
+> 誤解を解く努力をしていただかないと、先生のことが私にもわからないままですよ....釣りではないと信じております....おやすみなさい
+> _([▓▓] ˘ω˘ )_ｽﾔｧ… https://t.co/xNBJFBqT9U
+ツイートのURL： https://twitter.com/kk_hirono/status/1466230463769370629
+
+- （14／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）2021-12-25 20:47:50
+> @sssse4t @hytustk 諸行無常の弁護士商売繁盛を考えさせられます。欲望を剥き出しにした野性味と危険性を禁じえません。→
+> ぼったくり？ガールズバー無銭飲食事件無罪判決を公開します｜弁護士服部啓一郎｜note… https://t.co/C6msVXUqTB
+ツイートのURL： https://twitter.com/hirono_hideki/status/1474708460709490692
+
+- （15／40／669647：検索：@sssse4t）ツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）2022-02-09 20:17:15
+> 2022-02-09_201313_深澤諭史さんがリツイート　さんかいめ　@sssse4t　今も確認したんやけどやっぱり俺売上すげぇよ（´⊙ω⊙`）同期入所の平均の倍あ.jpg https://t.co/Pp9WVsnAt4
+ツイートのURL： https://twitter.com/s_hirono/status/1491370606352224256
+
+- （16／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-05-02 19:23:45：2022-04-30 19:40:05
+> RT @sssse4t: これ私です https://t.co/ivvqp2sPNX
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1521072949297434624 ／ https://twitter.com/sssse4t/status/1520352280717176833
+
+- （17／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-05-23 22:10:05：2022-05-20 22:32:29
+> RT @sssse4t: うまい棒ですら10円するのに法律相談が無料なのは絶対納得いかない。
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1528724952299765761 ／ https://twitter.com/sssse4t/status/1527643423951712259
+
+- （18／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-11-30 01:41:25：2022-11-29 18:35:36
+> RT @sssse4t: 弁護士になってから全てがうまく行ってる、、、、周りの助けを常に感じるな、全ては巡り合わせだ
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1597631831381532672 ／ https://twitter.com/sssse4t/status/1597524671100248064
+
+- （19／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:30:31：2022-12-10 21:35:11
+> RT @sssse4t: @fukazawas 開示の決断と開示後の対応も当職において意識しておくとともに、当然、流れを説明して信頼してもらって受任しておりますので、先生のご助力が大半です！
+> (｀･∀･´)ﾌﾝｽ
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585153503293441 ／ https://twitter.com/sssse4t/status/1601556130680909826
+
+- （20／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:31:29：2022-12-10 21:32:25
+> RT @sssse4t: 先生の本読んで発信者開示やりましたよ。
+> (›´ω`‹ ) ｹﾞｯｿﾘ https://t.co/FrWxGjSv7a
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585397745664001 ／ https://twitter.com/sssse4t/status/1601555432291848192
+
+- （21／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:08：2022-12-10 19:49:06
+> RT @sssse4t: 無限列車編やってるね！
+> 結核の人が列車乗ってていいの？？？
+> (  ･᷄ὢ･᷅  )(  ･᷄ὢ･᷅  )(  ･᷄ὢ･᷅  )
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585560946356224 ／ https://twitter.com/sssse4t/status/1601529432291672065
+
+- （22／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:25：2022-12-10 20:08:17
+> RT @sssse4t: タダで観れるなんて無賃乗車編やな
+> は(੭ु´ ᐜ ` )੭ुﾊﾟﾀﾊﾟﾀ
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585631142248449 ／ https://twitter.com/sssse4t/status/1601534261009387520
+
+- （23／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:53：2022-12-10 16:25:42
+> RT @sssse4t: およげ!たいやきくんは、二番の歌詞において、自分は難波船を棲家にしていると前置きしたうえで、時々鮫にいじめられると供述していますが、鮫はそんなことしませんよ
+> :;(∩´﹏`∩);:
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585751216427008 ／ https://twitter.com/sssse4t/status/1601478246771527680
+
+- （24／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）2022-12-10 23:43:12
+> 2022-12-10_23:34 奉納＼#危険生物・弁護士脳汚染除去装置＼#金沢地方検察庁御中_2020: @sssse4t（さんかいめ）のツイート　”．＊”　3223／3223：2022-07-26_1927〜2022-12-1… https://t.co/zN3KOOrGwW
+ツイートのURL： https://twitter.com/hirono_hideki/status/1601588348401094656
+
+- （25／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:46:51
+> SS: 2022-12-10_233043_さんかいめ　@sssse4t　@fukazawas　開示の決断と開示後の対応も当職において意識しておくとともに、当然、流れを説明して.jpg https://t.co/6NpChE4eSy
+ツイートのURL： https://twitter.com/kk_hirono/status/1601740259183964160
+
+- （26／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:46:55
+> SS: 2022-12-10_233141_さんかいめ　@sssse4t　先生の本読んで発信者開示やりましたよ。　（›´ω`‹　）　ｹﾞｯｿﾘ　https：／／t。co／FrW.jpg https://t.co/S7REV3MyhP
+ツイートのURL： https://twitter.com/kk_hirono/status/1601740277546303488
+
+- （27／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:50:25
+> - 2022年12月10日23時34分の登録： @sssse4t（さんかいめ）のツイート　”．＊”　3223／3223：2022-07-26_1927〜2022-12-10_2224　2022年12月10日23時33分の記録 https://t.co/om9o4n6Q69
+ツイートのURL： https://twitter.com/kk_hirono/status/1601741158689873921
+
+- （28／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-23 13:23:20：2022-12-22 21:24:10
+> RT @sssse4t: 登録から一年で1000万いったのは我ながらすごい！褒めてくださいね
+リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1606143395122274305 ／ https://twitter.com/sssse4t/status/1605902012192739328
+
+- （29／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-29 14:16:51：2022-12-28 22:20:26
+> RT @sssse4t: 入所説明会のパワポつくった https://t.co/wqbA5IhRtz
+リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1608331190762876928 ／ https://twitter.com/sssse4t/status/1608090500606873602
+
+- （30／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:02:38
+> kohiyok（@abekiyohiko2）
+> ユーザ名称：kohiyok [screen_name]ユーザ名：@abekiyohiko2 フォロー数：1116 フォロワー数：671 ツイート数：12551
+> sssse4t
+> さんかいめ（@sssse4t）
+ツイートのURL： https://twitter.com/kk_hirono/status/1614624098843521024
+
+- （31／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:02:45
+> sssse4t
+> さんかいめ（@sssse4t）
+> ユーザ名称：さんかいめ [screen_name]ユーザ名：@sssse4t フォロー数：8583 フォロワー数：10807 ツイート数：40975
+> ven_law1113
+ツイートのURL： https://twitter.com/kk_hirono/status/1614624129713590275
+
+- （32／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:40:05
+> - （210／243） TW @sssse4t（さんかいめ） 日時： 2023-01-14 19:51:31 +0900 URL： https://t.co/dVkaXYmSTN
+> > @fukazawas (´°̥̥̥̥̥̥̥̥ω… https://t.co/jQhpdNS0G9
+ツイートのURL： https://twitter.com/kk_hirono/status/1614633524098924550
+
+- （33／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2023-01-16 19:10:54：2023-01-16 15:55:35
+> RT @sssse4t: 弊所へ
+> 
+> 上納今月は１７万入れましたよ。私より。
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1614928168825257986 ／ https://twitter.com/sssse4t/status/1614879016980475909
+
+- （34／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2023-01-17 08:58:54：2023-01-16 15:16:41
+> RT @sssse4t: Qさんかいめ先生の宝物はなんですか？家族や友人ですか？
+> 
+> A
+> これ！個人事件は自分で押してます。個人事業主としての自覚を私にくれる大切なはんこなのだ
+> (｀･∀･´)ﾌﾝｽ https://t.co/7lsZqsVOMt
+リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1615136542581981184 ／ https://twitter.com/sssse4t/status/1614869227151974402
+
+- （35／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-18 22:21:52：2023-01-18 15:42:27
+> RT @sssse4t: これが本当の私です https://t.co/M6voaZQ5ML
+リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1615701006519775234 ／ https://twitter.com/sssse4t/status/1615600488489320450
+
+- （36／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-20 23:40:31：2023-01-19 12:36:38
+> RT @sssse4t: ひいては、他の先生から悩みを打ち明けられた時に、まず責めない
+リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1616445572554293248 ／ https://twitter.com/sssse4t/status/1615916113405304832
+
+- （37／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-29 00:12:20：2023-01-28 18:21:01
+> RT @sssse4t: これ私です https://t.co/QDgKJdq85v
+リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1619352684255133696 ／ https://twitter.com/sssse4t/status/1619264271774547968
+
+- （38／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（都内独居女性さんかいめ） 2023-02-23 21:04:41：2023-02-19 22:18:12
+> RT @sssse4t: 弁護士辞めました。
+> 理由は本気でTwitterを極めようと思ったからです。
+> 親とボスにめちゃくちゃ止められたけど絶対俺ならトップになれるって言ってなんとか説得しました。
+> 今日から毎日13時間ツイートします。
+> これからよろしくお願いします。
+リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1628727545851187207 ／ https://twitter.com/sssse4t/status/1627296493152669696
+
+- （39／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（都内独居女性さんかいめ） 2023-03-27 17:51:03：2023-03-27 13:45:05
+> RT @sssse4t: 頑張りシールをよこせや
+リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1640275225102409731 ／ https://twitter.com/sssse4t/status/1640213328789389312
+
+- （40／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（限界都内独居女性さんかいめ） 2023-04-17 17:44:42：2023-04-15 11:01:22
+> RT @sssse4t: @fukazawas 僕も同じことを言いたかったのです！
+> _(_*`ω´*)_ﾌﾝｽﾌﾝｽ‼( *¯ ꒳¯*)ﾌﾝｽｯ!
+リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1647883771587497984 ／ https://twitter.com/sssse4t/status/1647057497688252417
+
