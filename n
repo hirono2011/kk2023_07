@@ -1,203 +1,1202 @@
-Darwin
-/Users/a66/mac-bin/h3-mysql-regexp-html.py -s "@sssse4t"
-
-SELECT * FROM tw_hirono WHERE tweet REGEXP '@sssse4t' ORDER BY date ASC;
-
-2023-11-16_223017の実行記録
-
-
-- （1／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2020-04-08 20:08:08
-> 2020-04-08-200726_深澤諭史さんがリツイートさんかいめソフト@sssse4t·4時間修習生の兼業申請ローでの講義や答練のみ認める運用をしているというような説明ですがご都合主義.jpg http://pic.twitter.com/9ZZlXvi8NJ 
-ツイートのURL： https://twitter.com/s_hirono/status/1247843791785979915
-
-- （2／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（）2020-04-08 20:18:18
-> 2020年04月08日20時06分の登録： ＼さんかいめソフト　@sssse4t＼修習生の兼業申請
-> ローでの講義や答練のみ認める運用をしている
-> というような説明ですが
-> ご都合主義では
-> 
-> 兼業の禁止が修習の実をあげら http://hirono2014sk.blogspot.com/2020/04/sssse4t.html 
-ツイートのURL： https://twitter.com/hirono_hideki/status/1247846273102667778
-
-- （3／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-08 00:24:24：
-> RT @sssse4t: ひるめし&#127869; http://pic.twitter.com/BYXVYyWZdm 
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1291757087630925824 ／ 
-
-- （4／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-28 14:10:10：
-> RT @sssse4t: 弁護士ドットコム様、取材してくださった若柳様、誠にありがとうございます！ 
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1299212716691697665 ／ 
-
-- （5／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2020-08-28 14:17:17：
-> RT @sssse4t: これ僕が作ってるゲームです 
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1299214381381595136 ／ 
-
-- （6／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（）2021-01-04 03:34:34
-> - 2021年01月03日23時10分の登録： ＼さんかいめ　@sssse4t＼たとえTwitterの上であっても「弁護士って面白くて優しい人多いな」って思われたほうが絶対得だよね陰湿で退屈な人たちだと思われたら損失だ http://kk2020-09.blogspot.com/2021/01/sssse4ttwitter.html 
-ツイートのURL： https://twitter.com/hirono_hideki/status/1345800604275249152
-
-- （7／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-04-04 21:10:10：
-> RT @sssse4t: 日本人って警察を信じきってるよな 
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1378681443287588868 ／ 
-
-- （8／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2021-04-04 21:12:12
-> 2021-04-04-211102_深澤諭史さんがリツイート￼卒留女さんかいめ@sssse4t·9時間日本人って警察を信じきってるよな取調べに弁護士同席不可とかいう謎のローカル.jpg http://pic.twitter.com/BxfDKDJr3X 
-ツイートのURL： https://twitter.com/s_hirono/status/1378681786528530433
-
-- （9／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-08-29 15:12:28：
-> RT @sssse4t: 司法試験発表の日調べようとしたら発狂が先にきよったで
-> ( ;´꒳`;) https://t.co/xMXBaMReRE
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1431862294493876226 ／ 
-
-- （10／40／669647：検索：@sssse4t）ツイート：@s_hirono（）2021-08-29 15:26:22
-> 2021-08-29-151158_深澤諭史さんがリツイート卒留女さんかいめ（独身）@sssse4t·2時間司法試験発表の日調べようとしたら発狂が先にきよったで（　；´꒳｀；）.jpg https://t.co/SamdrK2hLE
-ツイートのURL： https://twitter.com/s_hirono/status/1431865794166595588
-
-- （11／40／669647：検索：@sssse4t）リツイート：@kk_hirono（）：@（） 2021-09-06 07:03:03：
-> RT @sssse4t: 「知り合いの弁護士に相談したら絶対〇〇○できるっていってくれたんですよ」 
-リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1434638276300709897 ／ 
-
-- （12／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（）：@（） 2021-11-28 08:10:58：
-> RT @sssse4t: 若輩の意見ですが、弁護士の仕事ってカレーのお鍋を50個くらい火にかけたままかき混ぜる作業に似てる気がしております、、、
-> 焦げる焦げるｹﾞｯ!(꒪ꇴ꒪|||)
-> っていつも思ってます
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1464733516428906498 ／ 
-
-- （13／40／669647：検索：@sssse4t）ツイート：@kk_hirono（）2021-12-02 11:19:18
-> RT @sssse4t: (´⊙ω⊙`)
-> 誤解を解く努力をしていただかないと、先生のことが私にもわからないままですよ....釣りではないと信じております....おやすみなさい
-> _([▓▓] ˘ω˘ )_ｽﾔｧ… https://t.co/xNBJFBqT9U
-ツイートのURL： https://twitter.com/kk_hirono/status/1466230463769370629
-
-- （14／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）2021-12-25 20:47:50
-> @sssse4t @hytustk 諸行無常の弁護士商売繁盛を考えさせられます。欲望を剥き出しにした野性味と危険性を禁じえません。→
-> ぼったくり？ガールズバー無銭飲食事件無罪判決を公開します｜弁護士服部啓一郎｜note… https://t.co/C6msVXUqTB
-ツイートのURL： https://twitter.com/hirono_hideki/status/1474708460709490692
-
-- （15／40／669647：検索：@sssse4t）ツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）2022-02-09 20:17:15
-> 2022-02-09_201313_深澤諭史さんがリツイート　さんかいめ　@sssse4t　今も確認したんやけどやっぱり俺売上すげぇよ（´⊙ω⊙`）同期入所の平均の倍あ.jpg https://t.co/Pp9WVsnAt4
-ツイートのURL： https://twitter.com/s_hirono/status/1491370606352224256
-
-- （16／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-05-02 19:23:45：2022-04-30 19:40:05
-> RT @sssse4t: これ私です https://t.co/ivvqp2sPNX
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1521072949297434624 ／ https://twitter.com/sssse4t/status/1520352280717176833
-
-- （17／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-05-23 22:10:05：2022-05-20 22:32:29
-> RT @sssse4t: うまい棒ですら10円するのに法律相談が無料なのは絶対納得いかない。
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1528724952299765761 ／ https://twitter.com/sssse4t/status/1527643423951712259
-
-- （18／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-11-30 01:41:25：2022-11-29 18:35:36
-> RT @sssse4t: 弁護士になってから全てがうまく行ってる、、、、周りの助けを常に感じるな、全ては巡り合わせだ
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1597631831381532672 ／ https://twitter.com/sssse4t/status/1597524671100248064
-
-- （19／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:30:31：2022-12-10 21:35:11
-> RT @sssse4t: @fukazawas 開示の決断と開示後の対応も当職において意識しておくとともに、当然、流れを説明して信頼してもらって受任しておりますので、先生のご助力が大半です！
-> (｀･∀･´)ﾌﾝｽ
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585153503293441 ／ https://twitter.com/sssse4t/status/1601556130680909826
-
-- （20／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:31:29：2022-12-10 21:32:25
-> RT @sssse4t: 先生の本読んで発信者開示やりましたよ。
-> (›´ω`‹ ) ｹﾞｯｿﾘ https://t.co/FrWxGjSv7a
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585397745664001 ／ https://twitter.com/sssse4t/status/1601555432291848192
-
-- （21／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:08：2022-12-10 19:49:06
-> RT @sssse4t: 無限列車編やってるね！
-> 結核の人が列車乗ってていいの？？？
-> (  ･᷄ὢ･᷅  )(  ･᷄ὢ･᷅  )(  ･᷄ὢ･᷅  )
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585560946356224 ／ https://twitter.com/sssse4t/status/1601529432291672065
-
-- （22／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:25：2022-12-10 20:08:17
-> RT @sssse4t: タダで観れるなんて無賃乗車編やな
-> は(੭ु´ ᐜ ` )੭ुﾊﾟﾀﾊﾟﾀ
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585631142248449 ／ https://twitter.com/sssse4t/status/1601534261009387520
-
-- （23／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-10 23:32:53：2022-12-10 16:25:42
-> RT @sssse4t: およげ!たいやきくんは、二番の歌詞において、自分は難波船を棲家にしていると前置きしたうえで、時々鮫にいじめられると供述していますが、鮫はそんなことしませんよ
-> :;(∩´﹏`∩);:
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1601585751216427008 ／ https://twitter.com/sssse4t/status/1601478246771527680
-
-- （24／40／669647：検索：@sssse4t）ツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）2022-12-10 23:43:12
-> 2022-12-10_23:34 奉納＼#危険生物・弁護士脳汚染除去装置＼#金沢地方検察庁御中_2020: @sssse4t（さんかいめ）のツイート　”．＊”　3223／3223：2022-07-26_1927〜2022-12-1… https://t.co/zN3KOOrGwW
-ツイートのURL： https://twitter.com/hirono_hideki/status/1601588348401094656
-
-- （25／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:46:51
-> SS: 2022-12-10_233043_さんかいめ　@sssse4t　@fukazawas　開示の決断と開示後の対応も当職において意識しておくとともに、当然、流れを説明して.jpg https://t.co/6NpChE4eSy
-ツイートのURL： https://twitter.com/kk_hirono/status/1601740259183964160
-
-- （26／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:46:55
-> SS: 2022-12-10_233141_さんかいめ　@sssse4t　先生の本読んで発信者開示やりましたよ。　（›´ω`‹　）　ｹﾞｯｿﾘ　https：／／t。co／FrW.jpg https://t.co/S7REV3MyhP
-ツイートのURL： https://twitter.com/kk_hirono/status/1601740277546303488
-
-- （27／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2022-12-11 09:50:25
-> - 2022年12月10日23時34分の登録： @sssse4t（さんかいめ）のツイート　”．＊”　3223／3223：2022-07-26_1927〜2022-12-10_2224　2022年12月10日23時33分の記録 https://t.co/om9o4n6Q69
-ツイートのURL： https://twitter.com/kk_hirono/status/1601741158689873921
-
-- （28／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-23 13:23:20：2022-12-22 21:24:10
-> RT @sssse4t: 登録から一年で1000万いったのは我ながらすごい！褒めてくださいね
-リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1606143395122274305 ／ https://twitter.com/sssse4t/status/1605902012192739328
-
-- （29／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2022-12-29 14:16:51：2022-12-28 22:20:26
-> RT @sssse4t: 入所説明会のパワポつくった https://t.co/wqbA5IhRtz
-リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1608331190762876928 ／ https://twitter.com/sssse4t/status/1608090500606873602
-
-- （30／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:02:38
-> kohiyok（@abekiyohiko2）
-> ユーザ名称：kohiyok [screen_name]ユーザ名：@abekiyohiko2 フォロー数：1116 フォロワー数：671 ツイート数：12551
-> sssse4t
-> さんかいめ（@sssse4t）
-ツイートのURL： https://twitter.com/kk_hirono/status/1614624098843521024
-
-- （31／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:02:45
-> sssse4t
-> さんかいめ（@sssse4t）
-> ユーザ名称：さんかいめ [screen_name]ユーザ名：@sssse4t フォロー数：8583 フォロワー数：10807 ツイート数：40975
-> ven_law1113
-ツイートのURL： https://twitter.com/kk_hirono/status/1614624129713590275
-
-- （32／40／669647：検索：@sssse4t）ツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）2023-01-15 23:40:05
-> - （210／243） TW @sssse4t（さんかいめ） 日時： 2023-01-14 19:51:31 +0900 URL： https://t.co/dVkaXYmSTN
-> > @fukazawas (´°̥̥̥̥̥̥̥̥ω… https://t.co/jQhpdNS0G9
-ツイートのURL： https://twitter.com/kk_hirono/status/1614633524098924550
-
-- （33／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（さんかいめ） 2023-01-16 19:10:54：2023-01-16 15:55:35
-> RT @sssse4t: 弊所へ
-> 
-> 上納今月は１７万入れましたよ。私より。
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1614928168825257986 ／ https://twitter.com/sssse4t/status/1614879016980475909
-
-- （34／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（さんかいめ） 2023-01-17 08:58:54：2023-01-16 15:16:41
-> RT @sssse4t: Qさんかいめ先生の宝物はなんですか？家族や友人ですか？
-> 
-> A
-> これ！個人事件は自分で押してます。個人事業主としての自覚を私にくれる大切なはんこなのだ
-> (｀･∀･´)ﾌﾝｽ https://t.co/7lsZqsVOMt
-リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1615136542581981184 ／ https://twitter.com/sssse4t/status/1614869227151974402
-
-- （35／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-18 22:21:52：2023-01-18 15:42:27
-> RT @sssse4t: これが本当の私です https://t.co/M6voaZQ5ML
-リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1615701006519775234 ／ https://twitter.com/sssse4t/status/1615600488489320450
-
-- （36／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-20 23:40:31：2023-01-19 12:36:38
-> RT @sssse4t: ひいては、他の先生から悩みを打ち明けられた時に、まず責めない
-リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1616445572554293248 ／ https://twitter.com/sssse4t/status/1615916113405304832
-
-- （37／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（さんかいめ） 2023-01-29 00:12:20：2023-01-28 18:21:01
-> RT @sssse4t: これ私です https://t.co/QDgKJdq85v
-リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1619352684255133696 ／ https://twitter.com/sssse4t/status/1619264271774547968
-
-- （38／40／669647：検索：@sssse4t）リツイート：@kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中）：@sssse4t（都内独居女性さんかいめ） 2023-02-23 21:04:41：2023-02-19 22:18:12
-> RT @sssse4t: 弁護士辞めました。
-> 理由は本気でTwitterを極めようと思ったからです。
-> 親とボスにめちゃくちゃ止められたけど絶対俺ならトップになれるって言ってなんとか説得しました。
-> 今日から毎日13時間ツイートします。
-> これからよろしくお願いします。
-リツイートのURL／元のツイートのURL： https://twitter.com/kk_hirono/status/1628727545851187207 ／ https://twitter.com/sssse4t/status/1627296493152669696
-
-- （39／40／669647：検索：@sssse4t）リツイート：@hirono_hideki（刑事告発・非常上告＼金沢地方検察庁御中）：@sssse4t（都内独居女性さんかいめ） 2023-03-27 17:51:03：2023-03-27 13:45:05
-> RT @sssse4t: 頑張りシールをよこせや
-リツイートのURL／元のツイートのURL： https://twitter.com/hirono_hideki/status/1640275225102409731 ／ https://twitter.com/sssse4t/status/1640213328789389312
-
-- （40／40／669647：検索：@sssse4t）リツイート：@s_hirono（非常上告-最高検察庁御中_ツイッター）：@sssse4t（限界都内独居女性さんかいめ） 2023-04-17 17:44:42：2023-04-15 11:01:22
-> RT @sssse4t: @fukazawas 僕も同じことを言いたかったのです！
-> _(_*`ω´*)_ﾌﾝｽﾌﾝｽ‼( *¯ ꒳¯*)ﾌﾝｽｯ!
-リツイートのURL／元のツイートのURL： https://twitter.com/s_hirono/status/1647883771587497984 ／ https://twitter.com/sssse4t/status/1647057497688252417
-
+- 2020-11-03_小木港東一文字堤防アジ釣り https://note.com/hirono2020kk/n/n81ab21f28633
+- 参考資料：モトケンこと矢部善朗弁護士（京都弁護士会）と関係性の強い現職警察官，感熱紙というTwitterアカウントの記録，ブログ記事278件 https://note.com/hirono2020kk/n/n5a418d8b1226
+- 2020年08月14日15時33分53秒の記録＿「大津　控訴」のTwitterAPI検索が取得できないという現象の記録.mp4 https://note.com/hirono2020kk/n/nc1050dbec705
+- あああ https://note.com/hirono2020kk/n/n01748edce399
+- 元法務大臣の刑事裁判で，100人をはるかに超える証人尋問，と見立てする落合洋司弁護士（東京弁護士会）の記事 https://note.com/hirono2020kk/n/n2dcb19595c75
+- あ https://note.com/hirono2020kk/n/nf95803f7c57c
+- None https://note.com/hirono2020kk/n/ne8475578fd04
+- 「思想的にも根無し草だった彼が、政界でふわふわ漂っているうちに、居心地良く根を下ろしたのが今のポジション」というジャーナリストの江川紹子氏 https://note.com/hirono2020kk/n/n67b382616752
+- None https://note.com/hirono2020kk/n/nfcbff227f7e7
+- 医療の世界でいえば，体を壊したのに「『全裸で盆踊り治療法』で完治する！病院に行けというのは，医者や製薬会社の陰謀だ！そこの君も　←深澤諭史弁護士 https://note.com/hirono2020kk/n/n9830f5191035
+- 「安全ピンのときには無償で弁護しますが出てきたのはなんだったんだろう」というモトケンこと矢部善朗弁護士（京都弁護士会）に対するツイート https://note.com/hirono2020kk/n/n767dab31be07
+- None https://note.com/hirono2020kk/n/n865c57e1509b
+- (py37_env) ➜ twilog kk2020-09-rss-get-mysql-add.rb https://note.com/hirono2020kk/n/nc503f4a1061e
+- noteのベータ版を試す https://note.com/hirono2020kk/n/n9bd3ffeae5d4
+- 「平成司法改革の研究: 理論なき改革はいかに挫折したのか 須網 隆夫」という落合洋司弁護士（東京弁護士会）のツイート https://note.com/hirono2020kk/n/n5b4c761eb2b0
+-  - 中川卓懲戒請求弁明書｜暇な空白｜note   https://note.com/hirono2020kk/n/naf95f1bd7ad2
+- あ https://note.com/hirono2020kk/n/nd8c078e77a14
+- 2つのTwitterアカウントで同時に凍結、刑事告発・非常上告＿金沢地方検察庁御中（@kk_hirono）は永久凍結 https://note.com/hirono2020kk/n/nd858446323b6
+- 本件刑事告発・非常上告事件の証拠資料の試験投稿 https://note.com/hirono2020kk/n/ncd1d74501966
+- 001_刑事第1審事件記録1／3　平成04年08月03日付（公判をした年月日）　第三回公判調書（手続）　判決宣告　金沢地方裁判所第三部　2頁 https://note.com/hirono2020kk/n/n3b7a24a8053f
+- 002_刑事第1審事件記録1／3　平成04年08月03日付宣告　裁判所書記官　久保守　判決　金沢地方裁判所第三部　三宅俊一郎裁判長　裁判官　川口泰司　裁判官　山田徹　10頁 https://note.com/hirono2020kk/n/n6e5fb227fa96
+- 003_甲号証（四）　平成04年08月03日付　判決　金沢地方裁判所（三宅俊一郎裁判長、川口泰司裁判官、山田徹裁判官）　10頁 https://note.com/hirono2020kk/n/na13ce2b79f46
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁 https://note.com/hirono2020kk/n/n72d389fef59f
+- 005_甲号証（四）　平成04年10月05日付　控訴趣意書　被告人廣野秀樹作成　名古屋高裁金沢支部御中　46頁（手書き） https://note.com/hirono2020kk/n/n567ea0e43e0f
+- 006_甲号証（四）　平成04年10月07日付　控訴趣意書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　6頁 https://note.com/hirono2020kk/n/nd63ae4eb8eaf
+- 007_甲号証（四）　平成04年12月21日付　控訴趣意補充書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　9頁＋1 https://note.com/hirono2020kk/n/nafa325ee0b28
+- 008_甲号証（四）　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁 https://note.com/hirono2020kk/n/n9b1d138ab4a0
+- 009_甲号証（四）　平成05年09月07日付　判決　名古屋高裁金沢支部（被告発人小島裕史裁判長、横田勝年裁判官、横尾昭彦裁判官）　9頁＋1 https://note.com/hirono2020kk/n/nb9da68b80326
+- 010_甲号証（四）　平成06年02月04日付　決定（上告棄却）　最高裁判所第三小法廷　3頁 https://note.com/hirono2020kk/n/nddaf34a7f094
+- 011_甲号証（四）　平成06年02月18日付　決定（異議申立棄却）　最高裁判所第三小法廷　2頁 https://note.com/hirono2020kk/n/n4bf8eaeed1c2
+- 012_甲号証（四）　平成06年11月11日受付　表紙　所持許可書　期間：平成6年11月16日から訴訟終結までの間 https://note.com/hirono2020kk/n/na69485004829
+- 013_甲号証（二）　金沢西警察署　実況見分調書等　93頁 https://note.com/hirono2020kk/n/n9a9b068176ee
+- 014_甲号証（二）　平成04年04月02日付　供述調書　安藤紀世　金沢西警察署　司法警察員巡査　川原照夫　16頁 https://note.com/hirono2020kk/n/n03370335d03e
+- 015_甲号証（二）　平成04年04月02日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　19頁 https://note.com/hirono2020kk/n/nd06d3fc06184
+- 016_甲号証（二）　平成04年04月03日付　供述調書　廣野己代子　金沢西警察署　司法警察員巡査　村元康夫　18頁 https://note.com/hirono2020kk/n/n903907f011c5
+- 017_甲号証（二）　平成04年04月08日付　供述調書　被告発人安田敏　金沢西警察署　司法警察員巡査　橋本登志彦　27頁 https://note.com/hirono2020kk/n/nef89396d719c
+- 018_甲号証（二）　平成04年04月10日付　供述調書　安藤紀世　金沢地方検察庁　検察事務官　天山孝志　14頁 https://note.com/hirono2020kk/n/n226835f616bd
+- 019_甲号証（二）　平成04年04月10日付　供述調書　被告発人池田宏美　金沢西警察署　司法警察員巡査　橋本登志彦　24頁 https://note.com/hirono2020kk/n/n4361bc8880e7
+- 020_甲号証（二）　平成04年04月11日付　供述調書　被告発人多田敏明　金沢西警察署　司法警察員巡査　村元康夫　24頁 https://note.com/hirono2020kk/n/ne12860e355a7
+- 021_甲号証（二）　平成04年04月12日付　供述調書　告発人浜口卓也　金沢西警察署　司法警察員巡査　村元康夫　19頁 https://note.com/hirono2020kk/n/n66087966a4b4
+- 022_甲号証（二）　平成04年04月13日付　供述調書　レストラン店長　金沢西警察署　司法警察員巡査　川原照夫　10頁 https://note.com/hirono2020kk/n/nbedb0b93e126
+- 023_甲号証（二）　平成04年04月13日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　12頁 https://note.com/hirono2020kk/n/ncc599a9ce1fd
+- 024_甲号証（二）　平成04年04月17日付　供述調書　廣野秀樹　金沢地方検察庁　検察事務官　天山孝志　検察官検事　江村正之　33頁 https://note.com/hirono2020kk/n/n06e3da5de5fb
+- 025_甲号証（二）　平成04年04月18日付　供述調書　北野○○　金沢西警察署　司法警察員巡査　橋本登志彦　31頁 https://note.com/hirono2020kk/n/ndc356ebe481b
+- 026_甲号証（二）　平成04年04月20日付　供述調書　被告発人安田繁克　金沢西警察署　司法警察員巡査　川原照夫　18頁 https://note.com/hirono2020kk/n/nbaa4f7b5f61e
+- 027_甲号証（二）　平成04年04月24日付　供述調書　被告発人梅野博之　金沢西警察署　司法警察員巡査　橋本登志彦　46頁 https://note.com/hirono2020kk/n/n0bad494c47d8
+- 028_甲号証（二）　平成04年05月02日付　告訴状　手書き　安藤健次郎　金沢西警察署長殿　2枚 https://note.com/hirono2020kk/n/na42468143ff4
+- 029_甲号証（二）　平成04年05月21日付　金沢地方検察庁　告訴人指定書 https://note.com/hirono2020kk/n/nbb38da992906
+- 030_甲号証（二）　平成04年05月21日付　告訴調書　安藤健次郎　金沢西警察署　警部補　村元康夫　18頁 https://note.com/hirono2020kk/n/n63b20e5dd2de
+- 031_甲号証（二）　裏面　右正写致しました　弁護士　長谷川紘之　被告発人長谷川紘之弁護士 https://note.com/hirono2020kk/n/n06205d216276
+- 032_小堀秀行弁護士の名前、住所、電話番号を手書きした紙（自分以外の筆跡） https://note.com/hirono2020kk/n/naeb2ec958b38
+- 033_第1審事件記録1／3　金沢地方裁判所　書類の標目　平成四年（わ）六〇号，八六号　記録冊数三冊・総丁数五五四丁 https://note.com/hirono2020kk/n/naeb3b537d1be
+- 034_第1審事件記録1／3　平成04年04月02日付　逮捕状　金沢簡易裁判所　裁判官　鈴木登 https://note.com/hirono2020kk/n/nce53e1763b16
+- 035_第1審事件記録1／3　平成04年04月02日付　逮捕状　事実の要旨　金沢簡易裁判所　裁判官　鈴木登 https://note.com/hirono2020kk/n/ne7d27ced1704
+- 036_第1審事件記録1／3　平成04年04月04日　勾留状　金沢簡易裁判所　裁判官　鈴木登　金沢西警察署　司法警察員巡査部長　小坂忠孝 https://note.com/hirono2020kk/n/na17bf33d69ad
+- 037_第1審事件記録1／3　平成04年04月13日　被疑事実　期間の延長　金沢簡易裁判所　裁判官　大西貞夫　金沢西警察署　司法警察員巡査　田中賢一 https://note.com/hirono2020kk/n/nd7f27e83aa7e
+- 038_第1審事件記録1／3　平成04年04月13日　被疑事実の要旨　期間の延長　金沢簡易裁判所　裁判官　大西貞夫　金沢西警察署　司法警察員巡査　田中賢一 https://note.com/hirono2020kk/n/nfc5a8a7b1032
+- 039_第1審事件記録1／3　平成04年04月21日付　起訴状（傷害）　金沢地方検察庁　検察官検事　江村正之 https://note.com/hirono2020kk/n/n7178e1077632
+- 040_第1審事件記録1／3　平成04年04月22日付　郵便速達報告書　金沢西警察署長 https://note.com/hirono2020kk/n/n07bd34fb4b30
+- 041_第1審事件記録1／3　平成04年04月23日付　弁護人選任に関する回答書　金沢地方裁判所御中 https://note.com/hirono2020kk/n/n67521dd295a1
+- 042_第1審事件記録1／3　平成04年04月30日付　公判期日指定書（5月28日午前10時）　金沢地方裁判所　裁判官　川口泰司 https://note.com/hirono2020kk/n/n7ee5fd6fe63e
+- 043_第1審事件記録1／3　平成04年05月01日（午後15時00分当庁において交付した。）　送達報告書　受送達者　被告発人岡田進弁護士　金沢地方裁判所書記官　夏野博晶 https://note.com/hirono2020kk/n/n31646b64db9b
+- 044_第1審事件記録1／3　平成04年05月25日付　起訴状（準強姦）　金沢地方検察庁　検察官検事　江村正之 https://note.com/hirono2020kk/n/n51694e26abcf
+- 045_第1審事件記録1／3　平成04年05月26日午前9時15分（受信）　電話聴取書　発信者　弁護人　被告発人岡田進弁護士　金沢地方裁判所　書記官　夏野博晶 https://note.com/hirono2020kk/n/n32b9aee8023e
+- 046_第1審事件記録1／3　平成04年05月27日15時27分（送達年月日時）　公判期日取消決定謄本　受送達者名　金沢西警察署長　受領者の署名または押印　田中武一　金沢地方裁判所　廷吏　 https://note.com/hirono2020kk/n/nd11c88b7eac1
+- 047_第1審事件記録1／3　平成04年05月27日午後15時00分（交付送達）　受送達者　被告発人岡田進弁護士　金沢地方裁判所書記官　夏野博晶 https://note.com/hirono2020kk/n/n2ad33c140bd8
+- 048_第1審事件記録1／3　平成04年05月27日午後15時00分（交付送達）　弁論併合決定　受送達者　被告発人岡田進弁護士　金沢地方裁判所書記官　夏野博晶 https://note.com/hirono2020kk/n/ncd706589a61e
+- 049_第1審事件記録1／3　平成04年05月27日付　公判期日指定書（6月18日午前10時）　金沢地方裁判所第三部　裁判長裁判官　三宅俊一郎 https://note.com/hirono2020kk/n/n8eb7abefdca8
+- 050_第1審事件記録1／3　平成04年05月27日付　公判期日取消し（5月28日午前10時）　金沢地方裁判所　裁判官　川口泰司 https://note.com/hirono2020kk/n/n2b91da370cd0
+- 051_第1審事件記録1／3　平成04年05月27日付　弁論併合決定　金沢地方裁判所第三部 https://note.com/hirono2020kk/n/n338a025b5c20
+- 052_第1審事件記録1／3　平成04年05月27日付　郵便速達報告書　金沢西警察署長 https://note.com/hirono2020kk/n/n4ad5b0b70ec8
+- 053_第1審事件記録1／3　平成04年05月28日付　移監通知書　金沢地方検察庁　検察官検事　江村正之　金沢地方裁判所殿 https://note.com/hirono2020kk/n/n3a98333d0ed1
+- 054_第1審事件記録1／3　平成04年05月29日　請書　上記のとおりお請けしました。　上記弁護人　被告発人岡田進弁護士　金沢地方裁判所刑事部　御中 https://note.com/hirono2020kk/n/n62f7b42b99e5
+- 055_第1審事件記録1／3　平成04年06月18日　　第一回公判調書（手続）　3頁 https://note.com/hirono2020kk/n/ne76574a4841d
+- 056_第1審事件記録1／3　平成04年06月18日　　冒頭陳述要旨　金沢地方検察庁　検察官検事　江村正之 https://note.com/hirono2020kk/n/ned1a522d300b
+- 057_第1審事件記録1／3　平成04年06月18日　冒頭陳述要旨　金沢地方検察庁　検察官検事　江村正之　甲号四号証　6頁 https://note.com/hirono2020kk/n/n9b95429640dd
+- 058_第1審事件記録1／3　平成04年06月18日付　勾留期間更新決定　金沢地方裁判所第三部　三宅俊一郎裁判長　裁判官　川口泰司　裁判官　山田徹 https://note.com/hirono2020kk/n/n7be7d8aaf3b2
+- 059_第1審事件記録1／3　平成04年06月18日付　令状関係送付書　被告人　廣野秀樹　金沢地方裁判所　裁判所書記官　西下健　金沢地方裁判所御中 https://note.com/hirono2020kk/n/nfaeab38e600f
+- 060_第1審事件記録1／3　平成04年06月29日　　論告要旨　金沢地方検察庁　検察官検事　江村正之　3頁 https://note.com/hirono2020kk/n/n019d60d61cd3
+- 061_第1審事件記録1／3　平成04年06月29日（公判をした年月日）　第二回公判調書（手続）　金沢地方裁判所第三部　3頁 https://note.com/hirono2020kk/n/nd71b7fd0c4f5
+- 062_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　証人尋問調書　廣野己代子　年齢　六三歳　職業　仲居　裁判所書記官印　稲葉　9頁 https://note.com/hirono2020kk/n/n5080f62c700d
+- 063_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　被告人廣野秀樹供述調書　裁判所書記官印　稲葉　16頁 https://note.com/hirono2020kk/n/n0d40fb207f84
+- 064_第1審事件記録1／3　平成04年06月29日午後3時（出頭日）　証人本人鑑定人　出頭票　廣野己代子 https://note.com/hirono2020kk/n/n7980f7122615
+- 065_第1審事件記録1／3　平成04年07月15日付　勾留期間更新決定　金沢地方裁判所第三部　三宅俊一郎裁判長　裁判官　川口泰司　裁判官　山田徹 https://note.com/hirono2020kk/n/n486287c2d7ea
+- 066_第1審事件記録1／3　平成04年08月06日付　控訴申立書　金沢刑務所　法務事務官看守　嶋弘　名古屋高等裁判所金沢支部御中 https://note.com/hirono2020kk/n/n820cde5b539b
+- 067_第1審事件記録1／3　平成04年08月10日付　勾留期間更新決定　金沢地方裁判所第三部　三宅俊一郎裁判長　裁判官　川口泰司　裁判官　山田徹 https://note.com/hirono2020kk/n/n1abf328cd00a
+- 068_第1審事件記録1／3　平成04年09月04日？　「9／4　木梨　35　廣野秀樹」（手書き・鉛筆？）　全三冊のうち一冊　刑事第一審事件記録 https://note.com/hirono2020kk/n/n86776897812a
+- 069_第1審事件記録1／3　平成04年09月07日　本件控訴趣意書差出最終日を10月7日と指定する。　名古屋高等裁判所金沢支部　濱田武律裁判長　 https://note.com/hirono2020kk/n/nce024d359b03
+- 070_第1審事件記録1／3　平成04年日付記載不明　（請求者等　検察官（江村正之検察官））証拠等カード　被告人　廣野秀樹 https://note.com/hirono2020kk/n/n6647de57913d
+- 071_第1審事件記録1／3　平成07年03月28日付　決定　原告　安藤文　被告　廣野秀樹　右取調べに要する費用1万0610円につき・・・納付することを命ずる。裁判官古川龍一 https://note.com/hirono2020kk/n/n0a3365d02f65
+- 072_第1審事件記録3／3　刑事第一審事件記録　書記官　稲葉　被告人　廣野秀樹　丁数　三五の二九一丁ないし三五の四八三丁 https://note.com/hirono2020kk/n/n0d17cc81c682
+- 073_第1審事件記録3／3　戸籍謄本　平成04年04月06日　廣野秀樹　金沢市長　山出保 https://note.com/hirono2020kk/n/n1203e9619ab1
+- 074_業務日報 https://note.com/hirono2020kk/n/n6b74453c09e1
+- 076_平成11年02月25日付　決定（再審請求棄却）　金沢地方裁判所第三部　裁判長　石山容示　裁判官　梅本圭一郎　裁判官　山本正道 https://note.com/hirono2020kk/n/nc719a58e00a0
+- 077_平成11年12月21日宣告　判決　検察官下平豪出席の上審理　弁護人（国選）野田政仁　求刑懲役2年　金沢地方裁判所裁判官　小川賢司　7頁 https://note.com/hirono2020kk/n/na6b0983a50fd
+- 078_平成12年06月06日付　山口治夫弁護士　上告趣意書 https://note.com/hirono2020kk/n/n3e2ebccd5a76
+- 079_平成17年05月05日付　告発状　金沢地方検察庁御中　44頁 https://note.com/hirono2020kk/n/n7778496ec465
+- 080_平成17年11月18日付　返戻書　金沢地方検察庁検察官 https://note.com/hirono2020kk/n/na9b11a740f9a
+- 081_平成18年10月02日付　告訴状　金沢地方検察庁御中＿15頁 https://note.com/hirono2020kk/n/n924422399dc8
+- 082_平成18年10月16日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時29分40秒 https://note.com/hirono2020kk/n/nf146cf94610b
+- 083_平成18年12月12日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時24分45秒 https://note.com/hirono2020kk/n/n72a004e55f30
+- 084_2022年04月27日＿モトケンこと矢部善朗弁護士（京都弁護士会）のツイートの記録 https://note.com/hirono2020kk/n/n6ddf9d6ef599
+- 085_2017年10月02日＿モトケンこと矢部善朗弁護士（京都弁護士会）のツイートの記録 https://note.com/hirono2020kk/n/ne1e8cbfb5c2e
+- 086_2015年07月23日＿モトケンこと矢部善朗弁護士（京都弁護士会）のツイートの記録 https://note.com/hirono2020kk/n/n6be46b46adb2
+- 087_2012年03月16日＿モトケンこと矢部善朗弁護士（京都弁護士会）のツイートの記録 https://note.com/hirono2020kk/n/n48b9bb10b4c7
+- 088_令和4年7月26日　廣野秀樹殿　金沢地方検察庁検察官　書面等の返戻について https://note.com/hirono2020kk/n/n51a125145f6b
+- 089_2022-08-22_モトケンこと矢部善朗弁護士（京都弁護士会）の「ど素人」を含むツイートの記録 https://note.com/hirono2020kk/n/nc284d1b1b16b
+- 090_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「ヒャッハー」を含むツイートの記録 https://note.com/hirono2020kk/n/n5102c176653c
+- 090_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「真実」を含むツイートの記録_01 https://note.com/hirono2020kk/n/nbab1e6cf86fe
+- 090_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「真実」を含むツイートの記録_02 https://note.com/hirono2020kk/n/n3729e83fe5b1
+- 091_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「真実」を含むツイートの記録_02 https://note.com/hirono2020kk/n/n5d67872e38bc
+- 092_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「盆踊り」を含むツイートの記録 https://note.com/hirono2020kk/n/n1633adccf1ec
+- 093_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「盲腸」を含むツイートの記録 https://note.com/hirono2020kk/n/na4b3ec882314
+- 094_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「ストーカー」を含むツイートの記録 https://note.com/hirono2020kk/n/nedd7daa202ab
+- 095_2022-08-22_深澤諭史弁護士（第二東京弁護士会）の「逆恨み」を含むツイートの記録 https://note.com/hirono2020kk/n/n04f1495cf1bd
+- 096_第1審事件記録3／3　平成04年04月01日付　自首調書　廣野秀樹　金沢西警察署　司法警察員　巡査部長　箕谷芳久　12頁 https://note.com/hirono2020kk/n/n757190e47a2d
+- 097_第1審事件記録3／3　平成04年04月02日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　巡査部長　箕谷芳久　15頁 https://note.com/hirono2020kk/n/n91a4a49d1997
+- 098_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁 https://note.com/hirono2020kk/n/n586f0cf84500
+- 099_平成06年03月08日付　処分通知書　金沢地方検察庁　検察官　平成5年12月28日付告訴 https://note.com/hirono2020kk/n/neb01b4316cb1
+- 100_平成29年03月31日付　処分通知書　金沢地方検察庁　検察官検事　宮下浩　被疑者　被告発人木梨松嗣他 https://note.com/hirono2020kk/n/n22b504cb62d6
+- 101_H04_平成4年日付不明　検察官　証拠等関係カード　甲第九号証 https://note.com/hirono2020kk/n/n253061a6e9be
+- 102_H04-06-30_平成4年日付不明　証人尋問調書（第二回公判調書と一体）　廣野巳代子　甲第一〇号証 https://note.com/hirono2020kk/n/n7637810760d5
+- 103_H04-06-30_平成4年日付不明　被告人供述調書（第二回公判調書と一体）　廣野秀樹　甲第一一号証 https://note.com/hirono2020kk/n/n3adad1770501
+- 104_H04-08-03_平成4年8月3日　第三回公判調書（手続き）　甲第七号証 https://note.com/hirono2020kk/n/n1ea2ca40401b
+- 105_H04-08-06_平成4年8月6日付　控訴申立書　甲第八号証 https://note.com/hirono2020kk/n/n8d1e94b05f19
+- 106_H04-10-26_平成4年10月26日付　事前準備書　弁護人　被告発人木梨松嗣弁護士　甲第二一号証 https://note.com/hirono2020kk/n/n2aca99927aac
+- 107_H04-11-04_平成4年11月4日付　答弁書　名古屋高等検察庁金沢支部　検察官検事　松浦由記夫　甲第一二号証 https://note.com/hirono2020kk/n/n51d6f3815ab9
+- 108_H04-11-10_平成4年11月10日　第一回公判調書（手続）　名古屋高等裁判所金沢支部第二部　濱田武律裁判長　甲第一三号証 https://note.com/hirono2020kk/n/nfb573948f7ad
+- 109_H04-12-22_平成4年12月22日　第二回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一四号証 https://note.com/hirono2020kk/n/n36d687668116
+- 110_H05_平成5年日付不明　職権　証拠等関係カード　甲第二〇号証 https://note.com/hirono2020kk/n/nfa71157f6019
+- 111_H05_平成5年日付不明　弁護人　証拠等関係カード　甲第二〇号証 https://note.com/hirono2020kk/n/n76125d36deab
+- 112_H05-01-19_平成05年01月19日　第三回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一五号証 https://note.com/hirono2020kk/n/neacdca61e9e0
+- 113_H05-01-19_平成05年01月19日　被告人供述調書（第三回公判調書と一体）　廣野秀樹　名古屋高裁金沢支部　甲第二二号証 https://note.com/hirono2020kk/n/n76e2917a4d4d
+- 114_H05-02-25_平成5年02月25日　第四回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一六号証 https://note.com/hirono2020kk/n/n319a34565389
+- 115_H05-02-25_平成5年日付不明　鑑定人尋問調書（第四回公判調書と一体）　山口成良　金沢大学教授　名古屋高裁金沢支部　甲第二三号証 https://note.com/hirono2020kk/n/nb2add9b3f414
+- 116_H05-07-20_平成5年07月20日　速記録　山口成良　金沢大学教授　名古屋高裁金沢支部　甲第二四号証 https://note.com/hirono2020kk/n/n3e0f3ae360aa
+- 117_H05-07-20_平成5年07月20日　第五回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一七号証 https://note.com/hirono2020kk/n/n56e8cbce4cdf
+- 118_H05-09-07_平成5年09月07日　第六回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一八号証 https://note.com/hirono2020kk/n/ne15b2d05a8f0
+- 119_H05-09-20_平成5年09月20日付　上告申立書　甲第一九号証 https://note.com/hirono2020kk/n/n5f10b14dfdc5
+- 120_H05-12-22_平成5年12月11日付　上告趣意書（被告人の手書きの書面）　甲第二七号証 https://note.com/hirono2020kk/n/nc4303bf4e8ed
+- 121_H05-12-24_平成5年12月24日付　上告趣意書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二五号証 https://note.com/hirono2020kk/n/n314af3b2e480
+- 122_H05-12-24_平成5年12月24日付　上申書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二六号証 https://note.com/hirono2020kk/n/nc62d0bbb543e
+- 123_H05-平成5年日付不明　検察官　証拠等関係カード　甲第二〇号証 https://note.com/hirono2020kk/n/na4217edef58a
+- 124_H06-06-01_平成6年6月1日付消印　ゆうパックのハガキ　福井刑務所から金沢地方検察庁宛 https://note.com/hirono2020kk/n/n2a64a9870040
+- 125_第1審事件記録3／3　平成04年04月09日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　56頁 https://note.com/hirono2020kk/n/nf85394682c2b
+- 126_第1審事件記録3／3　平成04年04月10日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　36頁 https://note.com/hirono2020kk/n/n5db561e5a9b7
+- 127_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁 https://note.com/hirono2020kk/n/n40e2de40f9c6
+- 128_第1審事件記録3／3　平成04年04月14日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　19頁 https://note.com/hirono2020kk/n/n613d6573df04
+- 129_第1審事件記録3／3　平成04年04月15日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　10頁 https://note.com/hirono2020kk/n/na720ab0482d4
+- 130_第1審事件記録3／3　平成04年04月16日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　16頁 https://note.com/hirono2020kk/n/n40302289faf9
+- 131_第1審事件記録3／3　平成04年04月18日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　22頁 https://note.com/hirono2020kk/n/n1e569b5f75a9
+- 132_第1審事件記録3／3　平成04年04月29日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　14頁 https://note.com/hirono2020kk/n/ndcd67cc72c57
+- 133_第1審事件記録3／3　平成04年06月18日付　警視　宮野浩殿　操作報告書　石川県立病院　金沢西警察署　司法警察員　警部補　谷内孝志　6頁 https://note.com/hirono2020kk/n/n8172acac827d
+- 134_斐川雅文弁護士郵送　平成05年12月06日から平成6年6月5日まで閲読許可証　運行表コピー（4枚）　4枚 https://note.com/hirono2020kk/n/nfce53d4b5528
+- xhjjkkkkあ https://note.com/hirono2020kk/n/n757e2c2ec559
+- noteの個別記事のjsonをcurlコマンドで取得、Pythonのワンライナーで整形 https://note.com/hirono2020kk/n/n1994bb4d698f
+- noteのAPIで記事一覧(最大251記事。1ページあたり6記事)のデータを取得するPythonスクリプト https://note.com/hirono2020kk/n/ndc198334d6bd
+- 奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中_2020： REGEXP：”籠池”／データベース登録済みツイートの検索：2023-01-13〜2023-01-21／2023年01月26日20時28分の記録：ユーザ・投稿：15／28 https://note.com/hirono2020kk/n/nff9e632e9b0a
+- 2023年01月26日作成の記事 https://note.com/hirono2020kk/n/n186525a3fb7a
+- - 金沢弁護士会の30年（12） - 本件刑事告発・非常上告事件＼金沢地方検察庁御中 https://note.com/hirono2020kk/n/n2b0f46a16891
+- 2023年01月27日、興能信用金庫宇出津本店で新規口座を開設し、noteに有料記事の支払先登録完了 https://note.com/hirono2020kk/n/n44c74e8042b1
+- noteの有料記事の作成開始と、その収入による金沢弁護士会への海渡雄一弁護士らの13兆円を参考にした損害賠償請求裁判の準備について https://note.com/hirono2020kk/n/n03bfffe9ff31
+- 石川県警察にストーカー扱いされた時期 https://note.com/hirono2020kk/n/ne4857abd1fd2
+- Kindoleでの電子書籍、2月11日のオンライン予約について https://note.com/hirono2020kk/n/n6d845d0da927
+- スマホにnoteのアプリをインストール https://note.com/hirono2020kk/n/ndfaa587b24cb
+- とても勉強になる刑法の間接正犯・共犯の講義のYouTube動画 https://note.com/hirono2020kk/n/n0097e6e0c980
+- 首相秘書官差別発言の”オフレコ破り”報道は「個人の内心をだまし討ちで暴露した」のか（江川紹子） - 個人 - Yahoo!ニュース https://note.com/hirono2020kk/n/nb8cc60b539f5
+- Shoko EgawaさんはTwitterを使っています： 「少年事件裁判記録廃棄問題を追う神戸新聞の続報。捜査記録のリストが発見された、と。⇒ https://note.com/hirono2020kk/n/ndd0a6ef96fb8
+-  Shoko EgawaさんはTwitterを使っています： 「何言ってるかよく分からない。「差別」って、正当な根拠なく他者を劣ったものとみなして、不当に扱うこと、ですよ。 https://note.com/hirono2020kk/n/n1211177cb913
+- Qks 金沢弁護士会（TwitterAPI） https://note.com/hirono2020kk/n/n609e1aca5449
+- REGEXP：”意見書”／データベース登録済みツイートの検索：2009-12-13〜2023-02-09／2023年02月09日12時11分の記録：ユーザ・投稿：449／1426件 https://note.com/hirono2020kk/n/n46f93d62c51d
+- 平成9年の3月頃、ワープロ専用機で作成した感熱紙の書面の一部 https://note.com/hirono2020kk/n/n24dfffb51b39
+- 平成14年09月05日付　決定　再審請求棄却　金沢地方裁判所第三部　裁判長裁判官　伊東一廣　裁判官　高橋裕　平手一男 https://note.com/hirono2020kk/n/n9df5459f1018
+- 2022年2月28日＿能登町＿ラブロ恋路 https://note.com/hirono2020kk/n/n3fb1cfadaecb
+- 令和4年6月30日付告発状@kanazawabengosi金沢弁護士会@JFBAsns日本弁護士連合会（日弁連）法務省@MOJ_HOUMU-0001から0033 https://note.com/hirono2020kk/n/n476628357ae8
+- 令和4年6月30日付告発状@kanazawabengosi金沢弁護士会@JFBAsns日本弁護士連合会（日弁連）法務省@MOJ_HOUMU-1316〜1348 https://note.com/hirono2020kk/n/ne0e8e1a17f6f
+- 平成5年5月25日付精神鑑定書（鑑定人金沢大学教授山口成良作成）（写真 23 枚）2010年5月15日撮影 https://note.com/hirono2020kk/n/na53f4aba19a9
+- qks3 東京三弁護士会 https://note.com/hirono2020kk/n/n960e09a362fb
+- ❯ qks3 特別抗告 &gt; x.sh 2&gt;&1 https://note.com/hirono2020kk/n/nb586142f976b
+- ❯ d|grep -E "(袴田|袴田事件|特別抗告)" |pbcopy https://note.com/hirono2020kk/n/n6e974083216a
+- ❯ h3-mysql-regexp-html.py -s "2023.+(袴田|袴田事件|特別抗告)" |pbcopy https://note.com/hirono2020kk/n/n5adaeb695137
+- ❯ qks3 求刑より重い判決 https://note.com/hirono2020kk/n/ned5e77055e0b
+- ❯ qks3 熊本地裁 https://note.com/hirono2020kk/n/n39c4ea18f134
+- pythonのXMLパーサーでKindle本のタイトルを取得 https://note.com/hirono2020kk/n/nfc57471c3277
+- 2つの異なる連番を使ったforループの処理 https://note.com/hirono2020kk/n/n54e582eeacdf
+- シェルで同一階層のディレクトリーに同じファイルをコピー https://note.com/hirono2020kk/n/na7b4fdbccfff
+- 高橋雄一郎弁護士のTwitterタイムラインでみかけた知的障害に関連したツイート https://note.com/hirono2020kk/n/n6854c12bdabf
+- えきなんロー@ekinan_lawyerのタイムラインと金沢地裁の裁判員裁判 https://note.com/hirono2020kk/n/nf23ab098fad5
+- 令和5年4月28日に金沢地方検察庁で交付を受けた再審請求のための判決謄本（45枚印紙代2700円） https://note.com/hirono2020kk/n/n746a9e004123
+- えきなんロー@ekinan_lawyerのタイムラインで知った、小倉秀夫弁護士のTwitterアカウントの凍結 https://note.com/hirono2020kk/n/nd74e8f5c2285
+- えきなんロー@ekinan_lawyerのタイムラインで発見した刑裁サイ太の岡口事件ツイート https://note.com/hirono2020kk/n/n79af5a1afa3c
+- 「裁判長！　ここは懲役４年でどうすか」をAmazonプライムビデオで視聴 https://note.com/hirono2020kk/n/n5347256780bd
+- 深澤諭史弁護士のタイムラインから知った、龍谷大学で公開されているという団藤重光元最高裁判事のノート https://note.com/hirono2020kk/n/n1059f3506159
+- 「坂本弁護士一家殺害事件から30年　　～事実や教訓を正しく後世に伝えたい」というジャーナリストの記事の発見 https://note.com/hirono2020kk/n/n943b0fc692ef
+- 市川寛弁護士のツイートで知った、「起訴状から被害者の氏名や住所が消える」という弁護士ドットコムニュース https://note.com/hirono2020kk/n/n31cf91d93bbf
+- 三鷹事件の再審請求書に出てきた、正木ひろし弁護士と布施辰治弁護士 https://note.com/hirono2020kk/n/n3e886ce47339
+- 西武・山川の書類送検　逮捕されないのは「警察も犯罪の成立に疑問」菊地弁護士語る/野球/デイリースポーツ online https://note.com/hirono2020kk/n/nfb1003d71f43
+- 菊地幸夫弁護士　市川猿之助の両親について疑問「お父さまのような方が遺書を残すのが自然」 | 東スポWEB https://note.com/hirono2020kk/n/nf4ba92ef71c3
+- 昨年3月の、わいせつ容疑で逮捕された法律事務所の代表弁護士、内定者の女子大生 https://note.com/hirono2020kk/n/n97ec3cfc9504
+- 依頼者に聞かず「和解の意向なし」と回答は違反　弁護士に賠償命令：朝日新聞デジタル https://note.com/hirono2020kk/n/n3cda463d56a3
+- 最高裁の消極姿勢が全国の「風土」に　記録保存に「外部の目」導入を | 毎日新聞 https://note.com/hirono2020kk/n/n20998cb3a357
+- 2023年05月29日、金沢地方検察庁への電話と記録用データベースとExcelファイルの作成 https://note.com/hirono2020kk/n/n44ee75461f11
+- 平成4年1月4日、馬鈴薯を積んで岐阜の市場に向かったときの領収書が米原インターという謎 https://note.com/hirono2020kk/n/nd2e781231909
+- 金沢刑務所の拘置所で、平成5年10月18日から始まっていた「全日本道路（定価3300円）」の私本閲読許可証 https://note.com/hirono2020kk/n/ne5e4dc1363ec
+- 福井刑務所の2工場で、7月11日から8月27日迄、房内所持許可という紙が貼ってあった「全日本道路」の地図帳 https://note.com/hirono2020kk/n/n8d7be85e7d6f
+- どう考えてもありえない、平成3年9月12日に加賀市大聖寺から宇都宮に行ったという運行記録 https://note.com/hirono2020kk/n/nd6858f0c1202
+- 長岡インターから乗ったことになっている前橋インターの領収書、2月の大聖寺から宇都宮の運行 https://note.com/hirono2020kk/n/nf702dd88db95
+- 市場急配センターの業務日報に明白な24トンのミール移動が1つも存在しないという問題（写真資料編） https://note.com/hirono2020kk/n/n250561715afe
+- 平成3年11月13日、古河から名古屋というあり得ない運行の記録、しかも岡崎インター https://note.com/hirono2020kk/n/n48e534cb620f
+- 平成3年12月2日から6日にかけた、あり得ない給油時刻など謎の多い運行（写真資料編） https://note.com/hirono2020kk/n/ndb48e8ced554
+- 群馬県吉井町で荷下ろしの当日12月3日の午前0時44分に金沢で給油した領収書という謎 https://note.com/hirono2020kk/n/nb6a5bb4fc511
+- 割と最近まで気づかずにいた気がする金沢市場輸送名義の太陽鉱油の領収書 https://note.com/hirono2020kk/n/n438452095b3c
+- 2月29日土曜日から3月1日日曜日の未明に掛け、高岡、金沢、福井の市場で荷下ろしをしたことになっている運行（写真資料編） https://note.com/hirono2020kk/n/n02465b273fcc
+- 2月29日土曜日から3月1日日曜日の未明に掛け、高岡、金沢、福井の市場で荷下ろしをしたことになっている運行（問題点） https://note.com/hirono2020kk/n/n1d746255e177
+- 福島県白河市まで新潟西インターから国道49号線で会津若松、東北自動車道の本宮インター経由になっている運行（写真資料編） https://note.com/hirono2020kk/n/n56e8f9a5beae
+- 福島県白河市まで新潟西インターから国道49号線で会津若松、東北自動車道の本宮インター経由になっている運行（証拠説明編） https://note.com/hirono2020kk/n/n39ccf192d453
+- Excelで作成した市場急配センターの平成3年8月31日から平成4年3月1日の業務日報を運行表 https://note.com/hirono2020kk/n/nf6112dd59f12
+- 市場急配センター・平成03年09月の給油領収書（写真資料編） https://note.com/hirono2020kk/n/nc86192eac34a
+- 市場急配センター・平成03年10月から11月の給油領収書（写真資料編） https://note.com/hirono2020kk/n/nf18b4331468d
+- 市場急配センター・平成03年12月の給油領収書（写真資料編） https://note.com/hirono2020kk/n/n7e8b136c39e8
+- 市場急配センター・平成04年01月12日から03月01日の給油領収書（写真資料編） https://note.com/hirono2020kk/n/n4d1089a3fbe5
+- 性的暴行に問われ控訴審 一審無罪判決 検察「事実誤認」弁護側「無罪を」・チューリップテレビ https://note.com/hirono2020kk/n/nbf5b0e28560d
+- さらば弁護士鉄道058／改竄の痕跡が多数ある市場急配センターの業務日報（01）: 金沢弁護士会の30年VS金沢地方検察庁への刑事告発 https://note.com/hirono2020kk/n/n8c56cdd3c757
+- 作成中の「さらば弁護士鉄道059／改竄の痕跡が多数ある市場急配センターの業務日報（02）」で使用済みの画像資料 https://note.com/hirono2020kk/n/nd688ff2bded4
+- Kindle電子書籍「さらば弁護士鉄道」シリーズ057から059の作成、販売への作業風景 https://note.com/hirono2020kk/n/n587a3c2f5455
+- 平成3年3月17日06時15分となっている国道4号間々田給油所の領収書 https://note.com/hirono2020kk/n/n88727f9c410e
+- Macbookで、ウルトラワイドの外部モニターにVSCodeとnoteの記事を並べて表示 https://note.com/hirono2020kk/n/n2310b3ec4277
+- ≪運行名≫11月15日大阪へ馬鈴薯、神戸から高岡・富山の運行 https://note.com/hirono2020kk/n/n9efb592be554
+- 平成5年11月28日付の手書きの書面の5＜平成3年の神戸やバナナに関する記載＞写真資料編 https://note.com/hirono2020kk/n/n30fa580409de
+- ≪運行名≫9月23日大阪から東京有明への運行・写真資料編 https://note.com/hirono2020kk/n/n8ae0c55b1a91
+- ≪運行名≫12月2日群馬県吉井町へ兵器の運行・写真資料編 https://note.com/hirono2020kk/n/n13aaa48f2d16
+- 088_令和4年7月26日　廣野秀樹殿　金沢地方検察庁検察官　書面等の返戻について https://note.com/hirono2020kk/n/nacb82dc4134d
+- 078_平成12年06月06日付　山口治夫弁護士　上告趣意書 https://note.com/hirono2020kk/n/nbbe498933647
+- 令和5年6月の告発状：公開の方針を決めた6月17日、神戸のバス会社のネット記事 https://note.com/hirono2020kk/n/n506d535f127d
+- 令和5年6月の告発状：6月18日に見つけた軽井沢バス事故の郷原信郎弁護士と安部誠治関西大学名誉教授のYouTube動画 https://note.com/hirono2020kk/n/n6a6accacafa4
+- 令和5年6月の告発状：6月19日の北陸中日新聞、総合1面の「同乗者の「共謀」どう判断」という記事と、社会1面の東海北陸道のトラック衝突2人死亡の記事 https://note.com/hirono2020kk/n/n90e9aa0930d4
+- 令和5年6月の告発状：市場急配センターの業務日報・運行指示票・領収書の公開資料 https://note.com/hirono2020kk/n/n2d17f16dbbeb
+- 令和5年6月の告発状：078_平成12年06月06日付　山口治夫弁護士　上告趣意書 https://note.com/hirono2020kk/n/nb161d282537d
+- 令和5年6月の告発状：カルロス・ゴーン氏が名誉毀損で10億ドル超の訴訟を起こしたというニュース https://note.com/hirono2020kk/n/n069c251a745f
+- 令和5年6月の告発状：アルトサックスが出てくる晩餐会のような郷原信郎弁護士のYouTube動画、『歪んだ法に壊される日本』『「単純化」という病』出版記念 https://note.com/hirono2020kk/n/naf0bf9d9fcb3
+- 令和5年6月の告発状：「踊り字」の発見で思い出す「ヒメオドリコソウ」という花の近年の発見 https://note.com/hirono2020kk/n/nccebfc031c03
+- 令和5年6月の告発状：本日2023年6月21日の15時00分、裁判員裁判、金沢地裁の判決 https://note.com/hirono2020kk/n/nffedc64a1df2
+- 令和5年6月の告発状：「第一に、刑事被告人も障害者も、自分たちとは別の珍しい存在ですお。」という深澤諭史弁護士の長文でマジリプ https://note.com/hirono2020kk/n/n171926347dd9
+- 令和5年6月の告発状：「運転していなくても、一体となって危険運転行為をした」と共謀が成立するとした。」という読売新聞の記事 https://note.com/hirono2020kk/n/nfd6b2459109f
+- 2023年06月21日の写真（13時21分32秒〜14時48分58秒）20枚 https://note.com/hirono2020kk/n/nd3d7a4c509d6
+- 2023年06月21日の写真（14時56分59秒〜21時39分05秒）18枚 https://note.com/hirono2020kk/n/n16c03135bf1d
+- 令和5年4月28日に金沢地方検察庁で交付を受けた再審請求のための判決謄本（01〜20） https://note.com/hirono2020kk/n/n327354cc423f
+- 令和5年4月28日に金沢地方検察庁で交付を受けた再審請求のための判決謄本（21〜40） https://note.com/hirono2020kk/n/n2bea7ae268b3
+- 令和5年4月28日に金沢地方検察庁で交付を受けた再審請求のための判決謄本（41〜45） https://note.com/hirono2020kk/n/nf1b184c1b21a
+- 令和5年6月の告発状：弁護士やジャーナリストの反応が全く確認されない金沢地裁の危険運転致死で共謀共同正犯の成立を認めた6月21日の判決（裁判員裁判） https://note.com/hirono2020kk/n/n0b4d3f2215ed
+- 捨て石にしてはならない、というジャーナリストの江川紹子氏のツイート https://note.com/hirono2020kk/n/n35f4d7178930
+- 「法律家としては昭和の方」というジャーナリストの江川紹子氏のツイート https://note.com/hirono2020kk/n/nff7aa41e1c4b
+- 令和5年6月の告発状：2023年06月24日の朝に知った11年間岡田進法律事務所に勤務したという中西祐一弁護士、昨日、増泉の危険運転致死事件の弁護人と知る https://note.com/hirono2020kk/n/n9847076b91cf
+- 「ワイは、今、まさに通帳に平伏していたんだ。」というピピピーッ@O59K2dPQH59QEJxのツイート https://note.com/hirono2020kk/n/n151152e0e7b5
+- 「現預金30万から現預金1億まで一気に駆け上がった日々」というピピピーッ@O59K2dPQH59QEJxのツイート https://note.com/hirono2020kk/n/n8ff353d33e63
+- 「養成制度を改革して志願者激減させるとか、無能とかいうレベルを超えているお」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n3d8ddcb5c40b
+- 「すごい速さで被害弁償or示談を成立させて勾留取消請求するのは、弁護人の花道だと思う。」という北白川@GUv4i6のツイート https://note.com/hirono2020kk/n/n5b55e64b951e
+- 担当調停官に国賠という、うの字と坂本正幸弁護士・法政大学教授のツイートのやりとり https://note.com/hirono2020kk/n/ne85ebd896160
+- 黙秘への嫌悪感から「裁判員裁判は、刑事裁判のキッザニア」という深澤諭史弁護士@fukazawasのツイート https://note.com/hirono2020kk/n/n7f0e5a912937
+- 被告発人岡田進弁護士の刑事責任との共通点を感じる金沢・増泉の危険運転致死事件 https://note.com/hirono2020kk/n/neff2a15e0ccb
+- 062_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　証人尋問調書　廣野己代子　年齢　六三歳　職業　仲居　裁判所書記官印　稲葉　9頁 https://note.com/hirono2020kk/n/n08dd9bba2f0b
+- 063_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　被告人廣野秀樹供述調書　裁判所書記官印　稲葉　16頁 https://note.com/hirono2020kk/n/nb174ee1bde31
+- 令和5年6月30日付告発状：市場急配センターにおける、被害者安藤文さんに対する殺人未遂の事実（01）（作成中） https://note.com/hirono2020kk/n/ncdd314738ded
+- 奉納額鯨捕り絵図等写真資料20枚 https://note.com/hirono2020kk/n/n6fbde3fd45cb
+- 時代錯誤の再審制度のままでは冤罪被害者を救えないではないか／鴨志田祐美氏（弁護士）（ビデオニュース・ドットコム） - Yahoo!ニュース https://note.com/hirono2020kk/n/ne01083443dab
+- リスト https://note.com/hirono2020kk/n/n191a8bc16be6
+- 「弁護士にボコボコにされた人のどちらかだとみなしています。」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/n1c26e87a6a1d
+- 「その要因は、法科大学院教授との密接な双方向授業の結果だったことは、歴史の皮肉」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/ne8e0c8278983
+- 明石順平弁護士による深澤諭史弁護士のツイートの引用 https://note.com/hirono2020kk/n/ncc0aedf0f2f2
+- 「司法試験合格はあくまで最低限の素養であって、その後に問われるのは、個々の人間としての力です。」というリツイート https://note.com/hirono2020kk/n/n6cf3e9204391
+- 「他人様の権利義務に関する争いを責任を持って扱う仕事ではあるので、常に勉強しなきゃならんなぁと日々過ごし」というリツイート https://note.com/hirono2020kk/n/n5383b4f44304
+- 「200枚未満の謄写でも金返せっていわない、われわれの寛大さに泣いて感謝しなさい！」というツイート関連 https://note.com/hirono2020kk/n/nc65e1812ccc7
+- 袴田事件再審開始決定！今こそ再審法の改正を　　鴨志田祐美［弁護士］・木谷明［弁護士］・周防正行［映画監督］・江川紹子［ジャーナリスト］（創） - Yahoo!ニュース https://note.com/hirono2020kk/n/nb8cece787739
+- 「揉め事で弁護士と関わって、思い通りにならんかったんやと思う。」というツイート関連の記録 https://note.com/hirono2020kk/n/n53b700faa8db
+-  【安部教授と語る「軽井沢バス事故一審判決」何を教訓とすべきなのか】郷原信郎の「日本の権力を斬る！」＃250 - YouTube https://note.com/hirono2020kk/n/nf2fc2770400e
+- 「弁護士に個人的に恨みがあるから極論言ってるだけと思しきおっさん」という三浦義隆弁護士のツイート関連の記録 https://note.com/hirono2020kk/n/n8237039cc206
+- 「罪証隠滅や逃亡ではなくて、「身体拘束下取調許可状」になっていますよね」という弁護士ツイート関連の記録 https://note.com/hirono2020kk/n/n81e27c2668b7
+- 弁護士広告で、「売上に占めるインターネット広告経由の案件の割合は、100％」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n54366ac45d21
+- 「数時間で逃亡等をされてしまうデメリットとでは，どちらが大きいか明白な」という匿名弁護士刑裁サイ太のツイート https://note.com/hirono2020kk/n/n85e18a01a523
+- 「リーガルマインドが欠如した人間はこういう差別思考になりがち」という平裕介弁護士のツイートの記録 https://note.com/hirono2020kk/n/n34984986d3de
+- 元京都弁護士会副会長の秋重実弁護士がリツイートをしていた深澤諭史弁護士のツイートという発見 https://note.com/hirono2020kk/n/nb6741d09c423
+- 「裁判所や弁護士に対する激しい恨みがあれば、こういうツイートもしたくなるのだろう」という高橋雄一郎弁護士のツイート https://note.com/hirono2020kk/n/n9776f164e227
+- 2023年6月27日に深澤諭史弁護士のタイムラインで並んで見かけた岡村晴美弁護士と「りっぴぃ」のツイートの記録 https://note.com/hirono2020kk/n/nce29f6239ec5
+- 令和5年6月の告発状：弁護士の風景を主テーマとする記録資料としてのnoteの更新 https://note.com/hirono2020kk/n/nb2498aee3490
+- 令和5年6月の告発状：岡村晴美弁護士に続く「りっぴぃ」というTwitterアカウントのリツイート https://note.com/hirono2020kk/n/nff5387e8462e
+- 令和5年6月の告発状：本件の刑事告発を踏まえ男女問題の在り方として、今後に注目する太田啓子弁護士@katepanda2 https://note.com/hirono2020kk/n/nbff18df770a7
+- 令和5年6月の告発状：市場急配センターの犯罪計画 https://note.com/hirono2020kk/n/n39f9ea6cc6f6
+- 令和5年6月の告発状：弁護士災害に至る経緯（金沢弁護士会） https://note.com/hirono2020kk/n/n0b1df6ef3b3b
+- 令和5年6月の告発状：ChatGPTで調べた事後共犯 https://note.com/hirono2020kk/n/n603f0edc5a67
+- 令和5年6月の告発状：被告発人若杉幸平弁護士と被告発人大網健二の共犯関係と、再審請求を困難にならしめた影響力 https://note.com/hirono2020kk/n/na81359f7ba3f
+- 「福井刑務所　ノート雑記帳　平成6年4月18日から4月20日」の写真撮影記録（2023年6月29日） https://note.com/hirono2020kk/n/n995593329ce0
+- 令和5年6月の告発状：本件の刑事告発事件における古川龍一裁判官の関与と影響力 https://note.com/hirono2020kk/n/nb0adaa5f0dbf
+- 令和5年6月の告発状：被告発人小島裕史裁判長の刑事責任と影響力 https://note.com/hirono2020kk/n/n94392540818b
+- 令和5年6月の告発状：告発状の補充書への継続と、金沢弁護士会への状況認識の確認の記録予定 https://note.com/hirono2020kk/n/n0336c03f208f
+- ❯ git pull  https://note.com/hirono2020kk/n/n9fbb45fea9f1
+- 高橋雄一郎さんはTwitterを使っています： 「記載例： 【提出する刊行物等】 １　Twitterアカウント「暇空茜」（@himasoraakane）のプロフィールページの https://note.com/hirono2020kk/n/n244b34ac9332
+- 「法律事務所が破綻すると元々取り返しがつかない問題が発生するわけだが、」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/n54d4b37dbd4c
+- 「日本も朝鮮や台湾に対する植民地支配について誠実に反省、謝罪する必要がある。」という宇都宮健児弁護士のツイート https://note.com/hirono2020kk/n/n43bd2a97cef3
+- 「（・∀・）法律事務所が破綻した場合の依頼者への被害って、本当に深刻で取り返しがつかない」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n3d60f3996613
+- 「意見照会への回答は、弁護士作成かどうかは一瞬でわかる。」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n72a005e122a0
+- 「法曹養成機関が「法曹敵視機関」となっている現実」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/na0cbc34da375
+- 「（・∀・）Twitterクライシス対応の一環」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n6cf9bfee7d86
+- 「（・∀・）ほんこれ。ほんこれ。実務に入ってから、まじで聞きたいことが沢山でてきた。」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n87631f9b6a35
+- 「ツイッターが滅んだあと、ツイッターを知らない世代の若者たちに」というスドーこと平野敬弁護士のツイート https://note.com/hirono2020kk/n/n0524f95d9ca0
+- 「TruthSocialに移住して #陰謀論者さんとつながりたい タグを使おう」というスドーこと平野敬弁護士のツイート https://note.com/hirono2020kk/n/nd6f4178e2f92
+- 三浦義隆弁護士のTwitterタイムラインに出てきた被告人の反省ツイート、弁護士目線？ https://note.com/hirono2020kk/n/nfa0b348ad107
+- ブロックされ続けている亀石倫子弁護士のTwitterタイムラインでみかけた「特捜検察の正体」という本 https://note.com/hirono2020kk/n/n37ca142adc46
+- 「ゴーン氏追放クーデターから始まった日産のガバナンス崩壊は、遂に来るところまできたか？」という郷原信郎弁護士のツイート https://note.com/hirono2020kk/n/nf122529061f2
+- 令和5年7月7日付　告発状　金沢地方検察庁御中 https://note.com/hirono2020kk/n/nd730a8d671cd
+- 被告発人木梨松嗣弁護士の平成4年12月21日付　控訴趣意補充書 https://note.com/hirono2020kk/n/n21836ee5e04f
+- gitの更新（update 2023-07-08_1059 MacBook-Air.local DONE） https://note.com/hirono2020kk/n/n826987ccbfeb
+- 返信が順番通りにはならばないことを知った渡辺輝人弁護士@nabeteru1Q78に対する返信ツイート https://note.com/hirono2020kk/n/na1a4e9ba9bd9
+- git pull 2023-07-09 Linux https://note.com/hirono2020kk/n/n94c29a781a52
+- Vokoscreenというパソコン画面のキャプチャソフト https://note.com/hirono2020kk/n/n864dbbe7700d
+- MOVのファイル名変換スクリプトをmkvのファイル名変換に流用 https://note.com/hirono2020kk/n/nd6e9eef6ca06
+- 2023／07／09＿153027＿渡辺輝人弁護士のTwitterアカウントへの返信ツイートの記録 https://note.com/hirono2020kk/n/n4291ca4e444e
+- 令和5年7月7日付告発状、令和5年6月30日付け告発状の資料のKindle販売 https://note.com/hirono2020kk/n/n12dcd447827a
+- 修正したKindle出版用の本のタイトルのカタカナ・ローマ字変換pythonスクリプト https://note.com/hirono2020kk/n/n9377a568fc62
+- 2023／07／09＿173435＿「冤罪袴田事件」のTwitter検索.mkv https://note.com/hirono2020kk/n/nc6e13d05de53
+- 書面・証拠資料の作成環境／書面・証拠資料の作成環境新規GitHubリポジトリkk2023_07の作成 https://note.com/hirono2020kk/n/ndf6b49bbbef9
+- org-codeというVSCodeのプラグインを無効化でクリップボードの問題に対処 https://note.com/hirono2020kk/n/n7d59d4408c39
+- 2023／07／10＿185109＿主に「【視点】「検察の理念」は死んだ。」というジャーナリストの江川紹子氏の記録 https://note.com/hirono2020kk/n/na5d0bd44c110
+- 2023年7月10日9時25分から13時49分の写真6枚 https://note.com/hirono2020kk/n/nd87422db06b1
+- 2023年7月10日の平成5年11月28日付の手書きの書面と能登町役場で見た北國新聞・金沢地検不起訴率の記事 https://note.com/hirono2020kk/n/n5b3cbca089f9
+- 自覚なく「カスハラ」していませんか…職員疲弊「強いストレス７割」の札幌、ポスターで市民に問う ： 読売新聞 https://note.com/hirono2020kk/n/n4bb0a6baffa1
+- かもん弓（鴨志田 祐美）さんはTwitterを使っています： 「「見直そう！再審のルール 　～この国が冤罪を向き合うために」 楽天で予約注文 https://note.com/hirono2020kk/n/nd505ee70134a
+- レンタルサーバの契約更新 https://note.com/hirono2020kk/n/ned063c571195
+- Macbookでgit pull（2023年7月11日） https://note.com/hirono2020kk/n/n814ef207704d
+- 被告発人小川賢司裁判官（現・水戸地裁総括判事）の平成11年12月21日付判決謄本と告発状関連記載部分 https://note.com/hirono2020kk/n/n290080ea2dac
+- 「報道関係者は別。お前らはちゃんと読んで、わからなければ専門家に聞く等して誤解なく伝えるのが仕事だろ」というリツイート https://note.com/hirono2020kk/n/na5d79bb485c5
+- noteでAmazonアソシエイトをやってみる https://note.com/hirono2020kk/n/naffe398074ea
+- 画像のDPIをImageMagicのコマンドで変更してみた https://note.com/hirono2020kk/n/n1c569d2da9d0
+- 7月15日（土）、アルプでの証拠資料のラベル貼りと、鉄道緑地広場で逃したトンボの写真 https://note.com/hirono2020kk/n/n6b99e92f26a5
+- 金沢地方検察庁・金沢地方裁判所刑事部との通話履歴の公開記録（2023年8月3日〜7月13日：20枚） https://note.com/hirono2020kk/n/n13b58d8997bf
+- 金沢地方検察庁・金沢地方裁判所刑事部との通話履歴の公開記録（2023年7月13日〜5月29日：20枚） https://note.com/hirono2020kk/n/nda31ad6a6edd
+- 金沢地方検察庁・金沢地方裁判所刑事部との通話履歴の公開記録（2023年5月18日〜3月14日：20枚）｜市場急配センターの金沢弁護士会事件＼金沢地方検察庁御中 https://note.com/hirono2020kk/n/ne30bd0ea6b2b
+- 金沢地方検察庁・金沢地方裁判所刑事部との通話履歴の公開記録（2023年3月13日〜3月13日：7枚）｜市場急配センターの金沢弁護士会事件＼金沢地方検察庁御中 https://note.com/hirono2020kk/n/n06e794af432a
+- 002_刑事第1審事件記録1／3　平成04年08月03日付宣告　裁判所書記官　久保守　判決　金沢地方裁判所第三部　三宅俊一郎裁判長　裁判官　川口泰司　裁判官　山田徹　10頁 https://note.com/hirono2020kk/n/nc7ec77725aba
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_1-30 https://note.com/hirono2020kk/n/n2c1442f81752
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_31-60 https://note.com/hirono2020kk/n/n2f46582cf6e0
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_61-90 https://note.com/hirono2020kk/n/n3ce93ac7a273
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_91-120 https://note.com/hirono2020kk/n/nc34aeb8f20c7
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_121-150 https://note.com/hirono2020kk/n/n455d74eafe9f
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_151-180 https://note.com/hirono2020kk/n/ne65c73a42504
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_181-210 https://note.com/hirono2020kk/n/ne46cd2962ab4
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_211-240 https://note.com/hirono2020kk/n/nfdc6e08aaa00
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_241-270 https://note.com/hirono2020kk/n/neebdd0a530ba
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_271-300 https://note.com/hirono2020kk/n/na0c26b6d5f7f
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_301-330 https://note.com/hirono2020kk/n/nc3ce28d22b09
+- 004_甲号証（四）　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_331-344 https://note.com/hirono2020kk/n/n467ec07992e8
+- 005_甲号証（四）　平成04年10月05日付　控訴趣意書　被告人廣野秀樹作成　名古屋高裁金沢支部御中　46頁（手書き）_1-30 https://note.com/hirono2020kk/n/nb90fdfb1cbdd
+- 005_甲号証（四）　平成04年10月05日付　控訴趣意書　被告人廣野秀樹作成　名古屋高裁金沢支部御中　46頁（手書き）_31-46 https://note.com/hirono2020kk/n/n03fb1d32475f
+- 006_甲号証（四）　平成04年10月07日付　控訴趣意書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　6頁_1-6 https://note.com/hirono2020kk/n/n4c4552d4672c
+- 007_甲号証（四）　平成04年12月21日付　控訴趣意補充書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　9頁＋1_1-10.jpg https://note.com/hirono2020kk/n/n0f1ce6d5a960
+- 008_甲号証（四）　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_1-30 https://note.com/hirono2020kk/n/n1abb97c149de
+- 008_甲号証（四）　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_31-60 https://note.com/hirono2020kk/n/nef51797fbd73
+- 008_甲号証（四）　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_61-90 https://note.com/hirono2020kk/n/n220b5cbe4c25
+- 008_甲号証（四）　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_90-110 https://note.com/hirono2020kk/n/n4a48e23544fb
+- 009_甲号証（四）　平成05年09月07日付　判決　名古屋高裁金沢支部（被告発人小島裕史裁判長、横田勝年裁判官、横尾昭彦裁判官）　9頁＋1_1-10 https://note.com/hirono2020kk/n/ne6a0440126c5
+- 010_甲号証（四）　平成06年02月04日付　決定（上告棄却）　最高裁判所第三小法廷　3頁_1-3 https://note.com/hirono2020kk/n/nd8e9f0720a47
+- 011_甲号証（四）　平成06年02月18日付　決定（異議申立棄却）　最高裁判所第三小法廷　2頁_1-2 https://note.com/hirono2020kk/n/n24c1dfd82a42
+- 014_甲号証（二）　平成04年04月02日付　供述調書　安藤紀世　金沢西警察署　司法警察員巡査　川原照夫　16頁_1-16 https://note.com/hirono2020kk/n/nd1f6a9f7d236
+- 015_甲号証（二）　平成04年04月02日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　19頁_1-19 https://note.com/hirono2020kk/n/nb8c697ef1fba
+- 016_甲号証（二）　平成04年04月03日付　供述調書　廣野己代子　金沢西警察署　司法警察員巡査　村元康夫　18頁_1-18 https://note.com/hirono2020kk/n/n2b9572e4f4e0
+- 017_甲号証（二）　平成04年04月08日付　供述調書　被告発人安田敏　金沢西警察署　司法警察員巡査　橋本登志彦　27頁_1-27 https://note.com/hirono2020kk/n/nc5d05ef8d58d
+- 018_甲号証（二）　平成04年04月10日付　供述調書　安藤紀世　金沢地方検察庁　検察事務官　天山孝志　14頁_1-14 https://note.com/hirono2020kk/n/n6510d094e102
+- 019_甲号証（二）　平成04年04月10日付　供述調書　被告発人池田宏美　金沢西警察署　司法警察員巡査　橋本登志彦　24頁_1-24 https://note.com/hirono2020kk/n/n6e26291f8343
+- 020_甲号証（二）　平成04年04月11日付　供述調書　被告発人多田敏明　金沢西警察署　司法警察員巡査　村元康夫　24頁_1-24 https://note.com/hirono2020kk/n/n4373a727ca4e
+- 021_甲号証（二）　平成04年04月12日付　供述調書　告発人浜口卓也　金沢西警察署　司法警察員巡査　村元康夫　19頁_1-19 https://note.com/hirono2020kk/n/nf8e3fd528db9
+- 022_甲号証（二）　平成04年04月13日付　供述調書　レストラン店長　金沢西警察署　司法警察員巡査　川原照夫　10頁_1-10 https://note.com/hirono2020kk/n/n252422a97791
+- 023_甲号証（二）　平成04年04月13日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　12頁_1-12 https://note.com/hirono2020kk/n/nb33089175a33
+- 024_甲号証（二）　平成04年04月17日付　供述調書　廣野秀樹　金沢地方検察庁　検察事務官　天山孝志　検察官検事　江村正之　33頁_1-33 https://note.com/hirono2020kk/n/nb44c63c79d9e
+- 025_甲号証（二）　平成04年04月18日付　供述調書　北野○○　金沢西警察署　司法警察員巡査　橋本登志彦　31頁_1-31 https://note.com/hirono2020kk/n/n5f8f03b0a516
+- 026_甲号証（二）　平成04年04月20日付　供述調書　被告発人安田繁克　金沢西警察署　司法警察員巡査　川原照夫　18頁_1-18 https://note.com/hirono2020kk/n/n67f610fdc65e
+- 027_甲号証（二）　平成04年04月24日付　供述調書　被告発人梅野博之　金沢西警察署　司法警察員巡査　橋本登志彦　46頁_1-30 https://note.com/hirono2020kk/n/nf28d815414d9
+- 027_甲号証（二）　平成04年04月24日付　供述調書　被告発人梅野博之　金沢西警察署　司法警察員巡査　橋本登志彦　46頁_31-46 https://note.com/hirono2020kk/n/nd0b64ada99c4
+- 028_甲号証（二）　平成04年05月02日付　告訴状　手書き　安藤健次郎　金沢西警察署長殿　2枚_1-2 https://note.com/hirono2020kk/n/nb4248e44baf4
+- 029_甲号証（二）　平成04年05月21日付　金沢地方検察庁　告訴人指定書_1 https://note.com/hirono2020kk/n/n76a385d6adaa
+- 030_甲号証（二）　平成04年05月21日付　告訴調書　安藤健次郎　金沢西警察署　警部補　村元康夫　18頁_1-18 https://note.com/hirono2020kk/n/nf65a6fb19167
+- 031_甲号証（二）　裏面　右正写致しました　弁護士　長谷川紘之　被告発人長谷川紘之弁護士_1 https://note.com/hirono2020kk/n/n4a73a8f77887
+- 032_小堀秀行弁護士の名前、住所、電話番号を手書きした紙（自分以外の筆跡）_1 https://note.com/hirono2020kk/n/naabdb3d8b9bd
+- 035_第1審事件記録1／3　平成04年04月02日付　逮捕状　事実の要旨　金沢簡易裁判所　裁判官　鈴木登_1 https://note.com/hirono2020kk/n/n36588394b556
+- 039_第1審事件記録1／3　平成04年04月21日付　起訴状（傷害）　金沢地方検察庁　検察官検事　江村正之_1-2 https://note.com/hirono2020kk/n/n00460204af89
+- 044_第1審事件記録1／3　平成04年05月25日付　起訴状（準強姦）　金沢地方検察庁　検察官検事　江村正之_1-2 https://note.com/hirono2020kk/n/n51d4213d1bc0
+- 055_第1審事件記録1／3　平成04年06月18日　　第一回公判調書（手続）　3頁_1-3 https://note.com/hirono2020kk/n/ncbbe039fcb64
+- 056_第1審事件記録1／3　平成04年06月18日　　冒頭陳述要旨　金沢地方検察庁　検察官検事　江村正之_1-6 https://note.com/hirono2020kk/n/n2e45a33e3423
+- 057_第1審事件記録1／3　平成04年06月18日　冒頭陳述要旨　金沢地方検察庁　検察官検事　江村正之　甲号四号証　6頁_1-6 https://note.com/hirono2020kk/n/n269c8dece54e
+- 060_第1審事件記録1／3　平成04年06月29日　　論告要旨　金沢地方検察庁　検察官検事　江村正之　3頁_1-3 https://note.com/hirono2020kk/n/nc7165f9dc105
+- 061_第1審事件記録1／3　平成04年06月29日（公判をした年月日）　第二回公判調書（手続）　金沢地方裁判所第三部　3頁_1-3 https://note.com/hirono2020kk/n/n53e5dce173ee
+- 062_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　証人尋問調書　廣野己代子　年齢　六三歳　職業　仲居　裁判所書記官印　稲葉　9頁_1-9 https://note.com/hirono2020kk/n/n673cacd961ed
+- 063_第1審事件記録1／3　平成04年06月29日？（第二回公判調書と一体になるものである。）　被告人廣野秀樹供述調書　裁判所書記官印　稲葉　16頁_1-16 https://note.com/hirono2020kk/n/n5e31fd4c8113
+- 066_第1審事件記録1／3　平成04年08月06日付　控訴申立書　金沢刑務所　法務事務官看守　嶋弘　名古屋高等裁判所金沢支部御中_1 https://note.com/hirono2020kk/n/nbfb10a828f71
+- 068_第1審事件記録1／3　平成04年09月04日？　「9／4　木梨　35　廣野秀樹」（手書き・鉛筆？）　全三冊のうち一冊　刑事第一審事件記録_1 https://note.com/hirono2020kk/n/n96934691ed69
+- 069_第1審事件記録1／3　平成04年09月07日　本件控訴趣意書差出最終日を10月7日と指定する。　名古屋高等裁判所金沢支部　濱田武律裁判長_1 https://note.com/hirono2020kk/n/ncfa7520926f1
+- 071_第1審事件記録1／3　平成07年03月28日付　決定　原告　安藤文　被告　廣野秀樹　右取調べに要する費用1万0610円につき・・・納付することを命ずる。裁判官古川龍一_1-2 https://note.com/hirono2020kk/n/n1c7f4163d7e2
+- 074_業務日報_1-30 https://note.com/hirono2020kk/n/nf948ef121720
+- 074_業務日報_31-60 https://note.com/hirono2020kk/n/nff4f5d885e78
+- 074_業務日報_61-90 https://note.com/hirono2020kk/n/n4c1029244651
+- 074_業務日報_91-120 https://note.com/hirono2020kk/n/n814d72ff4989
+- 074_業務日報_121-150 https://note.com/hirono2020kk/n/n7b463d9aa685
+- 074_業務日報_151-180 https://note.com/hirono2020kk/n/n30e5ac51065b
+- 074_業務日報_181-203 https://note.com/hirono2020kk/n/n27e6b74f4746
+- 076_平成11年02月25日付　決定（再審請求棄却）　金沢地方裁判所第三部　裁判長　石山容示　裁判官　梅本圭一郎　裁判官　山本正道_1-6 https://note.com/hirono2020kk/n/nadffa02049a9
+- 077_平成11年12月21日宣告　判決　検察官下平豪出席の上審理　弁護人（国選）野田政仁　求刑懲役2年　金沢地方裁判所裁判官　小川賢司　7頁_1-7 https://note.com/hirono2020kk/n/n75262062e00f
+- 078_平成12年06月06日付　山口治夫弁護士　上告趣意書_1-6 https://note.com/hirono2020kk/n/ndb0d798c9f9c
+- 079_平成17年05月05日付　告発状　金沢地方検察庁御中　44頁_1-30 https://note.com/hirono2020kk/n/n8327b3a0eef6
+- 079_平成17年05月05日付　告発状　金沢地方検察庁御中　44頁_31-44 https://note.com/hirono2020kk/n/n419e7629e1d5
+- 080_平成17年11月18日付　返戻書　金沢地方検察庁検察官_1 https://note.com/hirono2020kk/n/n67399b13466c
+- 081_平成18年10月02日付　告訴状　金沢地方検察庁御中＿15頁_1-15 https://note.com/hirono2020kk/n/nf1a60d91635f
+- 082_平成18年10月16日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時29分40秒_1 https://note.com/hirono2020kk/n/n95896ef37673
+- 083_平成18年12月12日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時24分45秒_1 https://note.com/hirono2020kk/n/n6acc379cd0dc
+- 088_令和4年7月26日　廣野秀樹殿　金沢地方検察庁検察官　書面等の返戻について_1-2 https://note.com/hirono2020kk/n/ndf68cc7dc488
+- 096_第1審事件記録3／3　平成04年04月01日付　自首調書　廣野秀樹　金沢西警察署　司法警察員　巡査部長　箕谷芳久　12頁_1-12 https://note.com/hirono2020kk/n/n4a194aa7c2c0
+- 097_第1審事件記録3／3　平成04年04月02日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　巡査部長　箕谷芳久　15頁_1-15 https://note.com/hirono2020kk/n/ncd394bb6a64e
+- 098_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_1-30 https://note.com/hirono2020kk/n/nf63016bae591
+- 098_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_31-60 https://note.com/hirono2020kk/n/n53372f119872
+- 098_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_61-70 https://note.com/hirono2020kk/n/n9cccdbf15ac6
+- 099_平成06年03月08日付　処分通知書　金沢地方検察庁　検察官　平成5年12月28日付告訴 https://note.com/hirono2020kk/n/n6d94e4dbd870
+- 100_平成29年03月31日付　処分通知書　金沢地方検察庁　検察官検事　宮下浩　被疑者　被告発人木梨松嗣他 https://note.com/hirono2020kk/n/n1c03370b171e
+- 106_H04-10-26_平成4年10月26日付　事前準備書　弁護人　被告発人木梨松嗣弁護士　甲第二一号証_1-3 https://note.com/hirono2020kk/n/na734e530f670
+- 107_H04-11-04_平成4年11月4日付　答弁書　名古屋高等検察庁金沢支部　検察官検事　松浦由記夫　甲第一二号証_1-4 https://note.com/hirono2020kk/n/n84ec1764e0a7
+- 108_H04-11-10_平成4年11月10日　第一回公判調書（手続）　名古屋高等裁判所金沢支部第二部　濱田武律裁判長　甲第一三号証_1-4 https://note.com/hirono2020kk/n/n53f10d0f09ce
+- 109_H04-12-22_平成4年12月22日　第二回公判調書（手続）　名古屋高等裁 判所金沢支部第二部　被告発人小島裕史裁判長　甲第一四号証_1-4 https://note.com/hirono2020kk/n/nf629c422c05f
+- 110_H05_平成5年日付不明　職権　証拠等関係カード　甲第二〇号証_1 https://note.com/hirono2020kk/n/n6873bf1f5ea3
+- 111_H05_平成5年日付不明　弁護人　証拠等関係カード　甲第二〇号証_1-2 https://note.com/hirono2020kk/n/n910fa4e5e9be
+- 112_H05-01-19_平成05年01月19日　第三回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一五号証_1-4 https://note.com/hirono2020kk/n/nc55a98809751
+- 113_H05-01-19_平成05年01月19日　被告人供述調書（第三回公判調書と一体）　廣野秀樹　名古屋高裁金沢支部　甲第二二号証_1-27 https://note.com/hirono2020kk/n/nb9839a7734fb
+- 114_H05-02-25_平成5年02月25日　第四回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一六号証_1-4 https://note.com/hirono2020kk/n/nce0a61631abe
+- 115_H05-02-25_平成5年日付不明　鑑定人尋問調書（第四回公判調書と一体）　山口成良　金沢大学教授　名古屋高裁金沢支部　甲第二三号証_1-3 https://note.com/hirono2020kk/n/n4939f5e218fb
+- 116_H05-07-20_平成5年07月20日　速記録　山口成良　金沢大学教授　名古屋高裁金沢支部　甲第二四号証_1-8 https://note.com/hirono2020kk/n/n90be0f7ae88b
+- 117_H05-07-20_平成5年07月20日　第五回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一七号証_1-2                                                                  https://note.com/hirono2020kk/n/n0bbbf4698b7a
+- 118_H05-09-07_平成5年09月07日　第六回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一八号証_1-2 https://note.com/hirono2020kk/n/n545914e82d79
+- 119_H05-09-20_平成5年09月20日付　上告申立書　甲第一九号証_1 https://note.com/hirono2020kk/n/n9de50e4a6f0e
+- 120_H05-12-22_平成5年12月11日付　上告趣意書（被告人の手書きの書面）　甲第二七号証_1-28 https://note.com/hirono2020kk/n/n531ba39fcfda
+- 121_H05-12-24_平成5年12月24日付　上告趣意書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二五号証_1-13 https://note.com/hirono2020kk/n/n5ce438791ee3
+- 122_H05-12-24_平成5年12月24日付　上申書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二六号証_1-2 https://note.com/hirono2020kk/n/ndb0155ddf21d
+- 125_第1審事件記録3／3　平成04年04月09日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　56頁_1-30 https://note.com/hirono2020kk/n/ne3dfb8455dde
+- 125_第1審事件記録3／3　平成04年04月09日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　56頁_31-56 https://note.com/hirono2020kk/n/n09376766ff3d
+- 126_第1審事件記録3／3　平成04年04月10日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　36頁_1-30 https://note.com/hirono2020kk/n/n745df4f0eaef
+- 126_第1審事件記録3／3　平成04年04月10日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　36頁_31-37 https://note.com/hirono2020kk/n/n3dd156eabb24
+- 127_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁_1-30 https://note.com/hirono2020kk/n/n316556e60770
+- 127_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁_31-60 https://note.com/hirono2020kk/n/nf478ccfc7a1a
+- 127_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁_61-64 https://note.com/hirono2020kk/n/n265968237c08
+- 128_第1審事件記録3／3　平成04年04月14日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　19頁_1-19 https://note.com/hirono2020kk/n/n15bbd4223fbb
+- 129_第1審事件記録3／3　平成04年04月15日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　10頁_1-10 https://note.com/hirono2020kk/n/ne3b2b19e6e54
+- 130_第1審事件記録3／3　平成04年04月16日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　16頁_1-60 https://note.com/hirono2020kk/n/n857b1ad3d29f
+- 131_第1審事件記録3／3　平成04年04月18日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　22頁_1-22 https://note.com/hirono2020kk/n/ne1a7bdae5a52
+- 132_第1審事件記録3／3　平成04年04月29日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　14頁_1-14                                                                                                                                                https://note.com/hirono2020kk/n/n51b2b26e8707
+- 133_第1審事件記録3／3　平成04年06月18日付　警視　宮野浩殿　操作報告書　石川県立病院　金沢西警察署　司法警察員　警部補　谷内孝志　6頁_1-6 https://note.com/hirono2020kk/n/nbff93db56103
+- 134_斐川雅文弁護士郵送　平成05年12月06日から平成6年6月5日まで閲読許可証　運行表コピー（4枚）　4枚_1-4 https://note.com/hirono2020kk/n/nc153f4242936
+- gitのトラブルと更新 https://note.com/hirono2020kk/n/n21858fcc6699
+- 「 戦争は国民に「等しく」受忍を強いるのではない。金持ちは生き残り、貧乏人や孤児は死ぬのである。」というリツイート https://note.com/hirono2020kk/n/nb47983172fa2
+- 志位和夫さんはTwitterを使っています： 「自民党は、統一協会と接点のあった議員らを、事実解明や国民への十分な説明がないまま、次 https://note.com/hirono2020kk/n/n3ceaf05451c4
+- 8月10日夜8時44分にパソコンの机の上に出てきたコオロギ https://note.com/hirono2020kk/n/ne7e49cafde64
+- 2023-08-11_113258＿ココナッツサブレ.JPG https://note.com/hirono2020kk/n/n2a33d599793c
+- 2023年8月11日、宇出津新港とnoteAPIの新規プログラム作成、データベースの再構築 https://note.com/hirono2020kk/n/n7131798628e0
+- Kindle出版の収益と思われる2023年7月31日に1円という通帳記載 https://note.com/hirono2020kk/n/nb90a896a52fd
+- 北國新聞で731部隊の会員専用記事と羽咋特別号外、能登町役場内にて（2023年7月31日の記録） https://note.com/hirono2020kk/n/n8e649e4b9325
+- 金沢地方検察庁検事正の退任と就任という歴史的記事を発見した2023年7月14日の全写真（1から30） https://note.com/hirono2020kk/n/n9e0703db0ea3
+- 金沢地方検察庁検事正の退任と就任という歴史的記事を発見した2023年7月14日の全写真（31から55） https://note.com/hirono2020kk/n/n7e6ce5944c12
+- 2012年1月のスクリーンショット3枚、古いUSBから発見 https://note.com/hirono2020kk/n/n3ed5d5e4eb3a
+- 平成16年8月23日付「返戻書」金沢地方検察庁検察官の写真を発見、大型封筒3つが並べてある https://note.com/hirono2020kk/n/n8fa9aa973fec
+- 平成16年に撮影したらしい平成6年3月8日付の処分通知書・金沢地方検察庁の写真 https://note.com/hirono2020kk/n/nb27ae787e997
+- 平成15年（た）第1号、という再審請求棄却決定書の写真、現物は家の中で見つからなくなっている https://note.com/hirono2020kk/n/n5fe8f87ba5ab
+- 2008年11月2日が撮影日となっているノートパソコンの写真、たぶん2台目のデジカメで撮影 https://note.com/hirono2020kk/n/nfa2f134cb92c
+- 2008-12-06-kokuso.txtというテキストファイルにあるノートパソコンとLinuxの当時の利用状況 https://note.com/hirono2020kk/n/n288ca06a78aa
+- USBメモリから2010年5月当時のLinux、Twitterのスクリーンショットを複数発見、ハピネス学園大網健二の記録を含む https://note.com/hirono2020kk/n/nad39e1ad3f85
+- Googleの翻訳で「奉仕する力」と出てきたFreeBSD、自分史の原点ともいえる平成10年のUNIXとの出会い https://note.com/hirono2020kk/n/n66047413f857
+- 「恩送り」という初めてみたかもしれない言葉が出てきた、8月12日夜、深澤諭史弁護士のTwitterタイムライン https://note.com/hirono2020kk/n/n5e0067db1c07
+- 7月7日から始まっていた市川寛弁護士のTwitter https://note.com/hirono2020kk/n/n2fef10b10461
+- 「某地検にいた時、修習生指導担当検事が」という市川寛弁護士のツイートの記録 https://note.com/hirono2020kk/n/n1804bacea368
+- - 予備校は教えてくれない刑事実務基礎の対策法｜冬次郎_Tojiro ＠基本書シェアリサーチ https://note.com/hirono2020kk/n/n76dbed66ebc7
+- - Tojiroの司法試験/予備試験受験生向け記事まとめ｜冬次郎_Tojiro ＠基本書シェアリサーチ https://note.com/hirono2020kk/n/nb6df4e224454
+- 図書館に弁護士 https://note.com/hirono2020kk/n/n59c05a12a33c
+- アネット・キャラゲインという米国人女性弁護士 https://note.com/hirono2020kk/n/n6d7b6cfd6996
+- アメリカ最高裁の判事が「30年以上も高額接待を受け豪遊」　米報道（毎日新聞） https://note.com/hirono2020kk/n/n7d0a834f3b50
+- 「☓証拠の精査○無罪推定則の認識と理解」という検察の再審請求で、畑中鐵丸弁護士のツイート https://note.com/hirono2020kk/n/nc9a7da90a936
+- 法曹養成流行語大賞 2011年大賞受賞作品「図書館に弁護士」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/nbb93412e5dd7
+- noteできちんと表示されない深澤諭史弁護士の埋め込みツイート https://note.com/hirono2020kk/n/n03ff12375ee1
+- noteAPIを使ったデータベース更新（２０２３年８月１５日） https://note.com/hirono2020kk/n/n4142580460ed
+- 「法曹需要は明らかに見誤ってましたね」という８月１２日の深澤諭史弁護士に対する返信ツイートの記録 https://note.com/hirono2020kk/n/n3fca2bafd247
+- 「着手なしで出来高でやってくれという地雷臭ぷんぷんの客が、」という弁護士の嘆きのようなツイート https://note.com/hirono2020kk/n/n1f93a59e2cb3
+- 「顧問先の社長」というツイートのまとめと記録 https://note.com/hirono2020kk/n/n048cd5f9be15
+- 「貴重な小さな幸せに感謝」という塾長、伊藤真弁護士、深澤諭史弁護士のリツイートでの発見 https://note.com/hirono2020kk/n/nbb207b93bd7a
+- 「伊藤塾」と伊藤真弁護士、塾長に関連した記録 https://note.com/hirono2020kk/n/ne994c8711310
+- 合格者の10人に9人が伊藤塾という、固定ツイート、たぶん司法試験の合格者のこと、2023年8月16日未明の発見 https://note.com/hirono2020kk/n/nb2dd466b6050
+- 「（受験資格、法曹資格）へのリスペクトはゼロ」という2023年8月14日の深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/nd47b903029d1
+- あ https://note.com/hirono2020kk/n/n6e48d6bc96e2
+- 「統一教会は、金のために世界中で違法行為をしてる様子。」という、ひろゆき氏のツイート https://note.com/hirono2020kk/n/nd1af73e2faa2
+- 加害者と被害者どちらが悪いかという問題設定だと双方の意見の本質がぼやける、という弁護士ツイート https://note.com/hirono2020kk/n/n965180dd8100
+- 「歪んだ正義感」の実態、という弁護士ドットコムの記事が出てきた髙橋裕樹弁護士のツイートと、起訴されていたことを知る事件 https://note.com/hirono2020kk/n/n0954562e0721
+- マックのナゲット「熱すぎ」で1億円の賠償命令　米国で提訴相次ぐ：朝日新聞デジタル https://note.com/hirono2020kk/n/n78f40a6b0446
+- マクドナルドのコーヒー売り上げ高の2日間分に相当する270万ドル(約2億7000万円)を懲罰的損害賠償額 https://note.com/hirono2020kk/n/nf0bc98dc549f
+- つちはし行政書士事務所　鹿児島県鹿屋市　日本に懲罰的損害賠償制度（ないしそれに代わるもの）を導入することの是非 https://note.com/hirono2020kk/n/n6214b25d8aaa
+- 「懲罰的損害賠償を認めた裁判例」という、さっぽろ大通り法律事務所の記事 https://note.com/hirono2020kk/n/ned560bfe5974
+- 「弁護人も含め、どうやって被告人を有罪にするか会議みたいになることが」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/n09405f40f024
+- 保坂展人氏のエトナ山が噴火、のツイートから続いた、弁護士の風景の関連ツイート https://note.com/hirono2020kk/n/n17474bfb289d
+- 新人・若手弁護士向け メモ｜スラ弁（弁護士大西洋一） https://note.com/hirono2020kk/n/n5da69ea915b3
+- 依頼者の性格・態度・心理状態を理由とする場合　｜　受任に慎重になる（弁護士向け）｜スラ弁（弁護士大西洋一） https://note.com/hirono2020kk/n/ne21ca2fddd6d
+- 過労自殺した若手医師、「限界です」両親へ遺書…病院側は長時間労働の指示否定 : 読売新聞 https://note.com/hirono2020kk/n/nf14c4dfbc273
+- 「せめて検察は自ら会見開いて不起訴を発表すべきでしょう」というジャーナリストの江川紹子氏のツイート https://note.com/hirono2020kk/n/n3faec05f7a02
+- 金沢弁護士会のGoogle検索10ページ目までの記録（2023年8月17日） https://note.com/hirono2020kk/n/nb684f17fbec2
+- 大西洋一弁護士のツイートに出てきた弁護士の事務所の家賃やその他の経費 https://note.com/hirono2020kk/n/n870fbcdf88d1
+- 「塾長の「憲法思想」はよくわかるんです。」という伊藤健弁護士のツイート、実務家として攻撃防御法の研究とも https://note.com/hirono2020kk/n/n679769b5ac50
+- 「【ご報告】生活保護基準引下げ違憲訴訟（富山地裁）が結審」という伊藤健弁護士のツイート https://note.com/hirono2020kk/n/ndd520e97c603
+- 「「姉は自然災害で亡くなったわけではない」ウィシュマさん問題で遺族」という望月衣塑子記者のツイート https://note.com/hirono2020kk/n/nd61b6dcc1118
+- 「教員過労死で滑川市長など遺族宅訪れ面会　賠償命じる判決受け」の経緯、との関連が気になる伊藤健弁護士 https://note.com/hirono2020kk/n/nce7505008218
+- 「滑川市の教員過労死、市長が遺族に面会」という朝日新聞の記事には名前が出てきた、松丸正弁護士 https://note.com/hirono2020kk/n/n096a12865997
+- 松丸正弁護士が所属する堺法律事務所、集合写真には7人、プロフィールは数えて8人の弁護士 https://note.com/hirono2020kk/n/n3f867512e8a1
+- noteで令和5年8月の告発状を草案というアイデア https://note.com/hirono2020kk/n/nae15a40b7f8a
+- 「総務省は18年、加害者の代理人弁護士からの請求にも同様の対応をするよう自治体に通知した。」という記事 https://note.com/hirono2020kk/n/nd18d9eeb2473
+- Xユーザーの🍙高橋ユキ🍙さん： 「妹を殺した犯人と対峙した115分　身勝手な男を変えた兄の一言 https://note.com/hirono2020kk/n/n9f631c9f3312
+- 鴨志田裕美弁護士が紹介した「「再審法」何が問題？＜イチから！解説＞」という北海道新聞の記事 https://note.com/hirono2020kk/n/nf3f7b98a1ac5
+- 承諾殺人認めた１審に不服　元同僚の女性教諭殺害事件で検察が控訴　北海道・釧路地検 ｜ 北海道 ｜ ニュース ｜ ＳＴＶ札幌テレビ https://note.com/hirono2020kk/n/n61b15b6dcd69
+- 黙秘の親子３人　役割や犯行の動機は？　捜査の最新情報　札幌すすきの殺人 ｜ 北海道 ｜ ニュース ｜ ＳＴＶ札幌テレビ https://note.com/hirono2020kk/n/na7010618981f
+- ススキノ頭部切断事件　加害者親子への減刑署名が3日で1000人突破「気持ちは痛いほどわかる」「時期尚早」と賛否 | 女性自身 https://note.com/hirono2020kk/n/nbb6742fee511
+- ススキノ切断遺体、両親「娘はナイフ収集が趣味」「殺害は事件後に知った」 ： 読売新聞 https://note.com/hirono2020kk/n/n88299e27190c
+- 川口泰司裁判官の検索で、指宿昭一弁護士が出てきた復刻版裁判のような部落開放問題の記事 https://note.com/hirono2020kk/n/n0c2a7f088f9b
+- 「多くの人の抗議により、Amazonは取引中止にしたが、示現舎は他の書店を通して出版を計画」という記事 https://note.com/hirono2020kk/n/ne7f1e42a5e4a
+- 「ここで同和教育に抱いた違和感が、宮部が同和問題に関心を持つ原点になった。」というWikipediaのページ https://note.com/hirono2020kk/n/n27f8437b66a5
+- 平成11年（わ）第238号傷害被告事件刑事裁判の犯罪性（1） https://note.com/hirono2020kk/n/nac735075cf78
+- 《地名を公開する男を直撃》部落解放同盟を執拗に敵視する「鳥取ループ」裁判　“憎悪の原点”とは？ | 文春オンライン  https://note.com/hirono2020kk/n/n5fa5131b56a1
+- 「被害者が加害者になっちゃうことにもなりかねないので、このあたりは、ちゃんと慎重かつ適正に」という深澤諭史弁護士 https://note.com/hirono2020kk/n/n52365a35f3ad
+- 「（・∀・）まさに、最高裁判例が、弁護士法72条の趣旨について、同じようなことを言っていますね。」という深澤諭史弁護士 https://note.com/hirono2020kk/n/nc720444b2d63
+- 「犯罪被害という法律事件について法律事務たる代理をすることになるので、結局、」という深澤諭史弁護士 https://note.com/hirono2020kk/n/n7bd2cdcb87f9
+- 「実は我々弁護士ってヤ〇ザとやってること一緒なんですよ(;´д｀)」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/n45c7172538bb
+- 久保利弁護士「弁護士が増えれば社会悪は確実に減る」「法科大学院と法曹人口増大は正義の総量を拡大させる施策である」 https://note.com/hirono2020kk/n/n976755d0cf21
+- ローの法学者「なんでせっかくゲットした利権を手放さないといけないの？」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n67f1370e08da
+- 「司法試験に合格できたのは「シケタイ」のおかげです。」という伊藤塾に感謝の深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n84c1624e33b5
+- 「「不適切ではない」という検察の倫理。せめて検察は自ら会見開いて不起訴を発表すべき」というジャーナリストの江川紹子氏 https://note.com/hirono2020kk/n/ndad885fd0f91
+- 裁判長に「後悔するぞ」…工藤会総裁「弁護士全員解雇」戦慄の背景 | FRIDAYデジタル  https://note.com/hirono2020kk/n/n0d63a7ab019a
+- 検証「大崎事件」　アナザーストーリーを追う｜【西日本新聞me】 https://note.com/hirono2020kk/n/nc3d8c2343677
+- パソコンのスペックと、8月18日の大西洋一弁護士に対する返信ツイート https://note.com/hirono2020kk/n/n3e8111f49aa9
+- 日弁連の代議員と知った大西洋一弁護士と合わせて考える、被害者安藤文さん家族の思いと未来（編集中） https://note.com/hirono2020kk/n/n442b0eb1ac77
+- 「否認すると200日、300日も身柄拘束される実態は、 国際社会には一層衝撃的」という郷原信郎弁護士のツイート https://note.com/hirono2020kk/n/neb90a3598584
+- 「関東大震災から100年 朝鮮人虐殺はなぜ“なかったこと”にされるのか」という保坂展人世田谷区長のツイート https://note.com/hirono2020kk/n/n36d747f0a6bd
+- 「攻撃的な内容を含む可能性のある返信も表示する」になっている大西洋一弁護士への返信ツイート https://note.com/hirono2020kk/n/n21a0ca099961
+- pandocでWordのdocxファイルをMarkdownのテキストファイルに変換 https://note.com/hirono2020kk/n/n99203a0666c6
+- 「法科大学院への入学者が減っていったのは、弁護士会のネガティブキャンペーンのせい」の関連ツイート https://note.com/hirono2020kk/n/n561b5ced4d1c
+- 数年ぶりにLinux（Ubuntu）のLibreOfficeでpythonマクロが使えるようになった https://note.com/hirono2020kk/n/nef835edafd0d
+- 能登町役場で見た北陸中日新聞の社会1面、マルタという大きな見出しの731部隊のトップ記事（資料編） https://note.com/hirono2020kk/n/n880c94f7c52f
+- 「攻撃的な内容を含む可能性のある返信も表示する」になっている大西洋一弁護士への返信ツイート：資料編（2） https://note.com/hirono2020kk/n/n57f0bb02b3bf
+- 【速報】DJ SODA事件で"接触した犯人"が「顔出し謝罪＆警察に出頭」「大変すみませんでした」 https://note.com/hirono2020kk/n/n9699294ac5e8
+- ＤＪ ＳＯＤＡわいせつ被害事件に関連した深澤諭史弁護士のツイートの記録 https://note.com/hirono2020kk/n/n2e164ff398d7
+- 大阪市内で記者会見し、「DJ　SODAさんの意向というよりも、主催者として犯罪行為を許せない」と告発の経緯を説明 https://note.com/hirono2020kk/n/n1fa08817fa41
+- 「角川新書の2位まであがってるな。順調。」という明石順平弁護士のツイート、深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/nd86fcb396e73
+- 明石順平弁護士の軽薄、皮相、過剰と思える検察批判を過去の記録から発見　#検察庁法改正案に https://note.com/hirono2020kk/n/na138993c9345
+- 「昔の司法試験もそういう側面あった気がする。」という大西洋一弁護士のツイート https://note.com/hirono2020kk/n/n1eb892617b0a
+- 「養分を根から吸い上げるのは、道管と師管のどちら」という深澤諭史弁護士のツイートを引用したツイート https://note.com/hirono2020kk/n/n6db50561ed46
+- 成仏 #一般人と俺達で決定的に意味が違う という深澤諭史弁護士のツイート、弁護士と成仏の記録 https://note.com/hirono2020kk/n/n1141419f65ab
+- 法クラともいうTwitterの弁護士界隈で、「成仏理論」という流行り言葉の記録 https://note.com/hirono2020kk/n/nd86dff58cdbd
+- 「（＾ω＾）専門家向けの単著ですお。これは、来年のQ1あたりには、刊行できそうですお。」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/nea67aff0dda0
+- 弁護士の護身術~人的トラブルに巻き込まれないための心得~深澤 諭史 | 2023/9/22 https://note.com/hirono2020kk/n/n09292b737e3d
+- 「なおさら即ポリス屋さんに繋ぐんだぞ」という匿名弁護士うの字のツイート https://note.com/hirono2020kk/n/nc9f14f073ac7
+- 「頭が悪くて態度が悪い人には互助が発生しないから福祉があるんである」という深澤諭史弁護士のリツイート、うの字のツイート https://note.com/hirono2020kk/n/n43e356f50cc8
+- 「この「首相」ほど、「責任」とか「説明」という言葉に相応しくない人はいない。」という郷原信郎弁護士のツイート https://note.com/hirono2020kk/n/n020b2a5b46c2
+- 被差別部落に生まれて: 石川一雄が語る狭山事件 単行本 – 2023/5/19 https://note.com/hirono2020kk/n/n346a6e6d91d1
+- 福田村事件 －関東大震災・知られざる悲劇 単行本（ソフトカバー） – 2023/6/24 https://note.com/hirono2020kk/n/n34792c2cd3b6
+- 検証 ナチスは「良いこと」もしたのか？ (岩波ブックレット 1080) 単行本 – 2023/7/6 https://note.com/hirono2020kk/n/n8acca0340e8e
+- 南野森教授が写真で紹介する「検証　ナチスは「良いこと」もしたのか？」という本のツイート（7月9日） https://note.com/hirono2020kk/n/n3e09fa9c898b
+- 7月10日の夕方、能登町役場内でみた「金沢地検　不起訴率14年連続50％超の記事」という9日の北國新聞の記事 https://note.com/hirono2020kk/n/n84985e3e8d6d
+- 「枯死した「木」にしがみつき、守ろうとしているのは、警察・検察のメンツ以外に何もないだろう」というジャーナリストの江川紹子氏 https://note.com/hirono2020kk/n/nc1db2de66240
+- 倉田真由美というTwitterアカウント、政治家と思っていたらミステリー小説のような事件が出てきた意外性 https://note.com/hirono2020kk/n/n93fffb3c24fd
+- 【SODA】麻生泰医師「僕は、セカンドレイパーって事で結構です。全員日和やがって… だから日本はやられるんだよ」 https://note.com/hirono2020kk/n/n841df4f751f2
+- ヒカキン「汚染された魚介類は食べたくない。日本の魚は放射性物質が濃縮されて終わってる！」 https://note.com/hirono2020kk/n/na18c51057e39
+- 「ヒカキン　汚染水」というTwitter検索、意外に少ない数 https://note.com/hirono2020kk/n/n0be9e366f333
+- 「ヒカキン　振込」というTwitter検索、山口県の市町村名が見つからず、前に印象的な話題があった記憶 https://note.com/hirono2020kk/n/n4bc7020d489a
+- 4630万円誤送金問題の田口翔を保釈直後に独占インタビューしました - YouTube https://note.com/hirono2020kk/n/na68b2d7e0375
+- 【ホリエモン】DJ SODA事件について日本の警察が全く動かない理由が分かりました。この事実はメディアでは一切報道されていません。【中田敦彦のyoutube大学 堀江貴文】 - YouTube https://note.com/hirono2020kk/n/n17844bdd1aa4
+- 元の建築が美しかったため廃墟独特の美的価値が生じ、廃墟マニア達をひきつける存在になっていた、という白雲楼ホテル https://note.com/hirono2020kk/n/naf1f9df35e77
+- ジャーナリズムに歴史的疑問を感じさせる有田芳生氏の「宇出津」をキーワードに含むツイートの記録、宇出津事件 https://note.com/hirono2020kk/n/nbbe1cd468d03
+- 名取裕子が出てきた「在りし日の白雲楼ホテル　-金沢-」というYouTube動画 https://note.com/hirono2020kk/n/n483319723dca
+- 2022年4月8日の深夜、金沢のホテルの部屋で視聴した、テレビのNHKで「けものみち」名取裕子主演（写真24枚） https://note.com/hirono2020kk/n/n321710163e89
+- 「和解職人」から「言うとおりにして派手に散った方が恨みは少ない。」という流れ https://note.com/hirono2020kk/n/n2f2ae14f00d1
+- 作成時期の疑問 https://note.com/hirono2020kk/n/n5ccca6cd3807
+- 「一　心神喪失・耗弱について」という部分／被告発人木梨松嗣弁護士の平成4年12月21日付・控訴趣意補充書 https://note.com/hirono2020kk/n/n24c3aaa2cc6a
+- 被告発人木梨松嗣弁護士と被告発人大網健二の関係／被告発人木梨松嗣弁護士の平成4年12月21日付・控訴趣意補充書 https://note.com/hirono2020kk/n/n5fd63797644d
+- ＊被告発人木梨松嗣弁護士の平成4年12月21日付・控訴趣意補充書 https://note.com/hirono2020kk/n/n59402ab0fc3e
+- 「何かの記事で見た 検察官が弁護士職務経験を経て「こんなに、簡単に勾留請求がされ、」というツイート https://note.com/hirono2020kk/n/n76ca5afee1b2
+- 「弁護士が増えたら弁護士報酬が安くなると思う方がいるけどアメリカの例を」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/n4845e1e421a0
+- 弁護士報酬について「価格競争が限界に達すれば、品質をいじるしかない」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/naec8f1487193
+- 「（；・∀・）平成の司法改革における、「自分は絶対に安全圏から1歩も出ないけれども」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/nfc36f9a470fc
+- ポカリスエットの公式TwitterのCMに出てきたのは、たぶん松坂慶子、違っているかも https://note.com/hirono2020kk/n/n8443ac77d80a
+- 「ワイは、ベンリンがたりていないから、全く問題ないと思うんよなあ。」というピピピーッ　@O59K2dPQH59QEJxのツイート https://note.com/hirono2020kk/n/n48aeac7571d0
+- 「修習生「知らなかったのか？修習生からは、逃げられない・・・！！」」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n8a080d28c60b
+- 「良心に誓って誠実に鑑定することを誓います。」という被告発人山口成良金沢大学教授の宣誓書 https://note.com/hirono2020kk/n/n20a42cf21147
+- 「再審請求と刑事告発の証拠方法公開サイト」の趣旨・目的 https://note.com/hirono2020kk/n/n8c97a23331d2
+- 「弁護士は事件の中でしか鍛えられない」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/nc1ecaec48ef8
+- 「法テラ国選に依存している先生は一定数いますよね。主にミニマム人権系とか。」というツイート https://note.com/hirono2020kk/n/ne04b9f7ecb3b
+- 【神戸・甲南医療センター26歳医師自殺】 | 文春オンライン https://note.com/hirono2020kk/n/n640de5808982
+- 「慶應義塾出身のはあちゅうさんに、同じく慶應義塾出身の俺が、名誉毀損で訴えられたときの判決全文がこれ」 https://note.com/hirono2020kk/n/nf736af740809
+- 「今年の人権大会＠長野では「地域の家庭裁判所が真に住民の人権保障の砦」という刑裁サイ太のツイート https://note.com/hirono2020kk/n/n7dbab233541e
+- GitHubリポジトリーの更新、ローカルIPが変わっていた https://note.com/hirono2020kk/n/nf38be10ed9ee
+- 知的障害者が「奴隷労働状態」　牧場と北海道恵庭市に賠償求め提訴 https://note.com/hirono2020kk/n/na7009ec26a07
+- ジャニーズ性加害問題で巻き起こる当事者、取材者、マスコミへの批判　前略、塀の上より（4）｜高橋ユキ https://note.com/hirono2020kk/n/n1340be52189f
+- 工藤会刺傷２事件、ナンバー２側「独断で指示」と控訴審で主張検討…全面否認一転か：地域ニュース : 読売新聞  https://note.com/hirono2020kk/n/nb8ca5b19b69e
+- 「頂き女子りりちゃん」逮捕　パパ活マニュアルで詐欺手助け容疑：朝日新聞デジタル https://note.com/hirono2020kk/n/n4f04b9af18ed
+- 「頂き女子りりちゃん」として東京・歌舞伎町などで活動し、X（旧Twitter）でも1.3万人のフォロワーを持つ“頂き女子界のカリスマ” https://note.com/hirono2020kk/n/n317a9159bee8
+- 【法廷で】「同じ思いの人を作らないで」　自死の女性が残した手紙　被告の男の受け止めは…｜熊本日日新聞社 https://note.com/hirono2020kk/n/n0a6a535aca0b
+- フリーライター高橋ユキ氏のツイートで見かけた高評価の杉田宗久元裁判官が、ドラマの女優笛木優子に繋がる https://note.com/hirono2020kk/n/n557164e11341
+- 「町医者ジャンボ！！」というドラマと、被告発人安田敏の出身地、石川県鳳珠郡能登町鵜川のつながりを感じた8月25日 https://note.com/hirono2020kk/n/n6d6ed08ff6df
+- 真鯛や二重の虹、ウミネコの幼鳥が出てきた2018年8月25日の写真25枚、鵜川にわか祭の夜 https://note.com/hirono2020kk/n/nfd0a81ee3b7f
+- 2016年8月25日に行った、輪島大祭輪島前神社（輪島崎町）の写真17枚 https://note.com/hirono2020kk/n/nf09a404e3dbd
+- 2015年8月25日に行った、輪島大祭輪島前神社（輪島崎町）の写真14枚 https://note.com/hirono2020kk/n/n0a2dd911d20d
+- 2014年8月24日、鵜川のにわか祭から和倉温泉、能登島、七尾市内まで行った時の写真30枚 https://note.com/hirono2020kk/n/n8a4147d4f083
+- 2017年8月26日に行った、能登町鵜川の「にわか祭」の写真30枚 https://note.com/hirono2020kk/n/nc249fe78c1f0
+- 「（；・∀・）福島や被災者への同情を口にし、「風評被害」を批判してきた人々が」という深澤諭史弁護士 https://note.com/hirono2020kk/n/nd6544863588a
+- 「私の所属している「日本弁護士連合会」ってところは、真逆のことをしていて、大変困っています！」という深澤諭史弁護士 https://note.com/hirono2020kk/n/n98725a15b98a
+- 「都、高橋、菊川を相手に9回訴訟して全部敗訴し、しばらくの間ネタにされ続け」という高橋雄一郎弁護士 https://note.com/hirono2020kk/n/n7f44fd075bb1
+- 「「医者の卵」が歌舞伎町で課外実習、立ちんぼ女性に」というべべんべ弁護士ドットコムの記事 https://note.com/hirono2020kk/n/nff6600939009
+- 被告発人安田敏と東京に行った運行の記載から続く、2023年6月23日に能登町鵜川までバイクで行った時の写真30枚 https://note.com/hirono2020kk/n/n22aa2bb785f2
+- 「「節目あるなら犯人検挙の日」金沢・久安　会社員殺害15年」という6月25日の北陸中日新聞、能登町役場で撮影 https://note.com/hirono2020kk/n/n88090d3138d2
+- 「弁護士が手弁当で法科大学院と後進のためにどれだけ労力を投入」という深澤諭史弁護士の一連のツイートの記録 https://note.com/hirono2020kk/n/n2f315b6b0ec2
+- 「【解説】 福島第一原発の処理水放出、その背景の科学は(BBC News)」←　郷原信郎弁護士のツイート https://note.com/hirono2020kk/n/na155c9b7ccda
+- 「金沢・女性コーチ　殺人事件時効まであと500日、AB型の『男』はどこへ、石川県警は『犯人』に接触した」 https://note.com/hirono2020kk/n/n3ef45b246663
+- 「父の死は"殉職"なんです」“捜査するジャーナリスト”命かけた最期の事件｜ABEMAドキュメンタリー https://note.com/hirono2020kk/n/n47ed412a1f1c
+- GitHubリポジトリーの更新：Kindle/066/2023-08-31_告発状.docx https://note.com/hirono2020kk/n/ne1c8a16c2fc4
+- 被告発人木梨松嗣弁護士の罪となるべき事実／北陸中日新聞2023年8月28日付朝刊に出てきた出雲義浩刑務官 https://note.com/hirono2020kk/n/n594322932114
+- 被告発人木梨松嗣弁護士の犯罪性の証明として重要な証人となりうる出雲義浩刑務官 https://note.com/hirono2020kk/n/na6d8bbf73d75
+- ＊平成11年9月からの金沢刑務所の拘置所の生活で、担当の刑務官に入れられた動物園の獣の臭いがする独居房 https://note.com/hirono2020kk/n/n1ef9f85c2422
+- 主に深澤諭史弁護士のTwitterタイムラインの記録（2023年8月28日） https://note.com/hirono2020kk/n/n90ee2900eabb
+- 3日目になって、上司ではない別の刑務官に思えてきた北陸中日新聞の記事に出ている出雲義浩刑務官 https://note.com/hirono2020kk/n/n93573ea31efe
+- 無辜の不処罰と考えている裁判例がある（ことを問題視した）、というものがあって凍り付いた、という深澤諭史弁護士 https://note.com/hirono2020kk/n/n2c7eb7d5390f
+- 「弁護士の護身術　～人的トラブルに巻き込まれないための心得～」という深澤諭史弁護士の本の目次 https://note.com/hirono2020kk/n/nd99c3e128b84
+- 「弁護士の護身術　～人的トラブルに巻き込まれないための心得～」という本に関連した深澤諭史弁護士のタイムラインの記録 https://note.com/hirono2020kk/n/n730c7f3703d9
+- 金沢弁護士会平成6年7月20日付回答書（金沢弁護士会人権擁護委員会・委員長・若杉幸平）（写真 1 枚）.jpg https://note.com/hirono2020kk/n/na698c20039ea
+- 「ジャニーズは普通に潰れるのが最善でしょ。」という三浦義隆弁護士のツイート https://note.com/hirono2020kk/n/nfca024228be8
+- 「ジャニーズ事務所もこうやって悪評をマスコミやエンタメ業界によってかき消してきたわけですよ」という刑裁サイ太 https://note.com/hirono2020kk/n/n6c1cbb29c21f
+- 被告発人山口成良金沢大学教授の証人尋問（第五回公判・平成5年7月20日） https://note.com/hirono2020kk/n/n115cc0deca52
+- 法律事務所アルシエンの舟串信寛弁護士 https://note.com/hirono2020kk/n/n921d857db17d
+- 深澤諭史弁護士がリツイートをした奥村徹弁護士のツイートに占いや加持祈祷が出てきた。最近は見かけなかったアカウント https://note.com/hirono2020kk/n/ncba84bb90e91
+- 今夜リツイート済みが出てきた「「人質」になった創業社長」というツイート https://note.com/hirono2020kk/n/na0231fc5cb27
+- 2019年7月27日、恋路海岸から珠洲市立図書館、平成4年4月2日北國新聞夕刊の記事、旧柳田村 https://note.com/hirono2020kk/n/na211d1df7995
+- 高畑淳子は超進学校出身！早慶、お茶の水、東女、津田塾すべて合格していた/芸能/デイリースポーツ online https://note.com/hirono2020kk/n/n61e3da1ec84e
+- 令和5年8月31日付告発状全文（金沢地方検察庁御中・当日郵送） https://note.com/hirono2020kk/n/nb9b1b5068d0a
+- 「（・∀・）こういう人達に、法曹養成の中核を担わせるのは、やっぱり、問題」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n61f81b6b1e3c
+- 「②証拠あさりの何が問題なの？」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/n3abb81509827
+- NHK連続テレビ小説おしん、の視聴と、図書館での「武器としての労働法」という佐々木亮弁護士の本の発見 https://note.com/hirono2020kk/n/n1cd6d4c12256
+- 山添拓日本共産党参院議員・弁護士の「不法行為の「組織性、悪質性、継続性」は、積み上げられてきたというツイート https://note.com/hirono2020kk/n/n0a85e344fbc9
+- 武本夕香子弁護士が「これは必読書」という深澤諭史弁護士の「弁護士の護身術」という本 https://note.com/hirono2020kk/n/ned706f1a8a91
+- 逢坂誠二衆議院議員に送った関東大震災の朝鮮人虐殺に人間の狂気としたツイート、日本弁護士連合会の歴史的責任 https://note.com/hirono2020kk/n/ne8dd44c03bbe
+- 歴史的な動きを感じた深澤諭史弁護士のXタイムラインに現れた保坂展人氏のツイート https://note.com/hirono2020kk/n/n65203521093d
+- 「DVなんてしてません。みたいな人マジでいる。」という三浦義隆弁護士をリツイートの深澤諭史弁護士 https://note.com/hirono2020kk/n/nfd7ca0cca6f7
+- 市場急配センターで最後の行き荷の目的地となっていた埼玉県戸田市 https://note.com/hirono2020kk/n/n00fe68f77d1d
+- 「書いた看板を警察署近辺に設置する活動を、弁護士会がやるべきだと思う」という三浦義隆弁護士のツイート https://note.com/hirono2020kk/n/nb48b2f092a88
+- 「丘の上に登る」という北白川@GUv4i6のポストと、直前に思い出していた長岡市の近くのレストラン https://note.com/hirono2020kk/n/ne61ffaf5c736
+- 京アニ放火殺人事件の初公判弁護士の無罪主張に関連した北白川@GUv4i6のツイート https://note.com/hirono2020kk/n/nf5619da14341
+- 京アニ放火殺人事件の初公判に関連した深澤諭史弁護士のXタイムライン https://note.com/hirono2020kk/n/ne5a48e7b3307
+- 「心は痛まないね。無罪主張に心が痛むなんて、そんな弁護士はいないね。」というツイート https://note.com/hirono2020kk/n/n282338995d93
+- 「大規模な事件の書面を起案するときは、海の底まで深く潜り」という刑裁サイ太のXタイムラインで見かけたポスト https://note.com/hirono2020kk/n/nb764651853a8
+- 「３６人亡くなってるけど，性犯罪じゃないからちゃんと適正手続を踏んで刑事裁判を行うべきだよ」という刑裁サイ太 https://note.com/hirono2020kk/n/nd14c227df8e6
+- 「うちは親がちゃんとしててよかった。感謝しないとな｡」という京アニ放火殺人事件に関する大西洋一弁護士のポスト https://note.com/hirono2020kk/n/nc0b1dd04ee9f
+- 「たまに弁護士に怒鳴る方、事務員の悪口を言う方がいます。」という深澤諭史弁護士のリツイート https://note.com/hirono2020kk/n/nfe55d425ea70
+- 2023年3月12日の金沢地方裁判所刑事部との受発信の通話記録（記録資料） https://note.com/hirono2020kk/n/nd66f3a718fd3
+- さらば弁護士鉄道067／2023年9月7日の弁護士鉄道編（01） https://note.com/hirono2020kk/n/nb1b86941173b
+- 「冤罪はこうして作られる」という本を開いた2023年9月7日の発見 https://note.com/hirono2020kk/n/n64b8fef47611
+- 能登町に土砂災害警戒情報・読み終えた「司法修習生が見た裁判のウラ側」という本（2023.9.6） https://note.com/hirono2020kk/n/n35fd29e5c2d2
+- 石川県の雨雲レーダー（実況）と弁護士活動のスクリーンショットの記録（2023.9.6） https://note.com/hirono2020kk/n/nf7f72c4fbe82
+- 病院で母親の面会・平体の能都町火葬場跡地・喪服のような蝶（2023.9.6） https://note.com/hirono2020kk/n/ndb7c30cd300d
+- 「（；＾ω＾）成仏理論、輸出、ダメ、ゼッタイ。」という深澤諭史弁護士のツイート https://note.com/hirono2020kk/n/nfffeee6d4261
+- 深澤諭史弁護士とベリーベスト法律事務所代表・酒井将弁護士の意外なやりとり https://note.com/hirono2020kk/n/na334cd18096b
+- 本件再審請求・刑事告発事件においてスナップショットとなった2023年9月7日 https://note.com/hirono2020kk/n/n5e43a77afe74
+- 2023年9月7日に記録したスクリーンショット10枚 https://note.com/hirono2020kk/n/n4db24295d89b
+- 佐藤正子弁護士のXタイムラインで見た弁護士目線のジャニーズ問題 https://note.com/hirono2020kk/n/n4a6a4c80d20a
+- 「本邦のマスコミは元々狂っていたんです。マスコミがジャニーズとの共犯関係」という三浦義隆弁護士 https://note.com/hirono2020kk/n/n037fe43c1fc8
+- /home/a66/sc/2023-09-10_164248_加藤克佳　（Katsuyoshi　KATO）さんがリポストしました　深澤諭史　@fukazawas　学恩返し貯金 https://note.com/hirono2020kk/n/n8a065f5c34cb
+- 「後に裁判所も文春報道を真実と認めたのに、なぜ他メディアが沈黙し、そして世論が反応しなかったのか」（江川紹子） https://note.com/hirono2020kk/n/n7a3c00d9a127
+- 君弁護士たまふことなかれ、弁護士一代稼業と再認識した深澤諭史弁護士@fukazawasのXタイムライン https://note.com/hirono2020kk/n/nbd96a4949cc7
+- 2023年9月10日、宇出津商店街の歩行者天国によるイベント・夜の宇出津小学校 https://note.com/hirono2020kk/n/n28c5cac039e0
+- 2022年9月11日の夜、宇出津商店街のイベントで撮影した写真 https://note.com/hirono2020kk/n/n501700276dbd
+- 宇出津商店街のイベントに関連した2019年9月の写真 https://note.com/hirono2020kk/n/n199bc43cc1cf
+- 2019年8月2日、能登町武連の二子山付近で遭遇したイノシシの親子等の写真30枚 https://note.com/hirono2020kk/n/nac423b5e85f7
+- 宇出津商店街のイベントの時期に関連した2020年9月の写真 https://note.com/hirono2020kk/n/na2d88f26edc3
+- 「逮捕＝身柄拘束が続いている状態、かな」という江川紹子氏の戸舘圭之弁護士への返信ポスト https://note.com/hirono2020kk/n/n5c9c10406f2e
+- 深澤諭史弁護士のXタイムラインにみえるペンたろー（東京の街弁戦士）のポスト https://note.com/hirono2020kk/n/n43508659288c
+- さらば弁護士鉄道067／2023年9月7日の弁護士鉄道編：第6.終わりに https://note.com/hirono2020kk/n/n619873c16c5f
+- 2016年9月、珠洲市・蛸島キリコ祭などの写真22枚 https://note.com/hirono2020kk/n/n4b1049ea87c2
+- 【京アニ事件裁判】弁護側の戦術・主張を解説する【関西テレビ 神崎博報道デスク】 https://note.com/hirono2020kk/n/n4d7a5fe075b3
+- 008_甲第九一号証　平成05年05月26日名古屋高裁金沢支部受付（5月25日付）　精神鑑定書　75頁＋１_1-30 https://note.com/hirono2020kk/n/n3f77c6f613e2
+- 008_甲第九一号証　平成05年05月26日名古屋高裁金沢支部受付（5月25日付）　精神鑑定書　75頁＋１_31-60 https://note.com/hirono2020kk/n/nb50a174eb45b
+- 008_甲第九一号証　平成05年05月26日名古屋高裁金沢支部受付（5月25日付）　精神鑑定書　75頁＋１_61-76 https://note.com/hirono2020kk/n/n9bb718e70c98
+- 006-007_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_241-270 https://note.com/hirono2020kk/n/n7b86e21bf289
+- 006-007_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_271-300 https://note.com/hirono2020kk/n/n732dbf1b775a
+- 006-007_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_301-330 https://note.com/hirono2020kk/n/n4bfd89d32ac1
+- 006-007_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_331-344 https://note.com/hirono2020kk/n/n7c437510694a
+- 009_不明の手書きの全罫紙書面片面1枚 https://note.com/hirono2020kk/n/nae3dd154a79c
+- 009_甲第九三号証　平成05年09月07日付　判決　名古屋高裁金沢支部（被告発人小島裕史裁判長、横田勝年裁判官、横尾昭彦裁判官）　9頁＋1 https://note.com/hirono2020kk/n/n2ad3c867e5af
+- 017_甲第七号証　H04-08-03_平成4年8月3日　第三回公判調書（手続き）_1-2 https://note.com/hirono2020kk/n/nd707490a9344
+- 021_第1審事件記録1／3　平成04年04月02日付　逮捕状　事実の要旨　金沢簡易裁判所　裁判官　鈴木登_1 https://note.com/hirono2020kk/n/n318c59c7fdbf
+- 025_第1審事件記録1／3　平成04年04月21日付　起訴状（傷害）　金沢地方検察庁　検察官検事　江村正之_1-2 https://note.com/hirono2020kk/n/n43ec6bdb77e6
+- 032_小堀秀行弁護士の名前、住所、電話番号を手書きした紙（自分以外の筆跡）_1 https://note.com/hirono2020kk/n/n220eed113575
+- 041_第1審事件記録1／3　平成04年06月18日　　第一回公判調書（手続）　3頁_1-3 https://note.com/hirono2020kk/n/n1c3105d21b42
+- 042_第1審事件記録1／3　平成04年06月18日　冒頭陳述要旨　金沢地方検察庁　検察官検事　江村正之　甲号四号証　6頁_1-6 https://note.com/hirono2020kk/n/n9df94ca1b9ba
+- 046_第1審事件記録1／3　平成04年06月29日（公判をした年月日）　第二回公判調書（手続）　金沢地方裁判所第三部　3頁_1-3 https://note.com/hirono2020kk/n/na9e8d5844e17
+- 047_H04-06-30_平成4年日付不明　証人尋問調書（第二回公判調書と一体）　廣野巳代子　甲第一〇号証_1-9 https://note.com/hirono2020kk/n/n8aae100abc1d
+- 048_H04-06-30_平成4年日付不明　被告人供述調書（第二回公判調書と一体）　廣野秀樹　甲第一一号証_1-16 https://note.com/hirono2020kk/n/n14faf2edb224
+- 051_第1審事件記録1／3　平成04年08月06日付　控訴申立書　金沢刑務所　法務事務官看守　嶋弘　名古屋高等裁判所金沢支部御中_1 https://note.com/hirono2020kk/n/n5c59ee93a0ed
+- 059_第1審事件記録3／3　平成04年04月01日付　自首調書　廣野秀樹　金沢西警察署　司法警察員　巡査部長　箕谷芳久　12頁1-12 https://note.com/hirono2020kk/n/n4de757b26bd6
+- 060_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_1-30 https://note.com/hirono2020kk/n/n23b519966cd5
+- 060_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_31-60 https://note.com/hirono2020kk/n/nfba95f0283d3
+- 060_第1審事件記録3／3　平成04年04月07日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　70頁_61-70 https://note.com/hirono2020kk/n/n5f54b77bc20d
+- 061_第1審事件記録3／3　平成04年04月09日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　56頁_1-30 https://note.com/hirono2020kk/n/n084f5b73a8db
+- 061_第1審事件記録3／3　平成04年04月09日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　56頁_31-56 https://note.com/hirono2020kk/n/n1a8491a2bf84
+- 062_第1審事件記録3／3　平成04年04月10日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　36頁_1-30 https://note.com/hirono2020kk/n/n294f76a1f0e4
+- 062_第1審事件記録3／3　平成04年04月10日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　36頁_31-37 https://note.com/hirono2020kk/n/nb28f8800e84e
+- 063_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁_1-30 https://note.com/hirono2020kk/n/nee9a62c25534
+- 063_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁_31-60 https://note.com/hirono2020kk/n/n648720bedebd
+- 063_第1審事件記録3／3　平成04年04月13日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　65頁-61-64 https://note.com/hirono2020kk/n/n3243009b36fc
+- 064_第1審事件記録3／3　平成04年04月14日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　19頁_1-19 https://note.com/hirono2020kk/n/n30d776ebbc6e
+- 065_第1審事件記録3／3　平成04年04月15日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　10頁_1-10 https://note.com/hirono2020kk/n/n484a9769ba2e
+- 066_第1審事件記録3／3　平成04年04月16日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　16頁_1-16 https://note.com/hirono2020kk/n/n9c8c023c5b62
+- 067_第1審事件記録3／3　平成04年04月18日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　22頁_1-22 https://note.com/hirono2020kk/n/n32c88df10b4b
+- 069_第1審事件記録3／3　平成04年04月29日付　供述調書　廣野秀樹　金沢西警察署　司法警察員　警部補　谷内孝志　14頁_1-14 https://note.com/hirono2020kk/n/ne841076bf507
+- 070_第1審事件記録1／3　平成04年05月25日付　起訴状（準強姦）　金沢地方検察庁　検察官検事　江村正之_1-2 https://note.com/hirono2020kk/n/n31b916096e67
+- 071_第1審事件記録3／3　平成04年06月18日付　警視　宮野浩殿　操作報告書　石川県立病院　金沢西警察署　司法警察員　警部補　谷内孝志　6頁_1-6 https://note.com/hirono2020kk/n/na650b9b0ac3c
+- 072_第1審事件記録1／3　平成04年06月29日　　論告要旨　金沢地方検察庁　検察官検事　江村正之　3頁_1-3 https://note.com/hirono2020kk/n/n5386e4502d58
+- 090_甲第五八号証　平成04年04月10日付　供述調書　安藤紀世　金沢地方検察庁　検察事務官　天山孝志　14頁_1-14 https://note.com/hirono2020kk/n/n4b6e5656bd11
+- 091_甲第六〇号証　平成04年04月02日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　19頁_1-19 https://note.com/hirono2020kk/n/n7ad2dfc4f0ed
+- 092_甲第七〇号証　平成04年04月03日付　供述調書　廣野己代子　金沢西警察署　司法警察員巡査　村元康夫　18頁_1-18 https://note.com/hirono2020kk/n/n710fa4f6717b
+- 093_甲第六四号証　平成04年04月08日付　供述調書　被告発人安田敏　金沢西警察署　司法警察員巡査　橋本登志彦　27頁_1-27 https://note.com/hirono2020kk/n/n117efe2cef02
+- 094_甲第五九号証　平成04年04月10日付　供述調書　安藤紀世　金沢地方検察庁　検察事務官　天山孝志　14頁_1-14 https://note.com/hirono2020kk/n/n651c2ddb583b
+- 095_甲第六三号証　平成04年04月10日付　供述調書　被告発人池田宏美　金沢西警察署　司法警察員巡査　橋本登志彦　24頁_1-24 https://note.com/hirono2020kk/n/ncc842cb62d88
+- 096_甲第六五号証　平成04年04月11日付　供述調書　被告発人多田敏明　金沢西警察署　司法警察員巡査　村元康夫　24頁_1-24 https://note.com/hirono2020kk/n/nc28809912cff
+- 097_甲第六六号証　平成04年04月12日付　供述調書　告発人浜口卓也　金沢西警察署　司法警察員巡査　村元康夫　19頁_1-19 https://note.com/hirono2020kk/n/nf1bfaf315b0a
+- 098_甲第六九号証　平成04年04月13日付　供述調書　レストラン店長　金沢西警察署　司法警察員巡査　川原照夫　10頁_1-10 https://note.com/hirono2020kk/n/n7f13ebbc89bd
+- 099_甲第六一号証　平成04年04月13日付　供述調書　被告発人松平日出男　金沢西警察署　司法警察員巡査　橋本登志彦　12頁_1-12 https://note.com/hirono2020kk/n/naa9793146453
+- 100_平成04年04月17日付　供述調書　廣野秀樹　金沢地方検察庁　検察事務官　天山孝志　検察官検事　江村正之　33頁_1-30 https://note.com/hirono2020kk/n/nbc624018dc7c
+- 100_平成04年04月17日付　供述調書　廣野秀樹　金沢地方検察庁　検察事務官　天山孝志　検察官検事　江村正之　33頁_31-33 https://note.com/hirono2020kk/n/n9377e041057c
+- 101_甲第六八号証　平成04年04月18日付　供述調書　北野○○　金沢西警察署　司法警察員巡査　橋本登志彦　31頁_1-30 https://note.com/hirono2020kk/n/nf588e46f472e
+- 101_甲第六八号証　平成04年04月18日付　供述調書　北野○○　金沢西警察署　司法警察員巡査　橋本登志彦　31頁_31 https://note.com/hirono2020kk/n/n5858f9bd8da8
+- 102_甲第六七号証　平成04年04月20日付　供述調書　被告発人安田繁克　金沢西警察署　司法警察員巡査　川原照夫　18頁_1-18 https://note.com/hirono2020kk/n/nc1b0f6d6aa37
+- 103_甲第六二号証　平成04年04月24日付　供述調書　被告発人梅野博之　金沢西警察署　司法警察員巡査　橋本登志彦　46頁_1-30 https://note.com/hirono2020kk/n/nbdc77a1b7c53
+- 103_甲第六二号証　平成04年04月24日付　供述調書　被告発人梅野博之　金沢西警察署　司法警察員巡査　橋本登志彦　46頁_31-46 https://note.com/hirono2020kk/n/ncdec164ed541
+- 104_甲第五六号証　平成04年05月02日付　告訴状　手書き　安藤健次郎　金沢西警察署長殿　2枚_1-2 https://note.com/hirono2020kk/n/ncb93ec09f9ab
+- 119_H05-09-20_平成5年09月20日付　上告申立書　甲第一九号証_1 https://note.com/hirono2020kk/n/n00b7254ada5f
+- 120_H05-12-22_平成5年12月11日付　上告趣意書（被告人の手書きの書面）　甲第二七号証_1-28 https://note.com/hirono2020kk/n/n93b214e3b82a
+- 120_甲第五七号証　平成04年05月21日付　告訴調書　安藤健次郎　金沢西警察署　警部補　村元康夫　18頁1-18 https://note.com/hirono2020kk/n/nc5529d432a6b
+- 121_H05-12-24_平成5年12月24日付　上告趣意書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二五号証-_1-13 https://note.com/hirono2020kk/n/ne575e488f5b1
+- 123_訴状　原告訴訟代理人　弁護士　長谷川紘之　平成6年7月5日付　金沢地方裁判所御中_1-6 https://note.com/hirono2020kk/n/n7a88874cc1dc
+- 124_平成7年7月27日付損害賠償事件判決＿金沢地方裁判所裁判官古川龍一_1-15 https://note.com/hirono2020kk/n/n049d05062187
+- 125_業務日報-030／203_1-30 https://note.com/hirono2020kk/n/n385a25d67afa
+- 125_業務日報-030／203_31-60 https://note.com/hirono2020kk/n/nad3ffc19695c
+- 125_業務日報-030／203_61-90 https://note.com/hirono2020kk/n/nf623b23fa694
+- 125_業務日報-030／203_91-120 https://note.com/hirono2020kk/n/nbbd9a274264b
+- 125_業務日報-030／203_121-150 https://note.com/hirono2020kk/n/n33846398b932
+- 125_業務日報-030／203_151-180 https://note.com/hirono2020kk/n/n07215d41bf53
+- 125_業務日報-030／203_181-203 https://note.com/hirono2020kk/n/n41fd7cf9ad5b
+- 126_平成11年02月25日付　決定（再審請求棄却）　金沢地方裁判所第三部　裁判長　石山容示　裁判官　梅本圭一郎　裁判官　山本正道_1-6 https://note.com/hirono2020kk/n/ncdca498f2fb9
+- 127_平成11年12月21日宣告　判決　検察官下平豪出席の上審理　弁護人（国選）野田政仁　求刑懲役2年　金沢地方裁判所裁判官　小川賢司　7頁_1-4 https://note.com/hirono2020kk/n/n689d340d489a
+- 128_平成12年06月06日付　山口治夫弁護士　上告趣意書_1-6 https://note.com/hirono2020kk/n/nefd2ffc28fa5
+- 129_平成17年05月05日付　告発状　金沢地方検察庁御中　44頁_1-30 https://note.com/hirono2020kk/n/nb2032b3abb54
+- 129_平成17年05月05日付　告発状　金沢地方検察庁御中　44頁_31-44 https://note.com/hirono2020kk/n/neee074d7a244
+- 130_平成17年11月18日付　返戻書　金沢地方検察庁検察官_1 https://note.com/hirono2020kk/n/n17c5f0f4b3c9
+- 131_平成18年10月02日付　告訴状　金沢地方検察庁御中＿15頁_1-15 https://note.com/hirono2020kk/n/n9fc9e6dc5069
+- 132_平成18年10月16日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時29分40秒_1 https://note.com/hirono2020kk/n/n1ae31637a11a
+- 133_平成18年12月12日付　返戻書　金沢地方検察庁検察官＿2021年08月28日18時24分45秒_1 https://note.com/hirono2020kk/n/n4ca5b6c01587
+- 134_令和4年7月26日　廣野秀樹殿　金沢地方検察庁検察官　書面等の返戻について_1-2 https://note.com/hirono2020kk/n/nb76c76afbb2c
+- 135_斐川雅文弁護士郵送　平成05年12月06日から平成6年6月5日まで閲読許可証　運行表コピー（4枚）　4枚_1-4 https://note.com/hirono2020kk/n/n93d56fc4686d
+- 136_平成29年03月31日付　処分通知書　金沢地方検察庁　検察官検事　宮下浩　被疑者　被告発人木梨松嗣他_1-4 https://note.com/hirono2020kk/n/na5e2d3c07747
+- 137_2021-05-22撮影＿甲号証（二）（四），家の中から発見に至った経緯の記録（写真2枚） https://note.com/hirono2020kk/n/n82a1a168d635
+- 138_H04-10-26_平成4年10月26日付　事前準備書　弁護人　被告発人木梨松嗣弁護士　甲第二一号証_1-3 https://note.com/hirono2020kk/n/n6b15e580a406
+- 139_甲第五五号証　平成04年05月21日付　金沢地方検察庁　告訴人指定書_1 https://note.com/hirono2020kk/n/n7487ecef9fe7
+- 140_H04-11-04_平成4年11月4日付　答弁書　名古屋高等検察庁金沢支部　検察官検事　松浦由記夫　甲第一二号証_1-4 https://note.com/hirono2020kk/n/ncff3abcb2ce4
+- 141_H04-11-10_平成4年11月10日　第一回公判調書（手続）　名古屋高等裁判所金沢支部第二部　濱田武律裁判長　甲第一三号証_1-4 https://note.com/hirono2020kk/n/n908f0ed496f2
+- 142_H04-12-22_平成4年12月22日　第二回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一四号証_1-4 https://note.com/hirono2020kk/n/naf2c5c2046db
+- 143_H05-01-19_平成05年01月19日　第三回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一五号証_1-4 https://note.com/hirono2020kk/n/ncaa6ed07d87f
+- 144_H05-01-19_平成05年01月19日　被告人供述調書（第三回公判調書と一体）　廣野秀樹　名古屋高裁金沢支部　甲第二二号証_1-27 https://note.com/hirono2020kk/n/nedc025793405
+- 145_H05-02-25_平成5年02月25日　第四回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一六号証_1-4 https://note.com/hirono2020kk/n/n550c0a35424f
+- 146_H05-02-25_平成5年日付不明　鑑定人尋問調書（第四回公判調書と一体）　山口成良　金沢大学教授　名古屋高裁金沢支部　甲第二三号証_1-3 https://note.com/hirono2020kk/n/n67419e0a1c61
+- 148_H05-07-20_平成5年07月20日　第五回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一七号証_1-2 https://note.com/hirono2020kk/n/n520c82274c02
+- 149_H05-09-07_平成5年09月07日　第六回公判調書（手続）　名古屋高等裁判所金沢支部第二部　被告発人小島裕史裁判長　甲第一八号証_1-2 https://note.com/hirono2020kk/n/n2ae57913ebb3
+- 150_H05-12-24_平成5年12月24日付　上申書　最高裁判所第三小法廷　弁護人　斐川雅文　甲第二六号証_1-2 https://note.com/hirono2020kk/n/n1cd6c587496f
+- 151_平成7年8月15日付　最高裁第二小法廷　事務連絡_1-7 https://note.com/hirono2020kk/n/n43da8e3d57c4
+- 001_甲第九六号証　平成04年10月05日付　控訴趣意書　被告人廣野秀樹作成　名古屋高裁金沢支部御中　46頁（手書き）_1-30 https://note.com/hirono2020kk/n/n9410427447bb
+- 001_甲第九六号証　平成04年10月05日付　控訴趣意書　被告人廣野秀樹作成　名古屋高裁金沢支部御中　46頁（手書き）_31-46 https://note.com/hirono2020kk/n/n59255d5bfd18
+- 002_甲第九四号証　平成04年10月07日付　控訴趣意書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　6頁_1-6 https://note.com/hirono2020kk/n/n18e807a33fb9
+- 003_甲第九四号証　平成04年08月03日付　判決　金沢地方裁判所（三宅俊一郎裁判長、川口泰司裁判官、山田徹裁判官）　10頁_1-10 https://note.com/hirono2020kk/n/n9f1f51c7ebc8
+- 004_甲第九五号証　平成04年12月21日付　控訴趣意補充書　被告発人木梨松嗣弁護士作成　名古屋高裁金沢支部御中　9頁＋1_1-10 https://note.com/hirono2020kk/n/nccb11424c9c1
+- 005_甲第九〇号証　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_1-30 https://note.com/hirono2020kk/n/n4b57d5361f19
+- 005_甲第九〇号証　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_31-60 https://note.com/hirono2020kk/n/ne6c6f063bb5a
+- 005_甲第九〇号証　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_61-90 https://note.com/hirono2020kk/n/n74d373ffd71b
+- 005_甲第九〇号証　平成05年04月22日付　上申書（手書き）　廣野秀樹　名古屋高裁金沢支部　110頁_91-110 https://note.com/hirono2020kk/n/n82d7e5ed4113
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_1-30 https://note.com/hirono2020kk/n/n363d0893fb32
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_31-60.jpg https://note.com/hirono2020kk/n/n2bae68c5b7bf
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_61-90.jpg https://note.com/hirono2020kk/n/n27dd1cb3208c
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_91-120.jpg https://note.com/hirono2020kk/n/nb88b72316d8e
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_121-150.jpg https://note.com/hirono2020kk/n/nb24ef912a9c5
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_151-180.jpg https://note.com/hirono2020kk/n/ncf3f35c78418
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_181-210.jpg https://note.com/hirono2020kk/n/nd3574a9b8ef1
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_211-240.jpg https://note.com/hirono2020kk/n/n97b45b47afc1
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_241-270.jpg https://note.com/hirono2020kk/n/ndf0ecf40526e
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_271-300.jpg https://note.com/hirono2020kk/n/n93028ef768fa
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_301-330.jpg https://note.com/hirono2020kk/n/n82ffa3ee6f42
+- 006_甲第八三号証　平成04年08月下旬から同年10月01日頃まで　被告発人木梨松嗣弁護士の法律事務所に送信した便箋の手紙　343頁_331-343.jpg https://note.com/hirono2020kk/n/n095a59b4b878
+- 007_市場急配センター・裏駐車場の写真（2007年7月／5枚・2022年4月／5枚） https://note.com/hirono2020kk/n/na81bebf11796
+- 令和5年9月17日の写真と作成した刑事告発・告訴事件の証拠資料記事の一覧 https://note.com/hirono2020kk/n/nb389c46706c8
+- 9月18日の夕方、アルプのテレビでみた「ドキュメント記者会見」というNHKの番組 https://note.com/hirono2020kk/n/nd3b877b3510a
+- 2023-09-18_能登町役場〜宇出津総合病院〜宇出津新港：ドキュメント記者会見 https://note.com/hirono2020kk/n/ndd1a8a3dcf20
+- 「弁護士個人への誹謗中傷も激しいこの事件は、若手とかにやらせるわけにいかない」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/na8f7388afbb9
+- 「刑事重大事件の国選を売名っちゅーやつは、一体どういうビジネスセンス」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/ned81a7605914
+- 閉所恐怖症の私が窓のない部屋で連日、取り調べられて…大川原加工機「女性社員」が証言する“警察庁公安部の恐ろしい手口”（全文） | デイリー新潮  https://note.com/hirono2020kk/n/nc89c7b8c481d
+- 「日本弁護士連合会：プレサンス事件」と、検察の特別捜査部 https://note.com/hirono2020kk/n/nfda6a28f9da2
+- 「20年前ぐらいなら、地方街弁早期独立でも、たいていは、四大行くより稼げてたらしく。」というポスト https://note.com/hirono2020kk/n/ne0cd99d80210
+- ジャニーズ発言後に「企業をつぶす」「訴えてももみ消す」不審電話　経済同友会が警視庁に相談【速報】：東京新聞 https://note.com/hirono2020kk/n/n0bb463ce7923
+- ジャニーズ事務所の問題で刑事告発という望月衣塑子氏の名前のある記事 https://note.com/hirono2020kk/n/n31502bf9eb58
+- 「当事者の会によると、刑事告発の書類をまとめており、海外での訴訟や人権救済の申し立ても検討」という記事 https://note.com/hirono2020kk/n/ncc27331d04e9
+- TBS社長　性加害問題巡り、ジャニーズ事務所に要望書渡したと報告　会見は「不十分」（スポニチアネックス https://note.com/hirono2020kk/n/nc8b86c330e1c
+- 紀藤氏は投稿で、救済窓口の申告画面をアップ。「『被害者救済委員会　補償受付窓口』のデリカシーのなさに驚きました」とし https://note.com/hirono2020kk/n/n0e2a4ae7f20e
+- 被害者救済委員会は、元裁判官の経歴をもつ定塚誠弁護士、杉原麗弁護士、森倫洋弁護士の3人で構成 https://note.com/hirono2020kk/n/n8de1b108110d
+- 森倫洋 AI-EI法律事務所 | 私の道しるべ https://note.com/hirono2020kk/n/n5161e92f34f8
+- 定塚誠弁護士の検索で出てきた津地裁所長、そこから「【独自】「覚悟を決めて責任を取っていく」遺族に届いた八田容疑者の母からの手紙」 https://note.com/hirono2020kk/n/n050a81a956dc
+- 「法テラス那覇のスタッフ弁護士って、一人一人が国選年間100件近いんじゃなかったでしたっけ。」というポスト https://note.com/hirono2020kk/n/n307bd16749fc
+- 「信頼関係がと逃走した代理人の後始末をつける仕事はめちゃくちゃ辛えよ？」といううの字のポスト https://note.com/hirono2020kk/n/ndef3680ff5da
+- note-entry-list.py | grep 告発状 https://note.com/hirono2020kk/n/n6c85ef681624
+- 金沢弁護士会と日本弁護士連合会の記録：令和5年9月22日 https://note.com/hirono2020kk/n/nd058d2d35a63
+- 酒井将弁護士のXタイムラインでの弁護士会問題の発見 https://note.com/hirono2020kk/n/n27b585b0a58b
+- 金沢地方法務局輪島支局と金沢地方検察庁との通話記録（9月20〜22日）の公開資料 https://note.com/hirono2020kk/n/ndac38dde152a
+- 「本当に恥ずかしいと思っている」「タレントの出演は…」ジャニーズ性加害問題でTBS社長の“異例コメント”を安住アナが番組で読み上げた“背景” | 文春オンライン  https://note.com/hirono2020kk/n/ned77bfbf8580
+- 152_回答署　平成6年7月20日付　金沢弁護士会人権擁護委員会　委員長　若杉幸平　廣野秀樹殿 https://note.com/hirono2020kk/n/n8dfd7da695f1
+- 153_平成12年5月22日付　上告審国選弁護人　山口治夫弁護士（東京弁護士会）の手紙・文面3枚 https://note.com/hirono2020kk/n/n52d61b89d24c
+- 154_平成12年7月31日付　上告審国選弁護人　山口治夫弁護士（東京弁護士会）の手紙・文面2枚 https://note.com/hirono2020kk/n/ncfd947fffdd7
+- 令和5年9月30日付求意見書（金沢弁護士会御中）の表題部 https://note.com/hirono2020kk/n/nc43dc18e02f7
+- 記録資料：平成28年7月８日付・告訴状 https://note.com/hirono2020kk/n/n90ffa5c3b340
+- 証拠番号５（手書きの書面の文字起こし） https://note.com/hirono2020kk/n/nbab43ac2f07c
+- 被告発人の住所または現在地_2014年04月24日10時13分32秒.jpg https://note.com/hirono2020kk/n/naaef349b010a
+- 金沢弁護士会・金沢地方法務局輪島支局・金沢地方検察庁との通話記録（9月25〜28日）の公開資料（16枚） https://note.com/hirono2020kk/n/n3b104ecb72dc
+- 平成10年の秋、安藤健次郎さんに出した手紙.dotx（公開用テキスト版） https://note.com/hirono2020kk/n/nf5267847a644
+- 事後的な関与と共犯成立の可能性-事後的関与者をめぐる共犯理論の構築に向けて | CiNii Research https://note.com/hirono2020kk/n/n75cae7d3daaa
+- 金沢地方検察庁からの告発状の返戻・深澤諭史弁護士の「弁護士の護身術」・金沢弁護士会にレターパックの用意 https://note.com/hirono2020kk/n/na3656e7dc528
+- 「現預金よりも大切なものを守るために、ワイらは現預金を領収し続けるんだ。」という弁護士ポスト https://note.com/hirono2020kk/n/n8ac01dc8c895
+- 「日本が凄まじい勢いで劣化している。」というピピピーッ　@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/nfc0df383e954
+- 「これで警察が動いてニュースになるなんて、世も末。」というピピピーッ@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/n5f0ace8a3741
+- 「底辺家庭って凄まじいんよな。」というピピピーッ　@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/n261099f24eb0
+- 「これは、ワイの妄想だが、東大というのは、現代の神棚なんよな。」というピピピーッ　@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/n4061526f8c87
+- 国選数年で蓄財1500万円に関連したピピピーッ　@O59K2dPQH59QEJxのXタイムライン https://note.com/hirono2020kk/n/n085a0e178864
+- 「法曹特に弁護士に親でもコロされたんじゃないかってレベルで憎悪」という深澤諭史弁護士のポスト https://note.com/hirono2020kk/n/n479cc84506cf
+- 深澤諭史弁護士のリポストにもなっている司法修習貸与金の返済資金300万円のポスト https://note.com/hirono2020kk/n/n7213eea56a87
+- 酒井啓亘京都大学法科大学院長と「（・∀・）日本の弁護士費用は、本当に安い。」という深澤諭史弁護士のポスト https://note.com/hirono2020kk/n/n9febd10cf86b
+- 「検察官、「証拠あさり」ってよく言いますよね。」という櫻井光政弁護士のポスト https://note.com/hirono2020kk/n/n09af4c147661
+- 「渡る世間は鬼ばかり 第1シリーズ(橋田壽賀子ドラマ)」のU-NEXTでの視聴 https://note.com/hirono2020kk/n/n6b41da7e4dbf
+- さらば弁護士鉄道068／君弁護士たまふことなかれ・告訴状作成編：はしがき https://note.com/hirono2020kk/n/nefac4586dde0
+- Xユーザーの深澤諭史さん： 「「私のお気持ちをそれとなく忖度して、私の思い通りに都合よく動いて欲しい」 https://note.com/hirono2020kk/n/n37abe3d59ec8
+- 10月２日のジャニーズ事務所の会見に対する町村泰貴教授のポスト、深澤諭史弁護士のリポストとして発見 https://note.com/hirono2020kk/n/nb63141ffd2a8
+- 「その企業の情報操作の場とみてそのことを許容するか」という渡辺輝人弁護士（京都弁護士会）のポスト https://note.com/hirono2020kk/n/n9d0161c6aaa0
+- 令和５年９月３０日付　金沢弁護士会に対する求意見書 https://note.com/hirono2020kk/n/ncc0a771cf2dc
+- 袴田事件で「弁護士の立ち合いは、起訴までわずか3回計37分だけ」という望月衣塑子記者のツイート https://note.com/hirono2020kk/n/n96df599bdc5d
+- 「高級食パン店に親を殺されたので滅びつつある現状は嬉しい。」という三浦義隆弁護士のポスト https://note.com/hirono2020kk/n/n8fd76244d6ac
+- 売春の質問に対し「なくなるに決まってるでしょ。買う人がいないのにどうしたら売れるの。さすがに頭悪すぎませんかね。」という三浦義隆弁護士の回答 https://note.com/hirono2020kk/n/nd5e2040cee8a
+- 「ジャニーズ性加害問題は重大な社会問題だからこそ私は関心を持っているのであって、ジャニーズが嫌」という三浦義隆弁護士 https://note.com/hirono2020kk/n/n1a404500ca49
+- 「ジャニーズ事務所が現在進行形でメディアを通じて都合の良い情報をばらまいていることと」という渡辺輝人弁護士の記録 https://note.com/hirono2020kk/n/n70d8fbd39788
+- 「日本でMe Tooムーブメントの火付役となったジャーナリストの伊藤詩織さんからお話を聞きました」という望月衣塑子記者 https://note.com/hirono2020kk/n/na0458ddfd767
+- 「ジャニー氏の性加害について、刑事告発を検討していることが明らかにされた」という望月衣塑子記者のポストの記録 https://note.com/hirono2020kk/n/n140c55f5adfc
+- 「ゲストの金平茂紀さんは、袴田事件で検察が有罪立証をすると決めたことについて」という望月衣塑子記者のポスト https://note.com/hirono2020kk/n/na2862cc7fdde
+- 「検察・警察による大川原加工機ねつ造事件」ついて、政府が検証すべき事件という望月衣塑子記者のポスト https://note.com/hirono2020kk/n/n55b8b7f68afd
+- 袴田事件について「検察の「威信」のために愚かである」という望月衣塑子記者のポスト https://note.com/hirono2020kk/n/n231ffe2abb0e
+- 袴田事件について「検察の「権威」のためにやるのか。恥を知れと言いたい」という望月衣塑子記者のツイート https://note.com/hirono2020kk/n/n723dd801e59d
+- 「大川原加工機の冤罪事件」で「この法案を先取りしたかのような検察・警視庁によるでっち上げの冤罪事件」という望月衣塑子記者 https://note.com/hirono2020kk/n/nf83b87c9ff44
+- さらば弁護士鉄道070／告訴状・告発状作成編（1）：はしがき・情報公開の趣旨目的 https://note.com/hirono2020kk/n/nd6aa4fc53326
+- 「ジャニーズ八百長会見で拍手した記者たちは究極の間抜け」という三浦義隆弁護士のポスト、深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/n06eb92bd87a7
+- 「街弁サイドからすると「本物を見せてあげましょうか・・・？」と思う」という刑裁サイ太のポスト、深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/nfa8db4947e77
+- 深澤諭史弁護士の「弁護士の護身術」について「若手に、明日買ってきて読んどいてと指示しときました。」という弁護士法人空と海 https://note.com/hirono2020kk/n/n05b77b7c4e5b
+- 独立開業弁護士の自由度は会社員の20倍という都行志弁護士のポスト https://note.com/hirono2020kk/n/nd5e05d98db73
+- 市川寛弁護士の人質司法、警察と検察の関係に元検事の体験をまじえたポスト https://note.com/hirono2020kk/n/n2d0a30e4f6f6
+- 「加害者家族」支援を宣言した関東弁護士会連合会の大会とシンポジウムは歴史的出来事だ(篠田博之) https://note.com/hirono2020kk/n/n5bf5fbf1e9a5
+- 深澤諭史弁護士のXタイムラインから新谷泰真弁護士を経由した「取調べの可視化フォーラム2023」という歴史的発見 https://note.com/hirono2020kk/n/n31b4eba74443
+- 「#司法塔士SUGAR 」という謎のハッシュタグが連続で出てきた深澤諭史弁護士のXタイムライン最新10件のポスト https://note.com/hirono2020kk/n/n2262d9c696b4
+- 「街弁は必ずしも合理的ではない人（婉曲）を相手にしなければならないから修習生から敬遠される」という刑裁サイ太のポスト https://note.com/hirono2020kk/n/ne2025b45e281
+- 「会員である弁護士のことは全く考えずに、理想の社会を追求しとるんよな。」というピピピーッ　@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/ndec39d94c2fa
+- 「現預金の偉大さを知ろうとしない」というピピピーッ　@O59K2dPQH59QEJxの弁護士会・法テラス批判の関連ポスト https://note.com/hirono2020kk/n/n23dfa6909b67
+- 「Colabo、仁藤夢乃弁護団１０１名訴訟 訴状」という問題 https://note.com/hirono2020kk/n/n9606b72b9e84
+- 開示証拠の使用制限条項に関する会長談話（大阪弁護士会・2013年7月16日 https://note.com/hirono2020kk/n/ncc9cab2ef0c8
+- 「Colabo、仁藤夢乃弁護団１０１名訴訟 訴状」の発見の経緯は、小倉秀夫弁護士のnote https://note.com/hirono2020kk/n/n5070f915e3ab
+- 深澤諭史弁護士のリポストで知った5月8日の中川素充弁護士のホームランボール誹謗中傷の代理人声明のツイート https://note.com/hirono2020kk/n/n130f8f4b3f09
+- 「つまり法テラの存在自体が邪悪ということですな。」という関連ポストの記録とご紹介（法テラスの問題） https://note.com/hirono2020kk/n/n1f06291a66c0
+- 「ジャーナリズムは国民の知る権利のためにある。」という清水潔氏と、10月9日に調べた実体的真実主義 https://note.com/hirono2020kk/n/n1e8af9eaf71d
+- 「埼玉は子供だけで公園で遊んだり登下校すると子供が死ぬ等するのが常態な修羅の国という立法事実」という、うの字のポスト https://note.com/hirono2020kk/n/n6a961315c304
+- 「検証を難しくしたのは、これまで問題を放置していた事務所の責任では」というジャーナリストの江川紹子氏のポスト https://note.com/hirono2020kk/n/n7091834a2149
+- 2012-06-14_死刑に対する朝日の見識（モトケンこと矢部善朗弁護士（京都弁護士会）の記録_1-30 https://note.com/hirono2020kk/n/n6d158d93dc04
+- 2012-06-14_死刑に対する朝日の見識（モトケンこと矢部善朗弁護士（京都弁護士会）の記録_31-60 https://note.com/hirono2020kk/n/n8c6173cc2f8b
+- 2012-06-14_死刑に対する朝日の見識（モトケンこと矢部善朗弁護士（京都弁護士会）の記録_61-90 https://note.com/hirono2020kk/n/n7d278790e80a
+- 2012-06-14_死刑に対する朝日の見識（モトケンこと矢部善朗弁護士（京都弁護士会）の記録_91-113 https://note.com/hirono2020kk/n/n4a1211a9922c
+- 「ジャニーズ事務所・会見、“危機対応”において「不祥事」が発生した原因とは」という郷原信郎弁護士の記事の発見 https://note.com/hirono2020kk/n/n51e1ed8d2160
+- 「馬鹿には見えない服ならぬ馬鹿にしか読めない文章が存在する」という三浦義隆弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n94986d6fa23d
+- 「裁判官がこんなふうに考えて事実認定してるかもしれないと思ったら怖くて泣いた笑」という北白川のポストの記録 https://note.com/hirono2020kk/n/n96936f521a1a
+- 「ろくでもないのを受任して心身害したり懲戒受けたら「その弁護士個人の責任。」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/n1d60fa59cc3b
+- 袴田さん再審　傍聴機会確保へ”最も大きい法廷”要望｜NHK 静岡県のニュース（ジャーナリストの江川紹子氏） https://note.com/hirono2020kk/n/nc22a0b4d4119
+- 2009年3月14日撮影になっている羽咋市のアパート室内の写真2枚 https://note.com/hirono2020kk/n/n00c951a5467c
+- 155_平成7年4月13日付　再審請求の抗告棄却決定　名古屋高裁金沢支部　被告発人小島裕史裁判長 https://note.com/hirono2020kk/n/n14da28ef0934
+- 2009年3月21日撮影となっている平成4年4月17日付検面調書（江村正之検察官・金沢地方検察庁） https://note.com/hirono2020kk/n/n00bb93ac362a
+- 平成16年7月7日付　告発状（テキスト全文） https://note.com/hirono2020kk/n/n65e1a2bdcd89
+- gitリポジトリの更新 https://note.com/hirono2020kk/n/ne98a6fd78d5a
+- 9月26日から10月13日迄の金沢弁護士会への電話通話記録 https://note.com/hirono2020kk/n/nf117a2e03900
+- 9月21日から9月29日迄の金沢地方法務局輪島支部への電話通話記録 https://note.com/hirono2020kk/n/nc61f491fd170
+- 3月13日から10月11日の金沢地方検察庁への電話連絡の通話記録（1から30） https://note.com/hirono2020kk/n/nd5e4b0cf75b3
+- 3月13日から10月11日の金沢地方検察庁への電話連絡の通話記録（31から38） https://note.com/hirono2020kk/n/nad9ed92d957f
+- 2023年3月13日、最高裁判所刑事部への電話連絡の通話記録 https://note.com/hirono2020kk/n/n5b9a10b4c3aa
+- 3月13日から10月10日の金沢地方裁判所刑事部との電話連絡の通話記録（1から30） https://note.com/hirono2020kk/n/n45b9d889f00e
+- 3月13日から10月10日の金沢地方裁判所刑事部との電話連絡の通話記録（31から33） https://note.com/hirono2020kk/n/n45195ae2f1a9
+- 辺田の浜から柳田温泉・笹ゆり荘（2013年6月11日） https://note.com/hirono2020kk/n/nf69746676e3a
+- kk2023part3/写真資料/2012年11月20日能登町柳田・笹ゆり荘 https://note.com/hirono2020kk/n/n886f438dfc5e
+- 民事裁判で「偽証罪での刑事告訴をすべきではないだろうか。」という渡辺輝人弁護士@nabeteru1Q78のポスト https://note.com/hirono2020kk/n/n0b927eb02476
+- 大阪万博に批判的な三浦義隆弁護士のポスト・渡辺輝人弁護士@nabeteru1Q78のリポスト https://note.com/hirono2020kk/n/n82cea4eaf99b
+- 「第二条（人権と正義の源泉）」という日本弁護士連合会会則 https://note.com/hirono2020kk/n/nbfcb40512eb3
+- 「自分で稼いだ方が早いから、法テラ国選は登録していないというだけ。」というついぶる@harvey61616のXポスト https://note.com/hirono2020kk/n/n728566abc633
+- 「「法テラスが安くても（自分の場合は）食べていける」と言うのは、」というついぶる@harvey61616のXポストの記録 https://note.com/hirono2020kk/n/nfef2f82cd7b5
+- 「「司法の判断が出るまでは他人の行為を違法と言ってはいけない」と主張する人を最近何人も見かけたが、本物の馬鹿だと思う。」という三浦義隆弁護士 https://note.com/hirono2020kk/n/ncfb7944fa709
+- 「みんな、統一教会に関しては鈴木エイト氏の話を聞きたいんだよね」という秋重実弁護士（京都弁護士会）のXポスト https://note.com/hirono2020kk/n/nefea730368f7
+- 「甲府地検事務官死亡、遺族が国を提訴「長時間労働是正せず」 | 毎日新聞」（嶋﨑量弁護士のXポスト https://note.com/hirono2020kk/n/n929e404b7b85
+- 「【暇空茜さんのカンパ金使途に対する公開要望】」というnoteの記事 https://note.com/hirono2020kk/n/n39fe2e47ef90
+- 「弁護士が自分の身を守ることばっかり考えるようになったら割を食うのは依頼者」というXポストの関連した記録 https://note.com/hirono2020kk/n/n6fc7d7852bea
+- 2012年9月から2014年9月の能登金剛ヤセの断崖等の写真17枚 https://note.com/hirono2020kk/n/n90ca70d0ed39
+- 高橋雄一郎弁護士のXポストで、解散請求の旧統一教会側と知った中山達樹弁護士 https://note.com/hirono2020kk/n/n6975e3288b77
+- 高橋雄一郎弁護士のX（旧Twitter）ポストで知った「法律事務所でソーシャルワーカー（社会福祉士・精神保健福祉士）を雇用」 https://note.com/hirono2020kk/n/nc31a64f4f960
+- 10月19日、西愛礼弁護士のX（旧Twitter）ポストで知った相模原無差別殺傷事件をモチーフにした「月」という映画 https://note.com/hirono2020kk/n/ned2c9e942775
+- 「裁判所の自販機ってすごいんだよ。飲料出る自販機だけじゃなくて、令状が出る自販機もあるからな。」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/nd9eedc1c53bd
+- 「「弁護士の護身術」、大好評発売中です！」という10月20日時点の深澤諭史弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n0a8f1ea1a3c1
+- 2023年10月20日、ミステリー性を深めた弁護士業界における深澤諭史弁護士の存在感 https://note.com/hirono2020kk/n/n884c9bbd36e0
+- 「録音録画されてる取調べですらこれなんだから、録音録画のない状況では捜査官は何を言ってるかって話なんよね」というXポスト https://note.com/hirono2020kk/n/n98b82aa4870c
+- 2016年の富来の西海祭り・写真25枚 https://note.com/hirono2020kk/n/nd182f8338b6c
+- 「だから、裁判員裁判対象事件に限らず、全事件の可視化が必要なの。」というジャーナリストの江川紹子氏のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/nb8ede550a063
+- 「そして自分自身では自分が狂ったことに気づけないんだなとも」という深澤諭史弁護士のリポスト（北周士弁護士のポスト） https://note.com/hirono2020kk/n/n9f74c00fe5b9
+- 「黙秘している相手に取調べを続けている点が一番の驚きかな」という趙誠峰弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/n2114295428b8
+- KADOKAWA前会長が手記公表「囚人生活の226日」 という文春の記事に、人質司法の餌食という趙誠峰弁護士のXポスト https://note.com/hirono2020kk/n/n2fddc1272e4e
+- 37年前の中3女子殺害、検察側が新証拠53点開示　福井 - 産経ニュース https://note.com/hirono2020kk/n/nf8f6d0ee8a08
+- 「新証拠　福井」のGoogle検索結果（福井女子中学生殺害事件の第２次再審請求の証拠開示がメインの検索） https://note.com/hirono2020kk/n/n0bb1bf2e072f
+- 大西洋一弁護士の引用X（旧Twitter）ポストで、ずいぶん久しぶりに見たホリエモンこと堀江貴文のXポスト https://note.com/hirono2020kk/n/neac2bc6db6c2
+- 「「稼げない弁護士をディスりまくっている匿名弁護士アカウントのアイコン画像の高級車が試乗車だった件」」というXポスト https://note.com/hirono2020kk/n/n3664215a6009
+- リーガルマインドという言葉を彷彿とさせた深澤諭史弁護士のリーガルウォーズというX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n334f779b6dbd
+- ノートパソコンのUbuntuに蓋を閉じまま再起動し再びログイン https://note.com/hirono2020kk/n/na2ff61053894
+- 「偉い弁護士に手とか耳とか舐められた若手弁護士や偉い弁護士にお酌を強要された女性弁護士が身を守りながら告発」というP https://note.com/hirono2020kk/n/n908b983ed258
+- 西愛礼弁護士の「冤罪学」を間違いなく良書と高評価する刑裁サイ太のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/nd65a5c551478
+- 通話記録ファイル名の書式をExcelで作成 https://note.com/hirono2020kk/n/n5769eec6a319
+- 10月11日から10月25日の通話記録（金沢地方検察庁・金沢弁護士会・金沢地方裁判所刑事部） https://note.com/hirono2020kk/n/ncf704218d329
+- 「（・∀・）なお、制度理念は「かけがえのない人生を生きる人々の喜びや悲しみに対して深く共感しうる豊かな人間性の涵養、向上」 https://note.com/hirono2020kk/n/n5ff27da5345a
+- 「《桶川ストーカー殺人事件》「私、殺されるかもしれない」」という記事を紹介する清水潔氏のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n21e4bd22fdba
+- kokuso_2013-2014.org（1） https://note.com/hirono2020kk/n/n42da02f31a69
+- kokuso_2013-2014.org（2） https://note.com/hirono2020kk/n/n18c025515d44
+- kokuso_2013-2014.org（3） https://note.com/hirono2020kk/n/nb7d9e8706de3
+- kokuso_2013-2014.org（4） https://note.com/hirono2020kk/n/n04e5e64c0dab
+- kokuso_2013-2014.org（5） https://note.com/hirono2020kk/n/nea33847453aa
+- kokuso_2013-2014.org（6） https://note.com/hirono2020kk/n/n270f593e2955
+- kokuso_2013-2014.org（7） https://note.com/hirono2020kk/n/n8e561f11bcd1
+- kokuso_2013-2014.org（8） https://note.com/hirono2020kk/n/n1ac26c6729bc
+- 「これで刑事法の研究者なのか。警察学校の教員にでも転職したら？」という匿名弁護士？アカウントのX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n6c5e9690f7c4
+- 深澤諭史弁護士のXタイムラインにも出現したクマえもん@cure_kumaemonという弁護士アカウント https://note.com/hirono2020kk/n/n365a4f25643a
+- クマえもん@cure_kumaemonという弁護士アカウントに関する記録 https://note.com/hirono2020kk/n/n47ac51bc0b81
+- 「依頼者を広告塔や宣伝材料にして、それで使い潰してしまうリスク」という深澤諭史弁護士のX（旧Twitter）ポスト関連 https://note.com/hirono2020kk/n/n12fa28c7dbad
+- 2023年10月27日未明に見かけた桶川ストーカー殺人事件関連のX（旧Twitter）ポストと記事 https://note.com/hirono2020kk/n/n4bff3dcbb2de
+- 2023年10月26日21時52分頃の発見となった「巌より - 袴田さん 獄中からの手紙 -プレミアムA- ：朝日新聞デジタル」という記事 https://note.com/hirono2020kk/n/n9f8df92c9769
+- 「素人に『判決を読め』なんて乱暴なことを言う弁護士を許すな！」みたいな批判がトーンポリシング　←刑裁サイ太のXポスト https://note.com/hirono2020kk/n/n290a12de7faf
+- 池袋暴走事故で「弁護人が「バカな争い方をした」」という深澤諭史弁護士のX（旧Twitter）タイムラインの関連ポスト https://note.com/hirono2020kk/n/n9574d5ab6187
+- 10月26日17時22分から10月28日14時23分の珠洲警察署の電話のスマホのスクリーンショットまでの写真・画像資料の記録 https://note.com/hirono2020kk/n/n93195815a733
+- 依頼主からの預り金を私的流用するなどした弁護士に退会命令　愛知県弁護士会- 名古屋テレビ【メ～テレ】 https://note.com/hirono2020kk/n/n65851aae5100
+- 【速報】元自衛官・五ノ井里奈さん性被害事件　元隊員3人に懲役2年求刑　被告は全員無罪主張　五ノ井さん「厳しく正しい判決を」 | TBS https://note.com/hirono2020kk/n/n6994567ab102
+- 「池袋暴走事故」民事初判決　松永拓也さんを苦しめた飯塚氏の「それなら謝罪はしない」という不誠実さ | AERA dot. (アエラドット) https://note.com/hirono2020kk/n/na98de7c7fa49
+- フリーライター高橋ユキ氏のX（旧Twitter）ポストでのみ見かける〈静岡ホスト集団暴行〉という事件 https://note.com/hirono2020kk/n/n760aa225ac51
+- 深澤諭史弁護士のX（旧Twitter）リポストにみる弁護士の日常と、金沢弁護士会の非日常の記録資料 https://note.com/hirono2020kk/n/ndae63dd20daa
+- 10月27日から31日の通話履歴（金沢地方検察庁・金沢弁護士会・珠洲警察署）の記録 https://note.com/hirono2020kk/n/n29beea4057db
+- (4).	10月27日の袴田事件再審初公判と日本弁護士連合会副会長のX（旧Twitter）タイムライン https://note.com/hirono2020kk/n/n185f09038ad2
+- 法テラス養成のパワハラ「午後11時に2時間かかる遠方に接見を行くように突然命じる」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/nbdc539d10a20
+- 石川県羽咋郡志賀町、町長の逮捕と町役場へのガサ入れ（家宅捜索）、金沢弁護士会の事務局長に話してあったガサ入れの可能性 https://note.com/hirono2020kk/n/n6954b50f7552
+- 修習時代、逮捕に対する準抗告を笑っていたという中村元弥弁護士のリポスト、ピピピーッ@O59K2dPQH59QEJxのポスト https://note.com/hirono2020kk/n/n73df29b4ab44
+- クレオで「小林会長が再審法改正への思いを込めた書を見ることができます。」という日弁連副会長の中村元弥弁護士のXポスト https://note.com/hirono2020kk/n/n3b5d89d40038
+- 平成3年に被告発人安田敏が住んでいたと思われる金沢市花里のアパート https://note.com/hirono2020kk/n/nd6d79a3c1210
+- 亀井正貴弁護士　日大“薬物事件”元検事の沢田副学長は「検察庁でやっていることをこの人はやってない」― スポニチ https://note.com/hirono2020kk/n/n019761b2dd41
+- 「（・∀・）患者が成仏してしまう理論」という深澤諭史弁護士の返信ポスト https://note.com/hirono2020kk/n/nd73eb90c8177
+- 業務日報の写真/平成03年08月31日〜09月03日　業務日報　日通白菊倉庫→神奈川県厚木市　東京晴海→金沢 https://note.com/hirono2020kk/n/n929064a14ee0
+- (3).	平成3年11月26日にアルミサッシを積んで高崎市に行ったことになっている業務日報と高速道路の領収書 https://note.com/hirono2020kk/n/n04020eeacd82
+- 能登町役場内にある興能信用金庫のATMでKindle出版からの振り込み入金の確認の写真の記録と志賀町の町長逮捕の報道 https://note.com/hirono2020kk/n/nc6c1acde17b7
+- 2023年11月3日の20時台、深澤諭史弁護士のX（旧Twitter）タイムラインで気になったポストの記録と告発状でのご紹介 https://note.com/hirono2020kk/n/na4636d1d8d41
+- 2023年10月30日の2件だけだったスクリーンショットの記録 https://note.com/hirono2020kk/n/n798a8621c80e
+- 「Abema TVというのに出たのだが、後悔している。ホタテの殻剥き」というジャーナリストの江川紹子氏の一連のXポスト https://note.com/hirono2020kk/n/n60dde38afa8e
+- 少年事件の事件記録全件の謄写閲覧に関するX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n90eee88df95d
+- 「（；・∀・）法曹の多様性を確保するなら、真っ先に、法科大学院制度は廃止するべきですね。」という深澤諭史弁護士の関連ポスト https://note.com/hirono2020kk/n/na859d6579bb0
+- 「（・∀・）短期的な弁護士のメンツのために、長期的な弁護士の経済的利益を損ねるだけでは」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/nf9eaa79dcc56
+- 「当事者は野次馬のために裁判やってるんじゃない」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/nf64730afce11
+- 「街弁は滅びよというのが弁護士会の基本的なスタンスでは？」という深澤諭史弁護士への返信ポスト https://note.com/hirono2020kk/n/n1bc65587e98c
+- 「立川のホテルで女性殺害した元少年の弁護士 無罪主張 東京地裁 | NHK | 事件」というネットニュースと珠洲警察署 https://note.com/hirono2020kk/n/nca99857c1007
+- 「（・∀・）もちろん、私は、これからも、著作や講演を通じて、新人弁護士の支援に尽力します！」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/n77a9d72153d3
+- 刑事告発手続における関係機関との通話記録の公開（日本弁護士連合会を追加・2023年11月9日） https://note.com/hirono2020kk/n/n7753cb8c3f78
+- Emacsのhowmをメモとして利用開始 https://note.com/hirono2020kk/n/ne200e443c678
+- 9月25日に撮影していた山口治夫弁護士（東京弁護士会）の平成12年6月21日付「ご連絡」という書面の記録 https://note.com/hirono2020kk/n/nd0895e97ab46
+- 2023年9月23日、宇出津港の恵比寿の堤防でアオリイカ釣りをしたときの写真30枚 https://note.com/hirono2020kk/n/n4eadd270e01b
+- 2023年9月25日に撮影した被告発人若杉幸平弁護士が金沢弁護士会人権擁護委員長の平成6年7月20日付回答書の記録 https://note.com/hirono2020kk/n/n39a957d64edf
+- 2023年9月26日、2023年に初めて金沢弁護士会に電話連絡した頃の記録 https://note.com/hirono2020kk/n/nc0ce20ba986d
+- 日本弁護士連合会提出書面：(1).   きっかけとなった「ご連絡」と題する平成12年6月21日付の書面 https://note.com/hirono2020kk/n/n67f07e0b9329
+- 日本弁護士連合会提出書面：(1). 山口治夫弁護士（東京弁護士会）の平成12年6月7日付・上告趣意書 https://note.com/hirono2020kk/n/n06f1bcae1421
+- 日本弁護士連合会提出書面：(1).   山口治夫弁護士（東京弁護士会）の弁護士登録を確認するため東京弁護士会に電話連絡 https://note.com/hirono2020kk/n/na8e7c1d8a2f4
+- 日本弁護士連合会提出書面：(4).   ずっと名前の漢字1文字を間違っていた斐川雅文弁護士改め菱川雅文弁護士 https://note.com/hirono2020kk/n/nd36296533d7f
+- 日本弁護士連合会提出書面：(5).   Googleで検索した菱川雅文弁護士の情報、神奈川県弁護士会への電話で確認 https://note.com/hirono2020kk/n/n85baab7e5562
+- 日本弁護士連合会提出書面：(6).   平成5年12月24日付・菱川雅文弁護士の上告趣意書 https://note.com/hirono2020kk/n/n28025a3d34a8
+- 日本弁護士連合会提出書面：(1).   山口治夫弁護士（東京弁護士会）の「ご連絡」という書面の過去を調べる https://note.com/hirono2020kk/n/ndb8479630c26
+- 日本弁護士連合会提出書面：1.(8).   平成12年5月9日付となっている山口治夫弁護士（東京弁護士会）からの書面 https://note.com/hirono2020kk/n/n0e38ae2cb3b6
+- 日本弁護士連合会提出書面：1.(9).   解けた菱川雅文弁護士の謎と共通する「砂の器」という古い映画 https://note.com/hirono2020kk/n/na7ae58ad2992
+- 日本弁護士連合会提出書面：1.(10).       図書館とAコープ能都店に買い物に行った後の発見をスクリーンショットで記録 https://note.com/hirono2020kk/n/nfc24409b9dbd
+- 刑事告発手続における関係機関との通話記録の公開資料：2023年11月09日分：11件 https://note.com/hirono2020kk/n/ncbd905e62cfb
+- 刑事告発手続における関係機関との通話記録の公開資料：2023年11月10日分：9件 https://note.com/hirono2020kk/n/nc847f7a8de62
+- 日本弁護士連合会提出書面：図書館で見た「宝塚歌劇団員死亡」と「袴田事件第2回公判」の新聞記事 https://note.com/hirono2020kk/n/n839184f6602a
+- 日本弁護士連合会提出書面：被告発人多田敏明の関与と役割／実際にあったのか疑問の船凍イカの積み替え作業 https://note.com/hirono2020kk/n/nc9a536cf9794
+- 日本弁護士連合会提出書面：2.	被告発人安田敏の関与と役割／輪島屋鮮冷と金沢市場輸送との関係 https://note.com/hirono2020kk/n/n349144a3c0a1
+- 日本弁護士連合会提出書面：3.	被告発人安田繁克の関与と役割／(1).	供述調書とは事実が異なり、自ら接近してきた2月1日夜の行動 https://note.com/hirono2020kk/n/nc68f278e85f6
+- 日本弁護士連合会提出書面：4.	被告発人多田敏明の関与と役割／096_甲第六五号証　平成04年04月11日付　供述調書　被告発人多田敏明 https://note.com/hirono2020kk/n/nd4ea714324cd
+- LinuxでGitリポジトリの更新 https://note.com/hirono2020kk/n/nbcba8fee5690
+- 刑事告発手続における関係機関との通話記録の公開資料：2023年11月13日分：6件 https://note.com/hirono2020kk/n/nb1032bf96146
+- 金沢地方検察庁に持っていくのを忘れたフラットファイルの資料（ブログ印刷の一部） https://note.com/hirono2020kk/n/nf83dd8d97c2d
+- 刑事訴訟法違反（開示証拠の目的外使用）の罪について - 北海道コンテンツ法律事務所｜札幌弁護士会所属 https://note.com/hirono2020kk/n/n79dc355fd013
+- 日本弁護士連合会：刑訴法改正法案から証拠の目的外使用条項の削除を求める会長声明 https://note.com/hirono2020kk/n/nf2dddd7631ee
+- 2023-11-14_191539_Shoko　Egawaさんがリポスト　南野　森（MINAMINO　Shigeru）　@sspmi https://note.com/hirono2020kk/n/nb4cc5e049555
+- 日本弁護士連合会提出書面：2023年11月13日の電話連絡（主に日本弁護士連合会への電話連絡） https://note.com/hirono2020kk/n/neb54615574bb
+- 刑事告発手続における関係機関との通話記録の公開資料：2023年11月14日分：3件 https://note.com/hirono2020kk/n/na947ece364dc
+- 能登町役場内にある興能信用金庫のATMでAmazon、Kindleからの未入金を記録（2023年11月14日） https://note.com/hirono2020kk/n/n8a42234ec271
+- (1).	「世間の皆様が拠って立つ（過度な）応報刑論」と宝塚歌劇団を男塾というX(旧Twitter)ポスト（資料編） https://note.com/hirono2020kk/n/ncb692de27ae9
+- 日本弁護士連合会提出書面：「世間の皆様が拠って立つ（過度な）応報刑論」と宝塚歌劇団を男塾というX(旧Twitter)ポスト https://note.com/hirono2020kk/n/n0a1a77ed4d58
+- (1).	『弁護士の護身術～人的トラブルに巻き込まれないための心得～』出版記念オンラインセミナー（資料編） https://note.com/hirono2020kk/n/nfa6ddbcba053
+- (2).	小倉秀夫弁護士の「弁護士特権？」というnote記事に「答えが出ていますね。」という深澤諭史弁護士のX(旧Twitter)ポスト（資料編） https://note.com/hirono2020kk/n/n6104397419bb
+- 日本弁護士連合会提出書面：小倉秀夫弁護士の「弁護士特権？」というnote記事に「答えが出ていますね。」という深澤諭史弁護士のX(旧Twitter)ポスト https://note.com/hirono2020kk/n/n96807a987dc8
+- Windows11の写真ファイルのフォルダ https://note.com/hirono2020kk/n/nd9ef1901e7fe
+- 令和5年11月6日付告発状を金沢弁護士会・金沢地方裁判所刑事部・金沢地方検察庁に提出時の写真記録 https://note.com/hirono2020kk/n/n4bd4dc56beb9
+- 2023年09月28日：金沢地方検察庁から令和5年8月31日付告発状返戻時の写真記録 https://note.com/hirono2020kk/n/ne9bd90a1fceb
+- 令和5年8月3月31日付告発状：能都郵便局で金沢地方検察庁に郵送時の写真記録 https://note.com/hirono2020kk/n/n575b00e93259
+- 令和5年7月7日付告発状の返戻時：2023年7月14日の写真記録30枚 https://note.com/hirono2020kk/n/nc395ce96eda4
+- 令和5年7月7日付告発状：能都郵便局から金沢地方検察庁に郵送したときの記録写真 https://note.com/hirono2020kk/n/nfe85fa8b1ce9
+- 令和5年6月30日付告発状の資料：金沢地方検察庁に提出（2023年6月30日から7月2日）の写真記録（1） https://note.com/hirono2020kk/n/n83612b77770e
+- 令和5年6月30日付告発状の資料：金沢地方検察庁に提出（2023年6月30日から7月2日）の写真記録（2） https://note.com/hirono2020kk/n/ndd7c9b7e88e3
+- 令和5年6月30日付告発状の資料：金沢地方検察庁に提出（2023年6月30日から7月2日）の写真記録（3） https://note.com/hirono2020kk/n/n3def494477c0
+- 令和5年6月30日付告発状の資料：金沢地方検察庁に提出（2023年6月30日から7月2日）の写真記録（4） https://note.com/hirono2020kk/n/ncd9f4c25bfee
+- 令和5年6月30日付告発状の資料：金沢地方検察庁に提出（2023年6月30日から7月2日）の写真記録（5） https://note.com/hirono2020kk/n/n8af14724d5c3
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（1） https://note.com/hirono2020kk/n/nbfa9da40bcee
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（2） https://note.com/hirono2020kk/n/n8816d15ec64a
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（3） https://note.com/hirono2020kk/n/n24b7b9ca6559
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（4） https://note.com/hirono2020kk/n/n8a573dfbd171
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（5） https://note.com/hirono2020kk/n/n6cb677a443e0
+- 令和5年4月27日付再審請求書提出：金沢地方裁判所刑事部と金沢地方検察庁記録係：2023年4月27日から30日の写真記録（6） https://note.com/hirono2020kk/n/n68f13955cc8f
+- noteの記事一覧：2023年11月15日：1033件 https://note.com/hirono2020kk/n/n7ef7f3b30213
+- 深澤諭史弁護士@fukazawasの「真実」をキーワードにしたツイートとX(旧Twitter）ポストの記録 https://note.com/hirono2020kk/n/n00cfe74665de
+- 日本弁護士連合会提出書面：「弁護士の護身術」に関連したX(旧Twitter）ポストの記録（資料編） https://note.com/hirono2020kk/n/n87e27f4ee79f
+- 日本弁護士連合会提出書面：「弁護士の護身術」に関連したX(旧Twitter）ポストの記録 https://note.com/hirono2020kk/n/n458aa2bf7012
+- 深澤諭史弁護士@fukazawasの「逆恨み」をキーワードにしたツイートとX(旧Twitter）ポストの記録（資料編） https://note.com/hirono2020kk/n/n7f575bf3dc8c
+- 日本弁護士連合会提出書面：深澤諭史弁護士@fukazawasの「逆恨み」をキーワードにしたツイートとX(旧Twitter）ポストの記録 https://note.com/hirono2020kk/n/n9e7e2d3ef0df
+- 当該事業による「被害者」の意見だけを聴いて新法を作る/法改正するというのは「ルール作り」の基本↓に反（資料編） https://note.com/hirono2020kk/n/n0e7c6d82c510
+- Windows11でpowershell.exeが存在しないという問題 https://note.com/hirono2020kk/n/ncea9993f4e3d
+- ようやく解決できたWindows11のWSLでのクリップボードから改行削除のコマンド操作 https://note.com/hirono2020kk/n/n827035600da1
+- 　平成9年7月4日の購入になっていたNEC　PC-9821のデスクトップパソコン https://note.com/hirono2020kk/n/nffb5e6835fd3
+- 「（・∀・）自らがっちりと手堅い顧問先、依頼者をホールド」という2月4日の深澤諭史弁護士のツイートの流れ（資料編） https://note.com/hirono2020kk/n/n146c423f10db
+- 2023年11月16日：「デポン先生」「でぽん先生」「でぽんせんせい」「でぽんせ」のまとめ（資料編） https://note.com/hirono2020kk/n/n1836671d7b8c
+- 日本弁護士連合会提出書面：当該事業による「被害者」の意見だけを聴いて新法を作る/法改正するというのは「ルール作り」の基本↓に反 https://note.com/hirono2020kk/n/nebd418f65f67
+- 日本弁護士連合会提出書面：「（・∀・）自らがっちりと手堅い顧問先、依頼者をホールド」という2月4日の深澤諭史弁護士のツイートの流れ https://note.com/hirono2020kk/n/n7740e4bf1717
+- 125_業務日報-005・006／金沢～東京（大田市場）・東京～金沢：平成3年9月9日～11日の運行 https://note.com/hirono2020kk/n/n5abd874c57e3
+- 深澤諭史弁護士のポストを引用に「偉い法学者でも自分たちの利権が絡めばこんなもの」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/n154f84621e32
+- 2023年11月16日、深澤諭史弁護士の「弁護士の護身術」の紹介リポスト https://note.com/hirono2020kk/n/n35e4705aae7e
+- 「不都合な質問から目を背けたり、見ても見なかったふりをせず、ちゃんとお答えください」という深澤諭史弁護士のリポスト（資料編） https://note.com/hirono2020kk/n/nd973bf6e97ea
+- えきなんロー@ekinan_lawyerのX(旧Twitter）タイムラインで見た宝塚歌劇団が潰れるかもしれないという大西洋一弁護士（資料編） https://note.com/hirono2020kk/n/n5a347a1bea5b
+- 2022年4月8日・本件の刑事告発事件の現場や金沢中央卸売市場を視察：写真撮影の記録 https://note.com/hirono2020kk/n/nfb07146f77d3
+- 2021年4月1日・令和3年3月31日付告発状の印刷と能都郵便局からの郵送（写真資料） https://note.com/hirono2020kk/n/nb8f70dcc73f8
+- 「レ・ミゼラブル」のジャン・バルジャンのようにありたい、という福岡から東京への弁護士の事件のニュース https://note.com/hirono2020kk/n/n4e5a13545f48
+- 既得権益・弁護士会のネガティブキャンペーンが乱舞する深澤諭史弁護士のX(旧Twitter）タイムライン（2023年11月17日） https://note.com/hirono2020kk/n/ndca5800c50b4
+- 「ひとごとじゃない、人質司法～体験者が議員会館に結集、公正な司法制度への転換を訴える（江川紹子）」に対する反応の記録 https://note.com/hirono2020kk/n/nb82e96b702ab
+- 袴田事件に関連した主に弁護士・ジャーナリストのX(旧Twitter）ポストを検索して記録・異様に乏しい反応を再確認 https://note.com/hirono2020kk/n/n4be5d1716693
+- 「日弁連が取り調べ拒絶を志向している」　警察に広がる注意喚起：朝日新聞デジタル　←中村元弥弁護士のXで知る https://note.com/hirono2020kk/n/ncaef3cf86163
+- 10月27日で途切れた中村元弥弁護士（日本弁護士連合会副会長）の袴田事件に関するX(旧Twitter）の記録と蛸島事件 https://note.com/hirono2020kk/n/n4d20d2e47348
+- 渡辺輝人弁護士@nabeteru1Q78のX(旧Twitter）タイムラインで知った平裕介弁護士の最高裁原告逆転勝訴のXポスト https://note.com/hirono2020kk/n/nbb7ff16e2421
+- 「ストーカー行為の口実・道具にしたいだけに見える人が大半」という深澤諭史弁護士のリポスト（2023年11月17日） https://note.com/hirono2020kk/n/n2c50fd2037bc
+- 本日の最高裁判決で平裕介弁護士へのジャーナリストの返信ポスト、アカウントの要請でリポストできないという記録 https://note.com/hirono2020kk/n/nc0dcc18fe621
+- #辞めよう国選弁護 というX(旧Twitter）ハッシュタグ https://note.com/hirono2020kk/n/n5f9b151de733
+- 2023-11_証拠資料156_平成18年10月16日付金沢地方検察庁返礼書（写真） https://note.com/hirono2020kk/n/n7ef907ae9eeb
+- もやもやのジャーナリストの江川紹子氏、あまりにも可哀想な離婚事案という紀藤正樹弁護士のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n5dc682c94ca6
+- 性感染症の「陽性」結果、夫同席の場で告知　医師らの賠償責任認める ［神奈川県］：朝日新聞デジタル https://note.com/hirono2020kk/n/n604993cc282a
+- 髙橋裕樹弁護士と紀藤正樹弁護士に共通して感じる情報発信力の強さと商業性、加賀藩金沢と知った武士の家計簿（資料編） https://note.com/hirono2020kk/n/nb700779d6a5c
+- 「単独親権制度だから高葛藤になるとか、監護実績を積むために子連れ別居する」という深澤諭史弁護士のX(旧Twitter）リポスト関連の記録 https://note.com/hirono2020kk/n/n92b6ca8b06ea
+- 髙橋裕樹弁護士のX(旧Twitter）ポストで知った創価学会の池田大作氏死去という歴史的ニュース https://note.com/hirono2020kk/n/n03813766b17f
+- 「弁護士こそが寄生虫として影響力を大きくしている側面が大きく感じ」という紀藤正樹弁護士に送ったX(旧Twitter）返信ポスト https://note.com/hirono2020kk/n/n1a721bbb6bf4
+- 深澤諭史弁護士のX(旧Twitter）タイムラインに出てきた指宿昭一弁護士の「残酷な現実が隠れた展示会」というポストの記録 https://note.com/hirono2020kk/n/n473628d7245b
+- 根元に石川県を舐め腐っている気がする郷原信郎弁護士の馳浩知事批判の記録、愚か者が与えられたエサに飛びついた可能性も https://note.com/hirono2020kk/n/n6e8a42b5399d
+- 「（・∀・）弁護士会は、ひたすら、弁護士にルカナン連発」やロースクールの批判が多い深澤諭史弁護士のX(旧Twitter）タイムライン https://note.com/hirono2020kk/n/n807d851158c2
+- 深澤諭史弁護士の、「弁護士にルカナン連発」に対する「20年後、自治が維持」という返信X(旧Twitter）ポスト https://note.com/hirono2020kk/n/n01d033fcbb64
+- CALL4｜社会課題の解決を目指す“公共訴訟”プラットフォーム『宮本から君へ』助成金不交付決定取消訴訟（資料編） https://note.com/hirono2020kk/n/nb4d62ca979fd
+- Kindle出版の販売状況：スクリーンショットの記録（2023年11月19日の状況） https://note.com/hirono2020kk/n/ndd399e2ca31a
+- Kindle出版：さらば弁護士鉄道／070・069・063・068・067・064・062・061・060・059 https://note.com/hirono2020kk/n/n3ee7e2ef0ef7
+- Windows11でiCloudの写真ファイル名を撮影日時で一括変換 https://note.com/hirono2020kk/n/nbecdfdf8492a
+- Kindle出版：さらば弁護士鉄道／057・058・049・053・054・052・051・013・012・011 https://note.com/hirono2020kk/n/n8af9dec3361a
+- Kindle出版：さらば弁護士鉄道／010・009・001（修正版）・008・007・006・001・002・005・004・003 https://note.com/hirono2020kk/n/n076773927cc3
+- 司法制度への転換の失敗という内田貴東京大学名誉教授に行き着いた深澤諭史弁護士のX(旧Twitter）タイムライン（資料編） https://note.com/hirono2020kk/n/n426e97b16563
+- 「なぜか、我々の方が既得権益の側からのネガティブキャンペーンをする側で、特権意識」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/nd942bc188e79
+- 「林眞琴さんに頼んで、彼がやりやすいメンバーを集めてもらったら？⇒宝塚歌劇団員の死亡」という江川紹子氏のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n0499dc67372d
+- 「馳知事発言、自民からも苦言「ぽろぽろ機密しゃべっちゃいかん」：朝日新聞デジタル」：ジャーナリストの江川紹子氏 https://note.com/hirono2020kk/n/n2fe6fe9c0d54
+- 「満期直前になると検事が一人で朝から夜まで悪戦苦闘というケースが多かった」という市川寛弁護士のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n6e468b1d2fd1
+- 「聖域　取り調べの弁護士立ち会い（全7回）」という朝日新聞デジタルの連載 https://note.com/hirono2020kk/n/n4743cc25bc6b
+- 公開から1年の1日前に視聴した北周士弁護士による趙誠峰弁護士のインタビューYouTube動画 https://note.com/hirono2020kk/n/nc989344390d1
+- 深澤諭史弁護士のX(旧Twitter）タイムラインにリポストで見た戸舘圭之弁護士の「国選報酬が低すぎる問題」 https://note.com/hirono2020kk/n/n5db02cafe7c3
+- 3件連続の同じ国選弁護人のX(旧Twitter）ポスト、続けて発見となった法テラスのジュディケア弁護士 https://note.com/hirono2020kk/n/n7420c64f30e0
+- 「国選　報酬」のX(旧Twitter）検索（2023年11月20日）の記録 https://note.com/hirono2020kk/n/nd73703c9fc56
+- 渡辺輝人弁護士@nabeteru1Q78もリポストしていた「国選報酬が低すぎる問題」の戸舘圭之弁護士のポスト https://note.com/hirono2020kk/n/ndcb152caaf80
+- 刑事告発・再審請求事件の関係機関への電話連絡・通話履歴の一覧（2023年11月20日） https://note.com/hirono2020kk/n/n3be1276aa805
+- 目標金額が200万円で現在の支援総額が21.7万円になっている『宮本から君へ』助成金不交付決定取消訴訟・袴田事件第3回公判 https://note.com/hirono2020kk/n/n6225c8a57557
+- 保坂展人氏の10月27日以降の袴田事件関連と、ジャーナリストの江川紹子氏が語る「人生」のツイート・ポストの記録 https://note.com/hirono2020kk/n/n2e313f0e580e
+- 日本弁護士連合会副会長中村元弥弁護士による北白川@GUv4i6のポストのリポストの記録の巻 https://note.com/hirono2020kk/n/ne0d9ebd76f07
+- 「いや、ふつうにしてますよね。証拠のねつ造。検察だってやってますよね。」という日本弁護士連合会副会長のリポストの衝撃波 https://note.com/hirono2020kk/n/n82ccd50da6dd
+- 「国選や法テラス案件は基本やればやるほど赤字」という平裕介弁護士のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n894aa206a938
+- 「取調べ室を「神聖な場所」とか言い出すの正気とは思えない」という山口貴士弁護士のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n19fba4015aef
+- 「ふつうにしてますよね。証拠のねつ造。検察だってやってますよね」という市川寛弁護士のX(旧Twitter）リポスト https://note.com/hirono2020kk/n/n79e94762c2c9
+- 「検察がこうして庇い続けているのですから、発覚なんかしませんよね」という市川寛弁護士のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/nd548b9c20910
+- 「弁護過誤を避ける５か条（判タ１３２１加藤新太郎判事）」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n2688cd72a33a
+- 「弁護過誤」のX(旧Twitter）検索：2023年11月21日の記録 https://note.com/hirono2020kk/n/nafabdb55285e
+- 「（・∀・）一般民事（町弁）案件の経験って、意外なほど、企業法務で役に立ち」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/n1bdf74860196
+- 疑わしきは…の原則どこに　周防正行監督が司法に抱いた三つの驚き：朝日新聞デジタル https://note.com/hirono2020kk/n/n1cd37bbbd623
+- 「そういう事件だけ受任して、万全の執務体制他を維持する経費をまかなうことですお」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/n81fdc81d0338
+- 「私の職務上の目標は、一人でも多くの弁護士が安心して幸せに執務できる業界を作ることですお！」という深澤諭史弁護士のXポスト https://note.com/hirono2020kk/n/nb9b95fa80db6
+- 「国選弁護報酬について本気出して考えてみた - 刑裁サイ太のゴ３ネタブログ」という深澤諭史弁護士のXリポストの記録 https://note.com/hirono2020kk/n/n816e6ebee3e2
+- 「裁判官や相手方のみならず、依頼者や弁護士会からも身を守ら・・・ブラック事務局」という深澤諭史弁護士のXリポスト https://note.com/hirono2020kk/n/ne15cd3481157
+- 「懲戒請求は法務省にして弁護士会が会員の弁護に回る方が良いのではないかと思う」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n59504fbb691f
+- 袴田事件の再審第3回公判のネット上の新聞とは強烈に違いを感じる報道の記録、とりわけ中日新聞疑問・検察批判だけが獲物なのか？ https://note.com/hirono2020kk/n/n0b8bc53c5ee3
+- 「（・∀・）立場上、答え合わせの情報をもって、当事者の発言を読むことがかなり多い」という深澤諭史弁護士のXリポスト https://note.com/hirono2020kk/n/n31878067e968
+- 「弁護過誤やらかしてからの5ヶ条」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/n92012f598a39
+- 「弁護過誤を避けるのに五箇条もいらない。めんどくせぇやつを排除する」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/ndfb47b5434f6
+- 「性加害、性犯罪に泣き寝入りしない強い社会への入り口を開いてくれました」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/nbc36c963c40c
+- 「泣き寝入り」をキーワードにした深澤諭史弁護士（第二東京弁護士会）のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/ne7d98b978339
+- LinuxでGitHubリポジトリの更新を取得：2023年11月22日 https://note.com/hirono2020kk/n/n11d6770842d5
+- 「依頼者には、事件の前後に自分の人生があるってことを看過」という深澤諭史弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n01292966dffc
+- 2023年11月22日11時51分47秒の記録＿Linuxで記録資料のnote記事を作成する工程 - YouTube https://note.com/hirono2020kk/n/n3e1277ced978
+- LinuxのImageMagickでPNGのスマホの画像ファイルをjpg画像に変換しファイルサイズを小さくする https://note.com/hirono2020kk/n/nc434189f8ccd
+- 能登町役場からの立山連峰→コインランドリーの本→宇出津新港からの立山連峰の写真30枚（１） https://note.com/hirono2020kk/n/ne380cc1189a0
+- 能登町役場からの立山連峰→コインランドリーの本→宇出津新港からの立山連峰の写真30枚（2） https://note.com/hirono2020kk/n/n0f8fdfbd67cd
+- 能登町役場からの立山連峰→コインランドリーの本→宇出津新港からの立山連峰の写真2枚（3） https://note.com/hirono2020kk/n/n550d338c63f2
+- 「やっぱり不同意性交の議論のときに「性交同意書を作ればいいんじゃない？笑」」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/n86da2d5cb757
+- 「弁護士の通常業務内容です。」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/ne4de0fb17708
+- 2023年11月22日20時33分40秒の記録＿Linuxでのプログラムを使ったスクリーンショットの作成とnote記事編集への貼り付け作業 - YouTube https://note.com/hirono2020kk/n/n0e8e3f9b4b09
+- 「弁護士業界が成長産業だというのなら、理事を務めてらっしゃるlaw未来の会」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/n4269f2060a7a
+- 「深澤諭史先生（@fukazawas ）が執筆された「弁護士の護身術」（第一法規）」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/nc8036f3dbd7f
+- 「おれはモラ夫じゃない！あいつはうそつきだ！！」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/n58681d37f413
+- 2023年11月22日22時52分45秒の記録＿LinuxでMacbookに遠隔ログインしnoteのデータベースを更新 - YouTube https://note.com/hirono2020kk/n/n661cf010009a
+- 「真実」をキーワードにした深澤諭史弁護士（第二東京弁護士会）のX(旧Twitter）ポスト https://note.com/hirono2020kk/n/ndf85076c9aef
+- 「"かけがえのない人生を生きる"」をキーワードにしたX（旧Twitter）検索 https://note.com/hirono2020kk/n/nea3f50b20d88
+- 11月20日の袴田事件再審第3回公判・争点の「5点の衣類」に関連した報道状況をGoogleで検索（スクリーンショット30点） https://note.com/hirono2020kk/n/n715c9d4debb7
+- 「冤罪ごり押し…恐ろしい」検察に吹き荒れる逆風　袴田さん再審で有罪立証するのは結局「メンツ」のため？：東京新聞 TOKYO Web https://note.com/hirono2020kk/n/n4ae98ad3f96f
+- 「こういうデマをまき散らす人が出てくるので、オウム事件のすべての刑事裁判記録を永久保存」（江川紹子）X（旧Twitter）ポスト https://note.com/hirono2020kk/n/ne93754913f7d
+- 「スポーツ紙のコタツ記事は、なんとかならないか。」というジャーナリストの江川紹子氏のX（旧Twitter）Xタイムライン関連ポスト https://note.com/hirono2020kk/n/n1a549ca18c25
+- ジャーナリストの江川紹子氏のX（旧Twitter）Xタイムラインで知った北海道警察本部の訴訟費用375万3，500円というポスト https://note.com/hirono2020kk/n/nc7b62f7e3aef
+- 「馳浩・石川県知事「ブログの内容は事実」　五輪招致の機密費発言」というジャーナリストの江川紹子氏のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n1f41d0bfc3ac
+- Linuxでnoteの記事作成作業：スクリーンショットのファイル作成直後にクリップボードに画像をコピーするように修正 https://note.com/hirono2020kk/n/nd1f837d5dd1a
+- xclipコマンドを使って画像ファイルをクリップボードに保存する方法を発見と、被告発人木梨松嗣弁護士の弁護士会照会 https://note.com/hirono2020kk/n/n8574606f5ffb
+- 2023-11_証拠資料／157_甲号証（四）　平成04年09月22日付　弁護士照会（石川県立中央病院）　被告発人木梨松嗣弁護士から金沢弁護士会 https://note.com/hirono2020kk/n/n92f7e22998f4
+- 2023-11_証拠資料／158_甲号証（四）　平成04年10月08日付　弁護士照会（加賀八幡温泉病院）　被告発人木梨松嗣弁護士から金沢弁護士会 https://note.com/hirono2020kk/n/n45de4465c97b
+- 「全国１６２の地方議会で速やかな再審法の改正を求める意見書が可決」という中村元弥弁護士のX（旧Twitter）Xタイムラインで知った記事 https://note.com/hirono2020kk/n/n1ba7025e254f
+- 「破産の依頼者、ほぼ全員鬱。破産というシチュエーション自体、強い引金」という深澤諭史弁護士のX（旧Twitter）リポスト https://note.com/hirono2020kk/n/n688881c2ae81
+- 退官前に無罪判決を連発した福崎伸一郎弁護士について調べていたら、カンテレで『エルピス-希望、あるいは災い-』につながった https://note.com/hirono2020kk/n/n59e129c36971
+- 深澤諭史弁護士のX（旧Twitter）Xタイムラインでずいぶん久しぶりに見かけた畑中鐵丸弁護士のポスト https://note.com/hirono2020kk/n/n68ae23cb4251
+- 渡辺輝人弁護士（京都弁護士会）@nabeteru1Q78の袴田事件に関したX（旧Twitter）ツイート・ポストの記録 https://note.com/hirono2020kk/n/n42cd578c8f25
+- ”裁判員”をキーワードにした深澤諭史弁護士（第二東京弁護士会）のX（旧Twitter）ツイート・ポストの検索からの記録 https://note.com/hirono2020kk/n/n355abb9ab0ab
+- 病院には盲腸手術を自分でやって失敗、法律事務所には似たような状況の人がしょっちゅう来る、というツイートの記録（1-30） https://note.com/hirono2020kk/n/n5cc9736028ae
+- 病院には盲腸手術を自分でやって失敗、法律事務所には似たような状況の人がしょっちゅう来る、というツイートの記録（31-60） https://note.com/hirono2020kk/n/nc26bdb8dc30d
+- 「病院には，「俺，医療には詳しいんで，それで盲腸手術なんか簡単なんでしょ？」という深澤諭史弁護士のX（旧Twitter）ツイートの記録 https://note.com/hirono2020kk/n/n2955ed972c58
+- 1997-04-10発送まで_上申書（重複分）944〜2044ページのファイル一覧 https://note.com/hirono2020kk/n/n4dd2ebf0a0e7
+- 1997-04-10発送まで_上申書（重複分）944〜2044ページのファイル一覧（コード編） https://note.com/hirono2020kk/n/n272246986737
+- 2023-11-24_161747_金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り.jpg https://note.com/hirono2020kk/n/n922774f5e7a5
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：944-972 https://note.com/hirono2020kk/n/n9cb19c641341
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：973-1002 https://note.com/hirono2020kk/n/nb44bd7e8e2de
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：1003-1032 https://note.com/hirono2020kk/n/n9931295e9786
+- 「（・∀・）新刊「弁護士の護身術」には、テレビ局にリアルカイジみたいなイベントに誘われた時のエピソード」という深澤諭史弁護士のXタイムライン https://note.com/hirono2020kk/n/n141ad68804fd
+- 「病んだり自死とか、横領成仏とか、普通にいるから。弁護士を数年やってれば、そんな知人友人の２人や３人はいるでしょう？」というXポスト https://note.com/hirono2020kk/n/ndb71b79d6a2c
+- 「スタマン先生は前も言ったかもだけど、現代蟹工船みたいな仕事場を渡り歩いてきたんだ！」というX（旧Twitter）ポスト関連 https://note.com/hirono2020kk/n/n14def433a652
+- 「ご高名なスラ弁先生にコメントをつけていただき大変光栄に思います。」というX（旧Twitter）ポスト関連 https://note.com/hirono2020kk/n/n155f3709074f
+- 「弁護士が合理的な利潤を確保して安定した事務所経営をするには運もあるが営業と役務提供の質が重要だと」という高橋雄一郎弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n2833358f94aa
+- 「こういう知事の姿を見て、石川県民の皆さんは、どう思われているのでしょう。」という郷原信郎弁護士のX（旧Twitter）ポストの記録 https://note.com/hirono2020kk/n/n9557decf19ab
+- 袴田事件に関連した郷原信郎弁護士のX（旧Twitter）ツイート・ポストの検索の記録 https://note.com/hirono2020kk/n/ncc31adf1ed48
+- 馳浩石川県知事の問題について「うっかり見落とさないよう、録画しておこうっと。」というジャーナリストの江川紹子氏のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n77c4274d9f65
+- 「はい。少年事件の記録がごっそり廃棄されていました。それ以外にも重要な事件なのに記録が捨てられてケースも」という江川紹子氏のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n0dcf6268cdda
+- 取調室を神聖な場所の記事に対し、「これじゃ冤罪なくならないわ」という亀石倫子弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/ne60900ecbc30
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：1033-1062 https://note.com/hirono2020kk/n/n6ee31db42ec1
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：1063-1092 https://note.com/hirono2020kk/n/n96c669569ec0
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：1093-1122 https://note.com/hirono2020kk/n/n026681fd6e75
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り：1123-1152 https://note.com/hirono2020kk/n/n191f50a183e4
+- #さようなら法テラス #辞めよう国選弁護 という関連X（旧Twitter）ポストの記録 https://note.com/hirono2020kk/n/n46380058f139
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1153-1182 https://note.com/hirono2020kk/n/nc6fd1cefd927
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1183-1212 https://note.com/hirono2020kk/n/n8fd6025d28de
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1213-1242 https://note.com/hirono2020kk/n/n9d5e8ebdcdf2
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1243-1272 https://note.com/hirono2020kk/n/nce1b6e939f23
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1273-1302 https://note.com/hirono2020kk/n/n696982bff741
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1303-1332 https://note.com/hirono2020kk/n/n84f4840f7b6d
+- 2023-11_証拠資料/159_金沢地方裁判所民事部　上申書重複分（0944〜1358）の綴り1333-1358 https://note.com/hirono2020kk/n/n2b5013d42a9a
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1359-1388 https://note.com/hirono2020kk/n/n759e452860b5
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1389-1418 https://note.com/hirono2020kk/n/nef8368ad4b55
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1419-1448 https://note.com/hirono2020kk/n/n93e4ecf6fda3
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1449-1478 https://note.com/hirono2020kk/n/n2e2a54dbecf0
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1479-1509 https://note.com/hirono2020kk/n/n88db7ab4a822
+- 2023-11_証拠資料/160_H07-02-23_これより平成07年02月23日発送分　金沢地方裁判所民事部　上申書重複分（1359〜1522）の綴り_1510-1522 https://note.com/hirono2020kk/n/n1df937a12233
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1839-1868 https://note.com/hirono2020kk/n/n8cbc525f3452
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1869-1898 https://note.com/hirono2020kk/n/n14d6e81451ad
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1899-1928 https://note.com/hirono2020kk/n/n9268a00fd550
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1929-1958 https://note.com/hirono2020kk/n/n74c842b63cc9
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1959-1988 https://note.com/hirono2020kk/n/n343843c8794a
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_1989-2018 https://note.com/hirono2020kk/n/n86668df2a2e5
+- 2023-11_証拠資料/161_これより平成07年04月10日発送分　金沢地方裁判所民事部　上申書重複分（1839〜2044）の綴り_2019-2044 https://note.com/hirono2020kk/n/n2d4eef7cf76d
+- 「法テラス案件は、糞みたいに安いだけではなく、基本的に困難依頼者ばかりなんで事務局のメンタル負担も」というX（旧Twitter）ポスト https://note.com/hirono2020kk/n/ndaabc033243d
+- 「どう考えたって加害者はホストなのに、なぜか買って金をくれてやってる男を加害者扱いしてるのよな」という深澤諭史弁護士のリポスト https://note.com/hirono2020kk/n/nab134afae3e5
+- 「（；＾ω＾）でも、国選報酬を始め、法テラスの弁護士報酬は、物価の優等生どころか」という深澤諭史弁護士のX（旧Twitter）ポスト https://note.com/hirono2020kk/n/n44af264f8ccf
+- GitHubで「fatal: bad object HEAD」という見たことのない問題が発生 https://note.com/hirono2020kk/n/ne816ace5ce49
+- MacbookのGitHubでも問題発生したので記録 https://note.com/hirono2020kk/n/naa8f931917be
+- 問題なかったWindows11のGitHub https://note.com/hirono2020kk/n/n8e580beccd69
+- MacbookでGitHubリポジトリの作り直し https://note.com/hirono2020kk/n/n310f46c6e89f
+- 「刑事弁護を他士業に解禁した場合、弁護過誤が多発で使いものにならないだろう」というX(旧Twitter）ポスト https://note.com/hirono2020kk/n/nccc26b125df2
+- 「弁護士などのプロに対応を相談し、それによって自分たちの生活を守るという道もあったのではないか」というジャーナリストの江川紹子氏 https://note.com/hirono2020kk/n/ne08e357f467b
+- Windows11のログオン、シャットダウンの日時を確認 https://note.com/hirono2020kk/n/n0f06c8f18822
